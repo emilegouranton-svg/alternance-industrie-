@@ -1,0 +1,58 @@
+# Secteurs suivis par le script fetch_offres.py
+# Chaque secteur = un ou plusieurs codes ROME interrogés groupés (séparés par des virgules)
+# lors de l'appel à l'API La Bonne Alternance.
+#
+# Codes ROME vérifiés sur les fiches officielles France Travail (juillet 2026).
+
+sectors:
+  - id: industrie_scientifique
+    label: "Industrie scientifique / R&D"
+    romes: [H1503, H1206]
+    diploma_levels: ["5", "6", "7"]
+    job_titles_reference:
+      - Technicien recherche et développement
+      - Assistant ingénieur R&D
+      - Technicien d'essais industriels
+      - Technicien de laboratoire industriel
+      - Assistant chef de projet innovation
+      - Technicien méthodes R&D
+      - Chargé d'études techniques junior
+
+  - id: maintenance_industrielle
+    label: "Maintenance industrielle"
+    romes: [I1310, I1304, I1309]
+    diploma_levels: ["3", "4", "5"]
+    job_titles_reference:
+      - Technicien de maintenance industrielle
+      - Technicien de maintenance électromécanique
+      - Technicien d'entretien industriel
+      - Alternant maintenance industrielle
+      - Agent de maintenance
+      - Électrotechnicien maintenance
+      - Technicien maintenance mécanique
+
+  - id: methode
+    label: "Méthodes / Industrialisation"
+    romes: [H1404, H1402]
+    diploma_levels: ["4", "5", "6", "7"]
+    job_titles_reference:
+      - Technicien méthodes
+      - Technicien industrialisation
+      - Assistant méthodes process
+      - Technicien amélioration continue
+      - Chargé de projet méthodes
+      - Ingénieur méthodes junior
+      - Technicien méthodes produit process
+
+  - id: supply_chain
+    label: "Supply Chain"
+    romes: [N1303, N1301]
+    diploma_levels: ["4", "5", "6", "7"]
+    job_titles_reference:
+      - Technicien logistique
+      - Assistant supply chain
+      - Technicien approvisionnement
+      - Assistant planification production
+      - Technicien exploitation logistique
+      - Chargé de supply chain junior
+      - Technicien ordonnancement lancement

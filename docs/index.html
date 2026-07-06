@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alternance Industrie — Offres en méthode, maintenance, supply chain &amp; R&amp;D</title>
+<meta name="description" content="Suivi quotidien des offres d'alternance en industrie scientifique, maintenance industrielle, méthodes et supply chain.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <h1>Alternance Industrie</h1>
+    </div>
+    <p class="tagline">Offres d'alternance en industrie scientifique, maintenance, méthodes &amp; supply chain — mises à jour chaque jour.</p>
+    <p class="updated-at" id="updated-at"></p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="filters" aria-label="Filtres">
+    <div class="filter-group">
+      <label for="filter-sector">Secteur</label>
+      <select id="filter-sector">
+        <option value="">Tous les secteurs</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-diploma">Niveau de diplôme</label>
+      <select id="filter-diploma">
+        <option value="">Tous les niveaux</option>
+      </select>
+    </div>
+
+    <div class="filter-group filter-search">
+      <label for="filter-text">Recherche</label>
+      <input type="text" id="filter-text" placeholder="Intitulé, entreprise, mot-clé…">
+    </div>
+  </section>
+
+  <p class="results-count" id="results-count"></p>
+
+  <section id="offers-list" class="offers-list" aria-live="polite">
+    <!-- Cartes générées par script.js -->
+  </section>
+
+  <p class="empty-state" id="empty-state" hidden>Aucune offre ne correspond à ces filtres pour le moment.</p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Données publiques issues de <a href="https://api.apprentissage.beta.gouv.fr" target="_blank" rel="noopener">La Bonne Alternance</a> (api.apprentissage.beta.gouv.fr). Synchronisation automatique quotidienne via GitHub Actions.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
