@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T08:37:42.436169+00:00",
+  "generated_at": "2026-07-10T08:24:08.160368+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -1962,7 +1962,7 @@
       "id": "69efdc74639f9708605036c6",
       "partner_label": "PASS",
       "title": "Master Physique fondamentale et applications Engineering physics &amp; advanced photonics technologies (E-PhoT)",
-      "description": "<p>Dans le cadre du projet PAMES, inscrit dans le nouveau programme PEPR Initiative Packaging (France 2030), l'institut FEMTO-ST recrutera l'apprenti-e pour une durée de 24 mois sur le développement des interposeurs adaptés au packaging de dispositifs MEMS.</p><p>Les objectifs de la mission confiée à l’apprenti(e) s'inscrivent dans le cadre d’un projet entre les partenaires académiques (FEMTO-ST, IEMN) et industriel (ONERA). Cette collaboration est focalisée sur le développement et la mise en place d'une filière technologique nationale sur le packaging des composants à hautes valeurs ajoutées (capteurs, microsystèmes) qui fonctionne dans les environnements sévères.</p><p>En particulier, l’utilisation de dispositifs de type Micro-Opto-Electro-Mechanical Systems (MOEMS) à performances élevés dans les applications aérospatiales (exemple micromiroirs pour télescopes astronomiques) exige leur tenue en environnements sévères. Les solutions innovantes du packaging sont nécessaires afin de protéger ces composants contre des vibrations, des chocs mécaniques, des fortes variations thermiques et les radiations. Les interposeurs sont des substrats hétérogènes spécifiques qui jouent un rôle clef entre le composant et son boitier par un découplage multiphysique vis-à-vis de l'environnement extérieur.</p><p>Dans ce contexte, l'objectif général de l’alternance est d’acquérir les connaissances et compétences pratiques afin de fabriquer un interposeur fonctionnel en utilisant les technologies de microfabrication disponibles dans la Centrale de Micro/Nano Technologie (salle blanche MIMENTO) de l'institut FEMTO-ST. L'interposeur sera adapté au dispositif MEMS existant - une matrice de micromiroirs de type MOEMS, développée par le Laboratoire d'Astrophysique de Marseille LAM en collaboration avec FEMTO-ST.</p><p> </p><p>L'apprenti aura quatre missions principales :</p><p>1. Analyser et comprendre les effets thermomécaniques de l'environnement spatial (vide, températures cryogéniques) et leur impact sur le fonctionnement du composant MEMS.</p><p>2. Contribuer à la conception de l'interposeur en collaboration avec les partenaires du projet : choix de l'architecture générale et vérification du concept retenu par des modélisations numériques multiphysiques.</p><p>3. Participer à la fabrication de l'interposeur (démonstrateur), à travers la conception d'un diagramme de flux du procédé de fabrication (flowchart), la conception des masques et la réalisation des étapes technologiques nécessaires sur des wafers de silicium (photolithographie, dépôt de couches minces, gravure humide et sèche, etc.).</p><p>4. Participer à l'intégration du composant MEMS sur l'interposeur fabriqué, ainsi qu'à la caractérisation mécanique et opto-thermique cryogénique du dispositif assembl�� à l'aide de bancs de test disponibles à FEMTO-ST et LAM.</p><p>L'apprenti intégrera le personnel de la centrale MIMENTO de l'Institut FEMTO-ST à Besançon. Il sera encadré par deux ingénieurs (IE et IR) de la centrale et travaillera en étroite collaboration avec l'équipe technique de MIMENTO. Il recevra l’ensemble des formations sur l'utilisation des équipements des outils de simulations nécessaires ainsi qu’un accompagnement technique permanent, en plus d’un encadrement lui permettant d’acquérir des compétences méthodologiques de suivi de projet et d’appréhender les enjeux éthiques de la démarche scientifique <br /> </p>",
+      "description": "<p>Dans le cadre du projet PAMES, inscrit dans le nouveau programme PEPR Initiative Packaging (France 2030), l'institut FEMTO-ST recrutera l'apprenti-e pour une durée de 24 mois sur le développement des interposeurs adaptés au packaging de dispositifs MEMS.</p><p>Les objectifs de la mission confiée à l’apprenti(e) s'inscrivent dans le cadre d’un projet entre les partenaires académiques (FEMTO-ST, IEMN) et industriel (ONERA). Cette collaboration est focalisée sur le développement et la mise en place d'une filière technologique nationale sur le packaging des composants à hautes valeurs ajoutées (capteurs, microsystèmes) qui fonctionne dans les environnements sévères.</p><p>En particulier, l’utilisation de dispositifs de type Micro-Opto-Electro-Mechanical Systems (MOEMS) à performances élevés dans les applications aérospatiales (exemple micromiroirs pour télescopes astronomiques) exige leur tenue en environnements sévères. Les solutions innovantes du packaging sont nécessaires afin de protéger ces composants contre des vibrations, des chocs mécaniques, des fortes variations thermiques et les radiations. Les interposeurs sont des substrats hétérogènes spécifiques qui jouent un rôle clef entre le composant et son boitier par un découplage multiphysique vis-à-vis de l'environnement extérieur.</p><p>Dans ce contexte, l'objectif général de l’alternance est d’acquérir les connaissances et compétences pratiques afin de fabriquer un interposeur fonctionnel en utilisant les technologies de microfabrication disponibles dans la Centrale de Micro/Nano Technologie (salle blanche MIMENTO) de l'institut FEMTO-ST. L'interposeur sera adapté au dispositif MEMS existant - une matrice de micromiroirs de type MOEMS, développée par le Laboratoire d'Astrophysique de Marseille LAM en collaboration avec FEMTO-ST.</p><p> </p><p>L'apprenti aura quatre missions principales :</p><p>1. Analyser et comprendre les effets thermomécaniques de l'environnement spatial (vide, températures cryogéniques) et leur impact sur le fonctionnement du composant MEMS.</p><p>2. Contribuer à la conception de l'interposeur en collaboration avec les partenaires du projet : choix de l'architecture générale et vérification du concept retenu par des modélisations numériques multiphysiques.</p><p>3. Participer à la fabrication de l'interposeur (démonstrateur), à travers la conception d'un diagramme de flux du procédé de fabrication (flowchart), la conception des masques et la réalisation des étapes technologiques nécessaires sur des wafers de silicium (photolithographie, dépôt de couches minces, gravure humide et sèche, etc.).</p><p>4. Participer à l'intégration du composant MEMS sur l'interposeur fabriqué, ainsi qu'à la caractérisation mécanique et opto-thermique cryogénique du dispositif assemblé à l'aide de bancs de test disponibles à FEMTO-ST et LAM.</p><p>L'apprenti intégrera le personnel de la centrale MIMENTO de l'Institut FEMTO-ST à Besançon. Il sera encadré par deux ingénieurs (IE et IR) de la centrale et travaillera en étroite collaboration avec l'équipe technique de MIMENTO. Il recevra l’ensemble des formations sur l'utilisation des équipements des outils de simulations nécessaires ainsi qu’un accompagnement technique permanent, en plus d’un encadrement lui permettant d’acquérir des compétences méthodologiques de suivi de projet et d’appréhender les enjeux éthiques de la démarche scientifique <br /> </p>",
       "target_diploma": {
         "european": "7",
         "label": "Master, titre ingénieur, grande école (Bac+5)"
@@ -4187,7 +4187,7 @@
     {
       "id": "6a3c5c4f49326ae930598a97",
       "partner_label": "France Travail",
-      "title": "Devenez Mécanicien Machines Tournantes ou Mécanicien Robinet (H/F)",
+      "title": "Devenez Mécanicien Machines Tournantes ou Robinetier (H/F)",
       "description": "Fouré Lagadec vous forme au métier de Mécanicien Machines Tournantes (4 postes) ou Mécanicien Robinetier (2 postes) par le biais d'une Préparation Opérationnelle à l'Emploi de 15 jours suivie d'un contrat en alternance de 9 mois qui débouchera sur l'obtention d'une certification et un CDI.\nPostes basés à DONGES et périodes de formation au HAVRE (déplacements et hébergemnet pris en charge + Prime de panier).\n\nDans le cadre de ce contrat, vous serez formé(e) selon le Poste de MECANICIEN SUR MACHINE TOURNANTE :\nMécanique des flux\nSerrage\nMétrologie\nMathématiques et Géométrie\nCotations fonctionnelles\nLecture de plans\nAnalyses vibratoires\nFonctionnement et maintenance de la pompe centrifuge et du compresseur alternatif\n\nOU bien sur le poste de MECANICIEN EN ROBINETTERIE :\nSécurité\nCompétences transverses\nMétrologie\nLecture de plan\nTechnologie générale\nTechnologie des robinets +démontage pratique\nInterventions sur robinets + travaux pratiques\nEtanchéité des assemblages boulonnés\nAccompagnement individualisé\nHabilitations\n\nLa Préparation Opérationnelle à l'Emploi débutera mi-Septembre et le contrat en alternance début octobre 2026.\n\nIl s'agit d'un recrutement SANS CV, c'est à dire ouvert à toutes et tous sans condition de diplôme ou d'expérience.\n\nLes prérequis sont : Savoir lire, écrire et compter en français.\n+ Un casier judiciaire vierge (pour travailler sur site, pétrochimiques)\nLe permis B est souhaitable pour accéder à la Raffinerie mais pas impératif.\n\n***Vous serez recruté.e par l'intermédiaire de la méthode de recrutement par simulation (MRS) en réalisant des exercices de mises en situation***\n\nPour vous inscrire à la réunion de présentation de l'entreprise et de la formation qui aura lieu sur le 21 juillet au matin, vous devez obligatoirement contacter le service MRS au 02 40 01 86 00.\nA ce N°, si nous ne sommes pas disponibles, votre numéro sera automatiquement enregistré afin que nous puissions vous recontacter dans les plus brefs délais.",
       "target_diploma": null,
       "rome_codes": [
@@ -9359,7 +9359,7 @@
       "id": "6a3f013fd78c2c043467c2ea",
       "partner_label": "Meteojob",
       "title": "Alternance Technicien Méthodes H/F",
-      "description": "<p>Découvrez SOCIETE GIRBAU ROBOTICS, un acteur innovant et ambitieux dans le domaine de l'industrie robotisée, implanté à Grésy-sur-Aix dans un cadre dynamique et inspirant. Spécialisée dans la conception et l'intégration de solutions robotiques de pointe, notre entreprise se distingue par son expertise technique et son engagement constant envers l'excellence opérationnelle. Nous concevons des systèmes intelligents pour optimiser les processus industriels, en alliant performance, fiabilité et innovation. Rejoindre notre équipe, c'est contribuer à des projets qui red��finissent les standards de l'industrie 4.0. Nous valorisons les talents qui partagent notre vision : innover pour transformer les défis industriels en opportunités concrètes. Avec des locaux modernes et une culture d'entreprise collaborative, nous offrons un environnement où votre créativité et votre rigueur technique seront pleinement exploitées. En choisissant SOCIETE GIRBAU ROBOTICS, vous intégrez une structure à l'écoute de ses collaborateurs, où chaque voix compte et où l'apprentissage continu est au cœur de notre démarche. Nous croyons en l'humain autant qu'en la technologie, et c'est cette alchimie qui fait de notre entreprise un lieu unique pour grandir professionnellement et humainement.</p> <p>Vous souhaitez vous immerger dans l'univers passionnant de l'industrie robotisée tout en acquérant une expérience concrète et enrichissante ? SOCIETE GIRBAU ROBOTICS vous propose une alternance en tant que Technicien Méthodes, un poste clé pour participer activement à l'optimisation de nos processus industriels. En tant que Technicien Méthodes, vous serez au cœur de l'action, où vous contribuerez à l'amélioration continue de nos lignes de production. Vos missions seront variées et stimulantes : vous participerez à la fabrication de modes opératoires, en concevant des procédures claires et efficaces pour nos équipes. Vous serez également impliqué dans l'étude et la recherche de gains de productivité, en analysant les flux de production et en proposant des optimisations pour réduire les temps et les coûts. Votre rôle inclura également la définition de procédures précises, notamment en ce qui concerne l'utilisation des outillages et les contrôles qualité. Vous travaillerez en étroite collaboration avec les équipes de production et les ingénieurs pour identifier les axes d'amélioration technique des lignes de montage. Enfin, vous aurez l'opportunité de participer à l'étude et à la réalisation d'outillages innovants, en apportant votre expertise technique pour renforcer l'efficacité de nos installations. Ce poste est idéal pour développer votre polyvalence, votre esprit d'analyse et votre capacité à proposer des solutions concrètes dans un environnement industriel en constante évolution.</p> <p>Pour intégrer notre équipe en tant que Technicien Méthodes en alternance, nous recherchons un profil motivé et rigoureux, titulaire d'un BTS, DUT ou BUT dans les domaines techniques ou industriels. Votre curiosité et votre appétence pour les défis technologiques seront des atouts majeurs pour réussir dans ce poste. Nous attendons de vous une solide capacité d'analyse, afin de déceler les opportunités d'amélioration dans nos processus. Votre rigueur et votre méthodologie seront essentielles pour concevoir des procédures claires et fiables, tout en respectant les normes de qualité et de sécurité en vigueur. Une bonne maîtrise des outils bureautiques et des logiciels de CAO/DAO (comme SolidWorks, AutoCAD ou Capella) serait un plus, bien que non obligatoire. Votre esprit d'équipe sera un atout précieux, car vous serez amené à collaborer avec des profils variés, des opérateurs de production aux ingénieurs. Nous recherchons également un candidat capable de communiquer efficacement, que ce soit pour présenter vos propositions d'amélioration ou pour échanger avec les différents services de l'entreprise. Enfin, votre sens de l'organisation et votre capacité à gérer plusieurs projets en parallèle seront déterminants pour assurer la réussite de vos missions. Si vous êtes passionné par l'industrie et par l'innovation, et que vous souhaitez contribuer activement à l'amélioration de nos processus, alors ce poste est fait pour vous !</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien méthodes (H/F)\r\n\r\nTemps Plein",
+      "description": "<p>Découvrez SOCIETE GIRBAU ROBOTICS, un acteur innovant et ambitieux dans le domaine de l'industrie robotisée, implanté à Grésy-sur-Aix dans un cadre dynamique et inspirant. Spécialisée dans la conception et l'intégration de solutions robotiques de pointe, notre entreprise se distingue par son expertise technique et son engagement constant envers l'excellence opérationnelle. Nous concevons des systèmes intelligents pour optimiser les processus industriels, en alliant performance, fiabilité et innovation. Rejoindre notre équipe, c'est contribuer à des projets qui redéfinissent les standards de l'industrie 4.0. Nous valorisons les talents qui partagent notre vision : innover pour transformer les défis industriels en opportunités concrètes. Avec des locaux modernes et une culture d'entreprise collaborative, nous offrons un environnement où votre créativité et votre rigueur technique seront pleinement exploitées. En choisissant SOCIETE GIRBAU ROBOTICS, vous intégrez une structure à l'écoute de ses collaborateurs, où chaque voix compte et où l'apprentissage continu est au cœur de notre démarche. Nous croyons en l'humain autant qu'en la technologie, et c'est cette alchimie qui fait de notre entreprise un lieu unique pour grandir professionnellement et humainement.</p> <p>Vous souhaitez vous immerger dans l'univers passionnant de l'industrie robotisée tout en acquérant une expérience concrète et enrichissante ? SOCIETE GIRBAU ROBOTICS vous propose une alternance en tant que Technicien Méthodes, un poste clé pour participer activement à l'optimisation de nos processus industriels. En tant que Technicien Méthodes, vous serez au cœur de l'action, où vous contribuerez à l'amélioration continue de nos lignes de production. Vos missions seront variées et stimulantes : vous participerez à la fabrication de modes opératoires, en concevant des procédures claires et efficaces pour nos équipes. Vous serez également impliqué dans l'étude et la recherche de gains de productivité, en analysant les flux de production et en proposant des optimisations pour réduire les temps et les coûts. Votre rôle inclura également la définition de procédures précises, notamment en ce qui concerne l'utilisation des outillages et les contrôles qualité. Vous travaillerez en étroite collaboration avec les équipes de production et les ingénieurs pour identifier les axes d'amélioration technique des lignes de montage. Enfin, vous aurez l'opportunité de participer à l'étude et à la réalisation d'outillages innovants, en apportant votre expertise technique pour renforcer l'efficacité de nos installations. Ce poste est idéal pour développer votre polyvalence, votre esprit d'analyse et votre capacité à proposer des solutions concrètes dans un environnement industriel en constante évolution.</p> <p>Pour intégrer notre équipe en tant que Technicien Méthodes en alternance, nous recherchons un profil motivé et rigoureux, titulaire d'un BTS, DUT ou BUT dans les domaines techniques ou industriels. Votre curiosité et votre appétence pour les défis technologiques seront des atouts majeurs pour réussir dans ce poste. Nous attendons de vous une solide capacité d'analyse, afin de déceler les opportunités d'amélioration dans nos processus. Votre rigueur et votre méthodologie seront essentielles pour concevoir des procédures claires et fiables, tout en respectant les normes de qualité et de sécurité en vigueur. Une bonne maîtrise des outils bureautiques et des logiciels de CAO/DAO (comme SolidWorks, AutoCAD ou Capella) serait un plus, bien que non obligatoire. Votre esprit d'équipe sera un atout précieux, car vous serez amené à collaborer avec des profils variés, des opérateurs de production aux ingénieurs. Nous recherchons également un candidat capable de communiquer efficacement, que ce soit pour présenter vos propositions d'amélioration ou pour échanger avec les différents services de l'entreprise. Enfin, votre sens de l'organisation et votre capacité à gérer plusieurs projets en parallèle seront déterminants pour assurer la réussite de vos missions. Si vous êtes passionné par l'industrie et par l'innovation, et que vous souhaitez contribuer activement à l'amélioration de nos processus, alors ce poste est fait pour vous !</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien méthodes (H/F)\r\n\r\nTemps Plein",
       "target_diploma": {
         "european": "5",
         "label": "BTS, DEUST (Bac+2)"
@@ -10449,13 +10449,16 @@
       "id": "6a37166749326ae930561cf2",
       "partner_label": "France Travail",
       "title": "Chef de projet Supply Chain (H/F)",
-      "description": "Description du poste :\nRejoins l'aventure Sysco pour réaliser ton alternance 2026/2027!\nNous recrutons, pour une alternance de 12 mois sur notre site de Bruguières (81) un(e Alternant chef de projets transverses supply chain H/F***Réalisation d'études dans le cadre des projets de transformation distribution du pilotage de l'activité***Réalisation des études de faisabilité, dimensionnement, impact et business case dans le cadre de projets d'évolution d'organisation logistique nécessaires aux projets***Réalisation d'analyses de données nécessaires au pilotage de l'activité (ex : dimensionnement et répartition des stocks)***Organisation et animation de réunion de suivi de projets***Coordonner des transferts d'activité entre sites\nDes déplacements nationaux sont à prévoir.\nCette alternance très complète et à fortes responsabilités te permettra d'acquérir sur 1 an une large vision de la gestion de projets sur une supply chain étendue, de contribuer à des projets transverses variés et structurants pour l'entreprise, et d'échanger avec une diversité d'interlocuteurs\nVotre rémunération et avantages Salaire fixe selon fonction\n* Titres-restaurants\n* Avantages CSE et Mutuelle/Prévoyance\n* Produits Sysco à tarif préférentiel\n* Perspectives d'évolution en interne\nLe saviez vous ?\nSysco collabore avec des acteurs spécialisés pour favoriser l'embauche de personnes en situation de handicap et l'insclusion. Enfin Sysco développe une politique active pour garantir la sécurité de l'ensemble de ses collaborateurs.\nVous êtes à un clic de vivre une nouvelle expérience : l'aventure Sysco !\nDescription du profil :\nEt « Sy » tu te reconnais dans le profil ci-dessous, on attend ton CV Bac+4/5 en école ingénieur logistique.***Expériences stage/alternance en logistique souhaité.***Connaissances en gestion de projets logistiques et des métiers de la logistique avale, capacité d'analyse et de synthèse, autonomie sont vos atouts pour la réussite de cette mission.***Leadership, capacité à communiquer et animer un groupe, bon relationnel, rigueur dans le suivi et la formalisation, capacité à prioriser.***A l'aise avec les outils informatiques, une très bonne maîtrise d'Excel***Maitrise de l'anglais est un plus",
-      "target_diploma": null,
+      "description": "Description du poste :\n\nRejoins l'aventure Sysco pour réaliser ton alternance 2026/2027!\n\nNous recrutons, pour une alternance de 12 mois sur notre site de Bruguières (81) un(e Alternant chef de projets transverses supply chain H/F***Réalisation d'études dans le cadre des projets de transformation distribution du pilotage de l'activité***Réalisation des études de faisabilité, dimensionnement, impact et business case dans le cadre de projets d'évolution d'organisation logistique nécessaires aux projets***Réalisation d'analyses de données nécessaires au pilotage de l'activité (ex : dimensionnement et répartition des stocks)***Organisation et animation de réunion de suivi de projets***Coordonner des transferts d'activité entre sites\n\nDes déplacements nationaux sont à prévoir.\n\nCette alternance très complète et à fortes responsabilités te permettra d'acquérir sur 1 an une large vision de la gestion de projets sur une supply chain étendue, de contribuer à des projets transverses variés et structurants pour l'entreprise, et d'échanger avec une diversité d'interlocuteurs\n\nVotre rémunération et avantages Salaire fixe selon fonction\n* Titres-restaurants\n* Avantages CSE et Mutuelle/Prévoyance\n* Produits Sysco à tarif préférentiel\n* Perspectives d'évolution en interne\n\n\nLe saviez vous ?\nSysco collabore avec des acteurs spécialisés pour favoriser l'embauche de personnes en situation de handicap et l'insclusion. Enfin Sysco développe une politique active pour garantir la sécurité de l'ensemble de ses collaborateurs.\nVous êtes à un clic de vivre une nouvelle expérience : l'aventure Sysco !\n\nDescription du profil :\n\nEt « Sy » tu te reconnais dans le profil ci-dessous, on attend ton CV Bac+4/5 en école ingénieur logistique.***Expériences stage/alternance en logistique souhaité.***Connaissances en gestion de projets logistiques et des métiers de la logistique avale, capacité d'analyse et de synthèse, autonomie sont vos atouts pour la réussite de cette mission.***Leadership, capacité à communiquer et animer un groupe, bon relationnel, rigueur dans le suivi et la formalisation, capacité à prioriser.***A l'aise avec les outils informatiques, une très bonne maîtrise d'Excel***Maitrise de l'anglais est un plus",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
       "rome_codes": [
         "N1301"
       ],
       "created_at": null,
-      "company_name": null,
+      "company_name": "SYSCO FRANCE SAS",
       "address": "31150 Bruguières",
       "contract_type": [
         "Apprentissage"
@@ -12699,6 +12702,470 @@
       ],
       "contract_start": "2026-09-07T00:00:00.000Z",
       "apply_url": "https://www.aplitrak.com/?adid=Q2hyaXN0ZWxsZS5NYWxwYXJ0LjE0MjU5LjEzNjgwQGNhcnJlZm91ci5hcGxpdHJhay5jb20",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a5021cbdea3d72aa22f8f52",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT R&amp;D H/F",
+      "description": "Le service Recherche et Développement recherche un(e) Assistant(e) R&amp;D en alternance, rattaché(e) contractuellement au siège social.\n\nVous assisterez le Responsable Formulation et Développement Produit tout en bénéficiant d'un contexte et d'un suivi formateur.\n* Élaboration, sous l'autorité du Responsable Formulation et Développement Produit et en lien avec les services marketing et industriels, des programmes de développement du produit, des études de faisabilité jusqu'à la pré industrialisation ;\n * Mise en oeuvre la méthodologie spécifique de recherche ;\n * Définition des modalités des expérimentations, participation à la définition des essais et aux plans de validation en collaboration avec les services usines (production, technique, qualité) ;\n * Interprétation des résultats au regard du cahier des charges et réalisation des corrections nécessaires ;\n * Réalisation des comptes rendus et renseignement de la base de gestion des projets de développement ;\n * Finalisation des paramètres de pilotage des process et des paramètres de caractérisation des produits pour définir le plan de contrôle avec le service qualité ;\n * Amélioration de produits existants : Analyse et optimisation des produits finis, des matières premières et des processus existants ;\n * Relecture de pack.\n- Vous êtes curieux(se), créatif(ve) et force de proposition ; \n- Vous appréciez l'univers agroalimentaire et les produits gourmands ; \n- Vous faites preuve de rigueur, de méthode et d'un bon esprit d'analyse ; \n- Vous aimez travailler sur des projets concrets, en équipe.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "Groupe Biscuits Bouvard",
+      "address": "26140 Anneyron",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.aplitrak.com/?adid=c2llZ2UuNDY4MDEuNjcwNkBiaXNjdWl0c2JvdXZhcmQuYXBsaXRyYWsuY29t",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a4fa6ab8bfdaae34d5ef5d6",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE Technicien de maintenance industrielle (H/F)",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-07-31T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4fa6ab8bfdaae34d5ef5d6/alternance-technicien-de-maintenance-industrielle-h-f",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021d4dea3d72aa22f919e",
+      "partner_label": "France Travail",
+      "title": "Alternant Technicien SAV Electroménager itinérant (H/F)",
+      "description": "Description de l'entreprise\n\nVotre talent, notre ambition : et si nous avancions ensemble ?  \nChez Conforama, nous sommes convaincus que la réussite de notre enseigne va de pair avec celle de nos collaborateurs.  Nous vous accompagnons dans votre développement et la construction de votre parcours professionnel. Ensemble, relevons de nouveaux défis et atteignons des sommets, ! \n\nActeur majeur dans son secteur, Conforama propose, à travers son réseau de 167 magasins en France et son site Web conforama.fr, une large sélection de produits tendance pour équiper entièrement sa maison : du mobilier à la décoration en passant par l'électroménager et l'électro-loisir. \nNos 3 valeurs nous rassemblent et guident nos actions au quotidien : proximité, audace, simplicité. Pour faire de demain une réussite, rejoindre Conforama, ça va de soi !  \nNos politiques RH encouragent la diversité et le recrutement de travailleurs en situation de handicap.\n\nDescription du poste\n\nPrêt(e) à nous rejoindre ?  Vivez l'expérience Conforama ! Chaque jour, un nouveau défi ! \n\nChez Conforama, nous vous confions une mission pleine de défis et de responsabilités aux côtés de votre tuteur Technicien SAV Electroménager itinérant ! Votre mission si vous l'acceptez :\n- Vous réparez les appareils électroménagers de toutes marques grâce à votre diagnostic,\n- Vous participez à la gestion et à l'anticipation des commandes de pièces détachées,\n- Vous offrez une expérience client 5 étoiles dans l'accompagnement de votre client et dans les conseils que vous lui fournissez\n\nQualifications\n\nL'expérience client, c'est votre terrain de jeu ! \nVous avez de bonnes connaissances techniques/électriques/électrodomestiques c'est le moment parfait pour développer vos compétences et booster votre carrière ! Nous vous proposons de préparer en alternance le titre professionnel de TECHNICIEN SAV ELECTROMENAGER (niveau 4 / équivalent BAC).\n\nLa formation sera dispensée par l'AFPA à Champs sur Marne (77) .\n\nNous prenons en charge l'hébergement la restauration, ainsi que des frais de déplacement pour préparer le titre professionnel de cette alternance qui commence le 14/09/2026.\n\nVous êtes passionné par le service client,\n- Dynamique et réactif, vous savez vous adapter rapidement aux situations,\n- Ouvert et souriant, vous instaurez facilement un climat convivial avec nos clients,\n- Polyvalent et rigoureux, vous prenez à cœur chaque intervention avec sérieux et efficacité. \n- Vous avez votre permis de conduire ou vous êtes en train de le passer et vous êtes mobile\nSi vous vous reconnaissez, alors cette aventure est faite pour vous ! De belles perspectives professionnelles vous attendent !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "CONFORAMA FRANCE",
+      "address": "71100 Chalon-sur-Saône",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210ZVZD",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021c7dea3d72aa22f8e6f",
+      "partner_label": "France Travail",
+      "title": "Alternant Technicien SAV Electroménager itinérant (H/F)",
+      "description": "Description de l'entreprise\n\nVotre talent, notre ambition : et si nous avancions ensemble ?  \nChez Conforama, nous sommes convaincus que la réussite de notre enseigne va de pair avec celle de nos collaborateurs.  Nous vous accompagnons dans votre développement et la construction de votre parcours professionnel. Ensemble, relevons de nouveaux défis et atteignons des sommets, ! \n\nActeur majeur dans son secteur, Conforama propose, à travers son réseau de 167 magasins en France et son site Web conforama.fr, une large sélection de produits tendance pour équiper entièrement sa maison : du mobilier à la décoration en passant par l'électroménager et l'électro-loisir. \nNos 3 valeurs nous rassemblent et guident nos actions au quotidien : proximité, audace, simplicité. Pour faire de demain une réussite, rejoindre Conforama, ça va de soi !  \nNos politiques RH encouragent la diversité et le recrutement de travailleurs en situation de handicap.\n\nDescription du poste\n\nPrêt(e) à nous rejoindre ?  Vivez l'expérience Conforama ! Chaque jour, un nouveau défi ! \n\nChez Conforama, nous vous confions une mission pleine de défis et de responsabilités aux côtés de votre tuteur Technicien SAV Electroménager itinérant ! Votre mission si vous l'acceptez :\n- Vous réparez les appareils électroménagers de toutes marques grâce à votre diagnostic,\n- Vous participez à la gestion et à l'anticipation des commandes de pièces détachées,\n- Vous offrez une expérience client 5 étoiles dans l'accompagnement de votre client et dans les conseils que vous lui fournissez\n\nQualifications\n\nL'expérience client, c'est votre terrain de jeu ! \nVous avez de bonnes connaissances techniques/électriques/électrodomestiques c'est le moment parfait pour développer vos compétences et booster votre carrière ! Nous vous proposons de préparer en alternance le titre professionnel de TECHNICIEN SAV ELECTROMENAGER (niveau 4 / équivalent BAC).\n\nLa formation sera dispensée par l'AFPA à Champs sur Marne (77) .\n\nNous prenons en charge l'hébergement la restauration, ainsi que des frais de déplacement pour préparer le titre professionnel de cette alternance qui commence le 14/09/2026.\n\nVous êtes passionné par le service client,\n- Dynamique et réactif, vous savez vous adapter rapidement aux situations,\n- Ouvert et souriant, vous instaurez facilement un climat convivial avec nos clients,\n- Polyvalent et rigoureux, vous prenez à cœur chaque intervention avec sérieux et efficacité. \n- Vous avez votre permis de conduire ou vous êtes en train de le passer et vous êtes mobile\nSi vous vous reconnaissez, alors cette aventure est faite pour vous ! De belles perspectives professionnelles vous attendent !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "CONFORAMA FRANCE",
+      "address": "01000 Bourg-en-Bresse",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210ZVYS",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021d3dea3d72aa22f9168",
+      "partner_label": "France Travail",
+      "title": "Alternant Technicien SAV Electroménager itinérant (H/F)",
+      "description": "Description de l'entreprise\n\nVotre talent, notre ambition : et si nous avancions ensemble ?  \nChez Conforama, nous sommes convaincus que la réussite de notre enseigne va de pair avec celle de nos collaborateurs.  Nous vous accompagnons dans votre développement et la construction de votre parcours professionnel. Ensemble, relevons de nouveaux défis et atteignons des sommets, ! \n\nActeur majeur dans son secteur, Conforama propose, à travers son réseau de 167 magasins en France et son site Web conforama.fr, une large sélection de produits tendance pour équiper entièrement sa maison : du mobilier à la décoration en passant par l'électroménager et l'électro-loisir. \nNos 3 valeurs nous rassemblent et guident nos actions au quotidien : proximité, audace, simplicité. Pour faire de demain une réussite, rejoindre Conforama, ça va de soi !  \nNos politiques RH encouragent la diversité et le recrutement de travailleurs en situation de handicap.\n\nDescription du poste\n\nPrêt(e) à nous rejoindre ?  Vivez l'expérience Conforama ! Chaque jour, un nouveau défi ! \n\nChez Conforama, nous vous confions une mission pleine de défis et de responsabilités aux côtés de votre tuteur Technicien SAV Electroménager itinérant ! Votre mission si vous l'acceptez :\n- Vous réparez les appareils électroménagers de toutes marques grâce à votre diagnostic,\n- Vous participez à la gestion et à l'anticipation des commandes de pièces détachées,\n- Vous offrez une expérience client 5 étoiles dans l'accompagnement de votre client et dans les conseils que vous lui fournissez\n\nQualifications\n\nL'expérience client, c'est votre terrain de jeu ! \nVous avez de bonnes connaissances techniques/électriques/électrodomestiques c'est le moment parfait pour développer vos compétences et booster votre carrière ! Nous vous proposons de préparer en alternance le titre professionnel de TECHNICIEN SAV ELECTROMENAGER (niveau 4 / équivalent BAC).\n\nLa formation sera dispensée par l'AFPA à Champs sur Marne (77) .\n\nNous prenons en charge l'hébergement la restauration, ainsi que des frais de déplacement pour préparer le titre professionnel de cette alternance qui commence le 14/09/2026.\n\nVous êtes passionné par le service client,\n- Dynamique et réactif, vous savez vous adapter rapidement aux situations,\n- Ouvert et souriant, vous instaurez facilement un climat convivial avec nos clients,\n- Polyvalent et rigoureux, vous prenez à cœur chaque intervention avec sérieux et efficacité. \n- Vous avez votre permis de conduire ou vous êtes en train de le passer et vous êtes mobile\nSi vous vous reconnaissez, alors cette aventure est faite pour vous ! De belles perspectives professionnelles vous attendent !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "CONFORAMA FRANCE",
+      "address": "69001 Lyon 1er Arrondissement",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210ZVXR",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021d8dea3d72aa22f928b",
+      "partner_label": "France Travail",
+      "title": "Alternant technicien de maintenance H/F",
+      "description": "Tu es intéressé(e) par la maintenance industrielle et tu souhaites développer tes compétences sur le terrain ? Rejoins nos équipes et participe au bon fonctionnement de nos équipements !Dans le cadre de ton alternance, tu intégreras l'équipe maintenance et seras accompagné(e) pour découvrir les différentes missions liées à l'entretien et à l'amélioration de nos installations.Encadré(e) par l'équipe maintenance, tu participeras notamment à :Réaliser les opérations de maintenance préventive et curativeParticiper au diagnostic des pannesContribuer à l'entretien et au bon fonctionnement des équipements et installationsParticiper aux interventions techniques sur les matérielsSuivre les opérations de maintenance dans les outils dédiésProposer des améliorations techniques pour optimiser la performance des équipements",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "79700 Mauléon",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55622711?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021c7dea3d72aa22f8e7b",
+      "partner_label": "France Travail",
+      "title": "Apprenti(e) Electricien (H/F)",
+      "description": "Nous recherchons pour la rentrée prochaine notre futur(e) Apprenti Electricien  H/F.\nRejoignez une entreprise locale structurée pour apprendre les métiers de la rénovation intérieure et du second œuvre.\n\nFORMATIONS VISEES:\nCAP / BP Electricien\n\n\nPROFILS RECHERCHES:\nApprenti rénovation intérieure\n\nProfil sérieux, manuel et ponctuel\n\nCE QUE VOUS APPRENDREZ:\nPréparation chantier, protections,\nimplantation\nInstallation et raccrochement des équipements électriques \nTirage de câbles, lecture de plans\nDiagnostic et Dépannage\nMise en conformité des installations\nTravail en équipe\nRespecter les consignes de sécurité et assurer la bonne tenue du chantier\n\nPOURQUOI NOUS REJOINDRE:\nChantiers variés autour de Château-Thierry\nEncadrement par compagnons qualifiés(es)\nMéthodes et outillages professionnels, suivi sécurité\nPossibilité d'évolution sur les métiers du bâtiment",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "R.MOE RENOVATION ET MAITRISE D'OEUVRE",
+      "address": "02400 Château-Thierry",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210ZKVH",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021cedea3d72aa22f900b",
+      "partner_label": "France Travail",
+      "title": "Alternant( e) technicien(ne) de maintenance H/F",
+      "description": "La Société STANLEY BLACK &amp; DECKER DISTRIBUTION,\n\nFiliale du Groupe STANLEY BLACK &amp; DECKER, groupe international américain de plus de 58 000 personnes réparties dans le monde entier, est le leader de la distribution d'outillages à main destinés à différents marchés (industrie, automobile, construction, grandes surfaces de bricolage), recherche au service client pour son centre de distribution de Damparis un(e) Alternant Technicien Maintenance H/F\n\n\nType de contrat : Alternance\nPoste à pourvoir : Rentrée 2026\nLieu : Damparis (39) - secteur Dole/Dijon/Besançon\n\n\nMISSIONS\nL'alternant Technicien Maintenance participera du bon fonctionnement des équipements. Il contribuera à réaliser les interventions de premiers niveaux sur le bâtiment. Il reporte au Superviseur Maintenance.\n\n\nRESPONSABILITÉS / TÂCHES\n\n- Analyser les pannes et la mise en place d'actions correctives\n- Assurer le dépannage et l'entretien de systèmes automatisés et des autres moyens de production\n- Contacter les supports techniques si besoin (hotline constructeur, etc.)\n- Réaliser la maintenance préventive en fonction des préconisations constructeur\n- Réalisation et mise en place des demandes d'Intervention des services généraux\n- Intervenir sur les dysfonctionnements bâtiment identifiés et remonter les problématiques à la hiérarchie maintenance\n- Réalisation suivant les procédures en place des contrôles hebdomadaires réguliers\n- Gérer le stock de pièces détachées\n- Accueillir les prestataires de maintenance et remonter toutes les anomalies lors de leurs interventions\n- Assister techniquement les Responsables d'Atelier ou les opérateurs\n- Aider à la formation du personnel\n- Présenter les spécificités techniques",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "STANLEY BLACK & DECKER DISTRIBUTION",
+      "address": "39500 Damparis",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210ZGRJ",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021dadea3d72aa22f92f7",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle (19870) (H/F)",
+      "description": "Située à 1h de Paris, X-FAB regroupe l'ensemble des métiers allant de la production à la commercialisation de nos produits.\nNous fabriquons avec passion des puces (semiconducteurs) qui contribuent à améliorer la vie des gens, à connecter les gens et à rendre les moyens de transport plus sûrs et plus respectueux de l'environnement.\nFinalité :\nX-FAB recrute un(e) apprenti(e) en Electromécanique pour rejoindre le département Facilities. Au sein d’un environnement industriel innovant et exigeant, vous participerez activement aux projets du service et développerez vos compétences techniques sur des missions concrètes et formatrices. \nVos missions :\nEn tant qu'apprenti électromécanicien, vous travaillerez en étroite collaboration avec nos techniciens expérimentés sur une série de projets courts. Vos principales responsabilités seront les suivantes :\n  *  Assister nos techniciens dans la maintenance préventive et curative des équipements électromécaniques.\n  *  Participer à l'installation, à la réparation et à la mise en service des équipements.\n  *  Diagnostiquer les pannes et proposer des solutions adaptées.\n  *  Effectuer des opérations de maintenance préventive selon les planning établis.\n  *  Contribuer à la gestion des pièces de rechange et à la documentation technique.\n\nVotre profil :\n  *  Étudiant(e) en formation Bac+2 ou 3 en Electromécanique et Maintenance Industrielle.\n  *  Passionné par le domaine de l'électromécanique et désireux d'apprendre.\n  *  Bonnes compétences en matière de résolution de problèmes.\n  *  Capacité à travailler en équipe et à communiquer efficacement.\n  *  Autonomie et sens des responsabilités\n\nVotre profil :\n  *  Étudiant(e) en formation Bac+2 ou 3 en Electromécanique et Maintenance Industrielle.\n  *  Passionné par le domaine de l'électromécanique et désireux d'apprendre.\n  *  Bonnes compétences en matière de résolution de problèmes.\n  *  Capacité à travailler en équipe et à communiquer efficacement.\n  *  Autonomie et sens des responsabilités",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "X-FAB France SAS",
+      "address": "91100 Corbeil-Essonnes",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://x-fab-global-services-gmbh.contactrh.com/jobs/6469/44300495",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021cadea3d72aa22f8f37",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle (H/F)",
+      "description": "Description du poste :\n\nL'alternant(e) électromécanicien apprend à assurer la maintenance préventive et curative dans le respect du planning ou de l'urgence et des délais d'intervention.\nIl peut participer à des optimisations liées au process de fabrication et à la mise en place de nouvelles installations.\n\nAprès une période d'intégration, et rattaché(e) au chef d'équipe maintenance, TES MISSIONS SERONT Intervenir sur tous types d'installations, y compris les automates.\n- Assurer tous types d'interventions mécaniques, pneumatiques, électriques, hydrauliques, petits travaux de soudure, etc Apprendre à intervenir avec réactivité afin de limiter le risque de détérioration de la matière.\n- Assurer le bon entretien du matériel et son optimisation.\nEt ce, dans le respect des règles d'hygiène, sécurité et qualité en vigueur dans l'entreprise.\n\n\nLES AVANTAGES ENTREMONT\n\n- Tickets restaurants\n- Primes diverses\n- Participations aux bénéfices / intéressement\n- Perspectives de carrière\n- Cohésion et Collaboration\n- Organisation d'événements tout au long de l'année\nTu hésites encore ?\n\nNOS ALTERNANTS DISENT DE NOUS\n\n- Ambiance conviviale\n- Forte bienveillance\n- Entreprise avec des valeurs\n- Forte politique d'apprentissage\nRejoins l'aventure chez Entremont Loudéac : perfectionnes ton savoir-faire dans l'art de la raclette, au cœur d'une équipe dynamique et accueillante !\n\nDescription du profil :\n\nTON PROFIL\n\nTu valides actuellement un diplôme de niveau bac dans le domaine de la maintenance et souhaite poursuivre en apprentissage sur un bac+2 à la rentrée 2026?\nTu as le sens du service, un bon relationnel, de la réactivité, de adaptabilité (ou souhaite apprendre à en gagner)?\nTu penses pouvoir être vigilant sur le respect des règles d'intervention et des normes sécurité et qualité?\nTu souhaites travailler en équipe ?\n\nAlors tu es au bon endroit ! Nous t'attendons !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SODIAAL UNION",
+      "address": "22600 Loudéac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/54932185?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021cedea3d72aa22f901f",
+      "partner_label": "France Travail",
+      "title": "Electricien d'équipement industriel espace maintenance (H/F)",
+      "description": "Description du poste :\n\nRattaché(e) au Service Technique, vous interviendrez au sein des trois pôles stratégiques du site (Énergie, Services Généraux et Travaux Neufs) et vous participerez à l'ensemble des missions de notre service :\n\nVos missions Conduire et surveiller les installations de production d'énergie Réaliser les autocontrôles et assurer le suivi de la conformité qualité Exécuter et optimiser la maintenance préventive et corrective Analyser et suivre les consommations énergétiques Saisir et mettre à jour les interventions sur GMAO Participer aux projets techniques et d'investissement du site Contribuer à l'amélioration continue et à la fiabilisation des équipements Veiller au bon entretien général du site et des infrastructures Respecter et appliquer les règles QHSE et de sécurité Participer aux réunions techniques et aux chantiers de progrès Réaliser le reporting des activités et remonter les anomalies auprès du responsable.\n\nDescription du profil :\n\nVotre profil Vous êtes reconnu(e) pour votre autonomie, votre capacité d'adaptation et votre rigueur Étudiant(e) de niveau BTS;\n* Vous savez travailler en équipe et communiquer efficacement.\n\n\nAutres Intégration spéciale alternant avec accompagnement dédié Horaires flexibles Tickets restaurant Primes diverses.\n\n\nVous répondez au profil recherché ? Ce poste est fait pour vous !\nN'hésitez pas à postuler !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SODIAAL UNION",
+      "address": "42350 La Talaudière",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/54766674?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021d9dea3d72aa22f92bb",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT(E) MAINTENANCE (H/F)",
+      "description": "Votre mission :\n\nAu sein de l'équipe maintenance, vous occuperez une place essentielle en tant qu'agent de maintenance en alternance. Placé(e) sous la supervision du Responsable maintenance et rattaché(e) directement au Chef de secteur mécanique, vous interviendrez de manière opérationnelle tout en développant votre sensibilité à l'amélioration continue, soutenu(e) par votre tuteur et l'équipe en place.\n\n \n\nVos principales responsabilités :\n\n * \n\nParticiper au bon fonctionnement et la maintenance mécanique des installations\n * \n\nParticiper à la réalisation des travaux de maintenance préventive et curative\n * \n\nParticiper à la veille du maintien en conformité et à l'optimisation des installations mécaniques\n * \n\nParticiper aux interventions en hydraulique, pneumatique et mécanique\n\n * \n\nParticiper, selon les besoins, aux actions en électrotechnique\n * \n\nParticiper aux analyses dysfonctionnements, identifier les causes racines et proposer des actions correctives\n\n * \n\nRenseigner la GMAO (préventif, curatif, astreintes, besoins matériels)\n * \n\nProposer des améliorations du plan de maintenance\n * \n\nAppliquer et faire appliquer les consignes de sécurité et procédures de consignation\n\n * \n\nParticiper à la réalisation des analyses de risques avant intervention via la GMAO\n * \n\nParticiper au maintien de la performance énergétique et au respect des exigences ISO applicables\n\n \n\nProfil recherché :\n\n * \n\nBTS Mécanique générale / Maintenance industrielle /ou équivalent\n * \n\nExpérience\n * \n\nIssu d'un bac professionnel mécanique\n\nCompétences\n\n * \n\nConnaissances mécanique, hydraulique, pneumatique et process\n\nSavoir-être\n\n * \n\nAutonomie et rigueur\n * \n\nEsprit d'analyse et d'initiative\n * \n\nSens des responsabilités",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "83000 Toulon",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.aplitrak.com/?adid=bGVhLmFzY2xhci4yNzUyNC42NzA2QGlkZXhmci5hcGxpdHJhay5jb20",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021d4dea3d72aa22f9190",
+      "partner_label": "France Travail",
+      "title": "Automaticien frigoriste (H/F)",
+      "description": "IGESIS RECRUTE UN AUTOMATICIEN FRIGORISTE EN ALTERNANCE\n\nIGESIS est une entreprise qui intervient dans le domaine du froid industriel en proposant à ses clients des solutions de pilotage de leurs installations frigorifiques. \nRomain, fondateur de l'entreprise, a lancé le projet en 2018 avec l'appui depuis 2024 de Thomas, ingénieur expérimenté. Ensemble, ils ont structuré une offre solide et accompagnent aujourd'hui des clients divers dans leurs projets. \n\nPour poursuivre cette dynamique et répondre à la croissance de l'activité, l'équipe souhaite  s'agrandir. Ils recherchent une personne motivée, qu'ils formeront en alternance pour :\n- Accompagner les projets clients avec rigueur et créativité.\n- S'intégrer à une petite équipe et contribuer activement à son développement.\n- Bénéficier d'un mentorat personnalisé pour monter en compétences.\n\nMissions du poste\nEn tant qu'automaticien - frigoriste en alternance chez IGESIS, tu auras pour mission de : \n- Participer à la création des programmes d'automatisme sur mesure à partir des besoins clients : création de liste de points d'entrées et de sorties, traduction de l'analyse fonctionnelle en langage informatique ST (texte structuré), langage proche du C\n- Participer à améliorer l'interface HMI (interface Homme-Machine) pour nos clients, via un environnement de développement web spécifique à IGESIS.  \n- Assurer le suivi des logiciels (tests, finalisation de l'installation, maintenance et mise à jour des logiciels) : réalisation d'essais à blanc, vérification de l'adéquation du programme avec les installations du client sur site ou à distance, apport de modifications éventuelles sur le programme.\n\nEn fonction de tes connaissances, ta formation et surtout de ta curiosité, tu pourras intervenir à d'autres étapes des projets (mise en œuvre des supervisions/GTC, documentation, étude de projet...) en lien avec ton tuteur. \n\nProfil recherché \nPour évoluer dans ce poste, voici les compétences recherchées : \n- Tu as une connaissance de l'automatisme industriel \n- Tu connais le langage texte structuré (ST) \n- Tu connais les langages de développement informatique (HTML, javascript, CSS.)\n- Tu es rigoureux et autonome \n- Tu as envie d'évoluer dans une petite entreprise innovante en lien avec des missions terrain très concrètes. \n\nPour ce poste, Romain et Thomas sont à la recherche d'une personne curieuse qui saura être un soutien actif dans l'opérationnel.  \n\nConditions de travail \n- Prise de poste en septembre ou octobre 2026, en fonction de tes contraintes scolaires. \n- Tu travailleras dans un espace de coworking chaleureux et dynamique lyonnais, qui dispose de plusieurs espaces à Lyon et Villeurbanne. \n- Il est possible que tu participes à des déplacements avec ton tuteur, au fil de ton alternance. \n\nRémunération\n- Le montant sera à définir selon les critères légaux (selon ton âge, ta formation et le type de contrat) \n- Mutuelle d'entreprise\n- Remboursement 50% frais de transport ou forfait mobilité durable \n\nProcessus de recrutement \nNous te proposons de sortir de l'habituelle lettre de motivation pour se parler franchement et simplement. Et donc pour être le plus authentique possible, nous te recommandons d'écrire sans IA.  Nous serons sensibles à une réponse spontanée. \nNous t'invitons à candidater et à répondre à ces 3 questions : \no Qu'est-ce qui te motive à rejoindre Igesis ?\no Pourquoi candidates-tu à ce poste ? \no Souhaites-tu partager des éléments supplémentaires ? \n- Un 1er échange téléphonique aura lieu avec Capucine, en charge de ce recrutement.\n- Ensuite, tu rencontreras Romain et Thomas pour un entretien et découvrir le lieu de travail. Il est possible qu'il y ait 2 tours d'entretiens en fonction des disponibilités de l'équipe.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "IGESIS",
+      "address": "69001 Lyon",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210YPJY",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a4f7f3ca8013626d3334ae1",
+      "partner_label": "Veritone",
+      "title": "Alternant Technicien de maintenance (H/F)",
+      "description": "Faites mijoter votre avenir chez Marie Surgelés !\n\nVenez mettre votre talent au service du goût chez Marie Surgelés où chaque collaborateur est un ingrédient essentiel de notre recette du succès.\r\n\r\nAu rayon surgelés, impossible de passer à côté de nos savoir-faire ! Présents dans toutes les grandes et moyennes surfaces, sous la marque Marie ou sous celles des distributeurs, nous faisons partie du quotidien culinaire des Français depuis plus de 50 ans.\r\n\r\nAujourd'hui, nous vous proposons de passer de l'autre côté du fourneau en contribuant à créer les plats gourmands de demain, qui facilitent la vie et régalent les papilles.\r\n\r\nNous rejoindre, c'est être accueilli dans une entreprise à taille humaine, composée de 3 sites de production situés dans la zone Poitou/Pays de la Loire et rassemblant près de 800 collaborateurs.\r\n\r\nUne filiale du Groupe LDC : Marie Surgelés est une filiale du Groupe LDC, 1er Groupe français volaille et traiteur et l'un des leaders européens de la volaille. Groupe familial, il est reconnu pour ses marques emblématiques : Loué, Le Gaulois, Maître Coq, Marie, Pierre Martinet ou encore Traditions d'Asie.\r\n\r\nPrêt à écrire avec nous la prochaine page de notre histoire culinaire ?\n\nNous recherchons, pour notre site Marie Surgelés Airvault, notre futur Alternant Technicien de maintenance (H/F).\r\n\r\n \r\n\r\nRattaché(e) au Responsable Maintenance, vous aurez pour missions :\r\n\r\n * Alimenter le GMAO pour la mise en place du magasin de pièces détachées et la maintenance\r\n * Diagnostiquer les pannes et proposer des solutions adaptées\r\n * Dépanner les machines de productions \r\n * Effectuer des actions de maintenance préventive \r\n * Proposer des actions d'améliorations \r\n \r\n\r\nDurée du contrat : 2 ans à partir de septembre 2026",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "MARIE SURGELES",
+      "address": "79600 Airvault",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://www.aplitrak.com/?adid=Y2VsaW5lLmJhdWR1LjMyODczLjEzNjgwQGxkYy5hcGxpdHJhay5jb20",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a4f5f26a8013626d33319cf",
+      "partner_label": "Veritone",
+      "title": "Technicien de maintenance (F/H)",
+      "description": "Premier groupe français indépendant de services à l'énergie et à l'environnement, nous sommes présents sur l'ensemble de la chaîne de valeur énergétique. Notre ambition, décarboner les territoires au travers nos activités :\r\n\r\n * La production d'énergie (usines de valorisation énergétique des déchets, méthaniseurs, centrales biomasse, géothermie, solaire…)\r\n * La distribution d'énergie (réseaux de chaleur et de froid)\r\n * Les services énergétiques (maintenance ou travaux d'efficacité énergétique, gestion multi-technique de bâtiments…)\r\n\r\nAu sein de l'UVE ZÉPHIRE, notre mission est de valoriser les déchets en les transformant en énergie, tout en garantissant un haut niveau de sécurité industrielle, de performance environnementale. Dans un contexte industriel lourd et à forts enjeux techniques, nous renforçons notre équipe maintenance.\n\nVotre mission :\r\n\r\nEn tant que technicien de maintenance, vous occupez un poste central au sein de l'équipe maintenance. Rattaché(e) au Chef de secteur mécanique sous la supervision du Responsable maintenance, vous intervenez à la fois opérationnellement et en appui technique, avec un fort niveau d'autonomie.\r\n\r\nVotre mission principale est de garantir la disponibilité, la fiabilité et l'optimisation des équipements, avec une dominante mécanique, dans un environnement industriel exigeant.\r\n\r\n \r\n\r\nVos principales responsabilités :\r\n\r\n * Assurer le bon fonctionnement et la maintenance mécanique des installations\r\n * \r\n\r\nRéaliser les travaux de maintenance préventive et curative\r\n * \r\n\r\nVeiller au maintien en conformité et à l'optimisation des installations mécaniques\r\n\r\n * \r\n\r\nAnalyser les dysfonctionnements, identifier les causes racines et proposer des actions correctives\r\n\r\n * \r\n\r\nRendre compte des anomalies et interventions aux chefs de secteur et chefs de quart\r\n * \r\n\r\nRenseigner la GMAO (préventif, curatif, astreintes, besoins matériels)\r\n * \r\n\r\nProposer des améliorations du plan de maintenance\r\n * \r\n\r\nAssurer les astreintes selon l'organisation du site\r\n * \r\n\r\nRéaliser les analyses de risques avant intervention via la GMAO\r\n\r\n * \r\n\r\nVeiller au respect des règles QSE par les équipes internes et sous-traitantes\r\n * \r\n\r\nParticiper au maintien de la performance énergétique et au respect des exigences ISO applicables\r\n\r\n \r\n\r\nProfil recherché :\r\n\r\nFormation\r\n\r\n * \r\n\r\nBTS Mécanique générale / Maintenance industrielle / Électromécanique ou équivalent\r\n\r\nExpérience\r\n\r\n * \r\n\r\nMinimum 3 ans d'expérience sur un poste similaire (alternance comprise)\r\n * \r\n\r\nExpérience requise secteurs : énergie, incinération, métallurgie, cimenterie, papeterie, etc.\r\n\r\nCompétences\r\n\r\n * \r\n\r\nExpertise en maintenance mécanique industrielle\r\n * \r\n\r\nConnaissances solides en hydraulique, pneumatique et process\r\n * \r\n\r\nUtilisation des machines-outils et matériels de soudure\r\n * \r\n\r\nMaîtrise d'une GMAO\r\n * \r\n\r\nConnaissance des environnements ICPE appréciée\r\n\r\nSavoir-être\r\n\r\n * \r\n\r\nAutonomie et rigueur\r\n * \r\n\r\nEsprit d'analyse et d'initiative",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "IDEX ENVIRONNEMENT",
+      "address": "92100 Boulogne-Billancourt",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-07-15T00:00:00.000Z",
+      "apply_url": "https://www.aplitrak.com/?adid=bGVhLmFzY2xhci4xODQwMy4xMzY4MEBpZGV4ZnIuYXBsaXRyYWsuY29t",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a34758e7f27726a0497c1ea",
+      "partner_label": "Meteojob",
+      "title": "Technicien de maintenance en alternance F/H",
+      "description": "<p>  <strong>✨Nous sommes…</strong> </p> <p>  <strong>Auchan Retail France, une entreprise de distribution de plus de 50 000 collaborateurs au service de millions de clients chaque année.</strong> </p> <p>Ce que nous voulons, c'est aider nos clients à bien manger et vivre mieux, tout en préservant la planète.</p> <p>Que l'on soit en entrepôt, en magasin ou sur des fonctions support, notre point commun à tous, c'est de faire en sorte que nos clients aient plaisir à faire leurs courses chez nous.</p> <p>Parce que nos collaborateurs sont aussi nos premiers clients, nous veillons chaque jour à leur bien-être et leur évolution professionnelle.</p> <p>  <strong>Vous avez envie de…</strong> </p> <ul>  <li>   <strong>Assurer</strong>   le bon fonctionnement, l'entretien et le dépannage des équipements (électricité, matériels de production, froid alimentaire, engins de manutention, CVC, groupe électrogène...) et du patrimoine immobilier (plomberie, évacuation, soudure, étanchéité toiture etc...).  </li> </ul> <ul>  <li>   <strong>Réaliser</strong>   des opérations de maintenance préventive et apporter les actions correctives.  </li> </ul> <ul>  <li>   <strong>Détecter</strong>   les risques de panne et analyser les anomalies.  </li> </ul> <ul>  <li>   <strong>Participer</strong>   à la vie du magasin, grâce à un esprit d'équipe et de proximité avec vos collègues, votre manager, et les équipes du magasin de façon plus générale.  </li> </ul> <p>  <strong>Vous êtes…</strong> </p> <p>En formation Bac PRO ; vous cherchez une alternance pour obtenir un BTS Maintenance (Electrotechnique/Production..)</p> <p>  Le poste de  <strong>Technicien de maintenance en alternance F/H</strong>  est fait pour vous. </p> <p>  <strong>Rencontrons-nous !</strong> </p>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 726 € - 15 892 €\r\n\r\nProfil: <p>  <strong>Nous vous offrons les avantages suivants :</strong> </p> <p>• Une remise sur achat chez Auchan</p> <p>• Des primes de participation et d'intéressement selon la performance annuelle de l'entreprise</p> <p>• Une prime annuelle équivalente à un 13e mois</p> <p>  <em>Chez Auchan, nous sommes convaincus que la diversité fait la richesse d'une entreprise. Nous étudions à compétences égales chaque candidature et toutes nos offres peuvent faire l'objet d'aménagements spécifiques en cas de handicap - #tous égaux, tous différents !</em> </p> <p>  <strong>Vous voulez en savoir plus sur nos engagements ?</strong> </p> <p>Nous nous mobilisons au quotidien autour de 4 piliers de responsabilité sociétale et environnementale majeurs : Offre responsable, Environnement, Solidarité, Humain.</p> <p>  Rendez-vous sur : ***  <em>.</em> </p>",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "Auchan Retail France",
+      "address": "54510 Tomblaine",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/54775526?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a34758c7f27726a0497c18f",
+      "partner_label": "Meteojob",
+      "title": "Technicien de Maintenance H/F",
+      "description": "<p>  <strong>Richel Group</strong> </p> <p>  <strong>Qui sommes-nous ?</strong> </p> <p>Fondé en 1964, le Groupe RICHEL est devenu un acteur incontournable à l'échelle mondiale. Nous sommes fiers de notre succès à l'exportation et de notre chiffre d'affaires en constante augmentation, qui dépasse maintenant les 120 millions d'euros.</p> <p>  <strong>Quel est notre métier ?</strong> </p> <p>Spécialisés dans la conception, la fabrication et la mise en œuvre de solutions complètes de serres et de bâtiments modulaires, nous intervenons dans les secteurs de l'agriculture, du bâtiment et de l'industrie. Notre siège est à Eygalières, en France, et nous comptons environ 300 employés à travers le monde, avec deux sites principaux en France.</p> <p>  <strong>Quelles sont nos valeurs ?</strong> </p> <p>RICHEL est une entreprise familiale qui valorise le respect des engagements, la persévérance et l'ouverture d'esprit. Notre succès repose sur ces valeurs partagées par tous nos collaborateurs, soutenues par une culture d'entreprise solide et ambitieuse.</p> <p>Nous sommes aussi très engagés en faveur de la diversité et de l'inclusion. Nous croyons fermement à l'importance d'attirer, de développer et de retenir les meilleurs talents de notre secteur, afin de maintenir une culture inclusive et équitable.</p> <p>Vous souhaitez trouver un poste au sein d'une équipe de maintenance ?♀️ dynamique et d'un groupe industriel international ? Alors n'attendez plus, nous avons ce qu'il vous faut ! ?</p> <p>Rattaché(e) au Responsable Maintenance au sein du pôle Exploitation de notre site industriel à Eygalières, vous intégrez notre équipe Maintenance composée d'une demi-douzaine de personnes.</p> <p>Vos missions quotidiennes seront les suivantes :</p> <p>· Appliquer le plan de maintenance annuel et réaliser les opérations de maintenance curatives (diagnostic de défaillance puis remise en état des équipements)</p> <p>· Participer à la définition et à la mise en œuvre d'un mode de dépannage adapté à la technologie et aux contraintes de production</p> <p>· Participer à la réalisation d'un bilan d'intervention (retour d'informations immédiat, compte-rendu écrit, gestion du stock des pièces remplacées)</p> <p>· Participer à la préparation et à la réalisation des interventions planifiées</p> <p>· Appliquer, à partir de la documentation existante, les gammes de maintenance préventive et leurs modes opératoires</p> <p>· Participer aux travaux neufs ou de rénovation de l'entreprise et aux installations éventuelles de nouvelles machines.</p> <p>Vous êtes à la recherche d'une alternance afin d'intégrer votre formation niveau Bac+2 (type BTS Maintenance ou équivalent) pour la rentrée de septembre 2026.</p> <p>Vous avez l'esprit d'équipe et la collaboration avec les autres services vous anime.</p> <p>Votre polyvalence, votre esprit d'analyse et vos facultés d'adaptation seront de réels atouts pour ce poste qui nécessite des actions dans tous les domaines de la maintenance industrielle.</p> <p>Des bases en Word et en Excel seront utiles et des qualités telles que la rigueur et la persévérance seront également très appréciées.</p> <p>Le poste est basé à Eygalières (13).</p> <p>Prêt(e) à relever le défi ?</p> <p>Si tu te reconnais dans ce profil et que tu souhaites avoir une réelle place, ainsi qu'un accompagnement tout au long de ton contrat pour développer tes compétences au sein de nos équipes, n'attends plus et envoie-nous ta candidature ! ?</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "L'industrie recrute",
+      "address": "13940 Mollégès",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/54769915?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5021cbdea3d72aa22f8f60",
+      "partner_label": "France Travail",
+      "title": "Alternant en Amélioration continue/Lean management (H/F)",
+      "description": "L'IFRIA OUEST recrute pour l'une de ses entreprises partenaires évoluant dans la filière agroalimentaire un apprenti en en Amélioration continue / Lean Management (H/F) dans le cadre d'une école d'ingénieur.\n\nAu sein d'un site industriel spécialisé dans la transformation de produits alimentaires, l'alternant(e) en Amélioration continue / Lean Management accompagne le responsable du service dans le déploiement de démarches d'optimisation des processus. Ses missions consistent notamment à suivre les indicateurs de performance, identifier les sources de gaspillage, participer à des projets d'amélioration continue et contribuer à la mise en place d'outils Lean tels que le 5S, la VSM, la standardisation ou encore les démarches Kaizen. L'alternant(e) participe également à l'animation de chantiers terrain, à la conduite du changement et à la formalisation des bonnes pratiques. Cette alternance offre une expérience concrète au coeur d'un environnement industriel, avec l'opportunité de développer des compétences en gestion de projet, amélioration des performances et accompagnement des équipes.\n\t\t\n\tNous recherchons un(e) étudiant(e) préparant une école d'ingénieur dans le domaine de l'amélioration continue, du Lean Management, de l'industrie ou de la performance industrielle. La maîtrise des outils bureautiques (notamment Excel et PowerPoint) est attendue. Le/la candidat(e) devra faire preuve de rigueur, de capacités d'analyse et de synthèse, ainsi que d'un bon sens du terrain. Un bon relationnel, une aptitude à travailler en transversal avec différents interlocuteurs et un intérêt pour l'optimisation des processus seront des atouts essentiels pour réussir dans cette mission.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "IFRIA OUEST",
+      "address": "29340 Riec-sur-Bélon",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "http://app.mytalentplug.com/description-offre.aspx?ojid=lCLouBaUTyWxkul6m7spfg==",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5021d4dea3d72aa22f917c",
+      "partner_label": "France Travail",
+      "title": "Coordonnateur / Coordonnatrice méthodes-ordonnancement en industrie (H/F)",
+      "description": "Description du poste :\n\nNotre client est un grand groupe handi-accueillant , spécialisé dans la logistique. Il recrute un(e FACILITY MANAGER (H/F)\n\nALTERNANCE 24 MOIS - LYON (69)\n\nA COMPTER DE SEPTEMBRE 2026\n\nRémunération selon la grille d'alternance\n\nSous la responsabilité du Superviseur Technique, vous serez en charge de la gestion opérationnelle et technique des sites.\n\nVos principales missions Coordonner les prestataires pour les interventions techniques (CVC, électricité, plomberie)***Suivre les travaux de maintenance et garantir la conformité réglementaire***Utiliser les outils GMAO pour le suivi des activités de maintenance***Participer à l'élaboration de tableaux de bord et d'indicateurs de performance***Assister dans la gestion budgétaire et les appels d'offres\n\nLa liste n'est pas exhaustive, et d'autres missions viendront compléter ce poste.\n\nDescription du profil :\n\nProfil recherché Étudiant en formation Bac +3/5 dans les domaines de la maintenance, du facility management ou de l'ingénierie***Connaissances solides en maintenance multi-technique et gestion de bâtiments***Maîtrise des outils bureautiques (Excel, Power BI)***Sensibilité aux normes de sécurité et réglementations (ICPE, VGP)***Anglais courant***Autonome, rigoureux et doté d'un bon sens de l'organisation\n\nA compétences et qualifications égales, la priorité sera donnée à une personne bénéficiant d'une RQTH (ou autre titre BOETH).\nSi vous vous reconnaissez dans ce poste et que vous recherchez une alternance, n'hésitez plus, postulez !\nAvantages :\n-CSE\n-Tickets restaurant\n-Accords de participation et d'intéressement",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "NEXTGEN RH",
+      "address": "69005 Lyon 5e Arrondissement",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55314077?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5021d4dea3d72aa22f9180",
+      "partner_label": "France Travail",
+      "title": "Technicien méthodes industrielles (H/F)",
+      "description": "Description du poste :\n\nManpower BELLEVILLE recherche pour son client, entreprise industrielle innovante, spécialisée dans la conception et la fabrication de composants techniques à forte valeur ajoutée, nous accompagnons des clients exigeants dans des environnements automatisés et en constante évolution. Notre activité repose sur une expertise complète : de la définition du besoin jusqu'à la mise en place de lignes de production industrielles performantes.\n\n\nNotre objectif : innover, améliorer en continu et concevoir des solutions industrielles modernes.\n\n\nTa mission (si tu l'acceptes)\n\n\nAu sein d'une équipe dynamique en industrialisation, tu participeras activement à des projets concrets en lien avec la production.\n\n\nTes principales responsabilités Participer au suivi de projets industriels Réaliser des plans techniques Concevoir des sous-ensembles mécaniques Optimiser ou repenser des implantations de lignes de production Contribuer à l'amélioration des machines existantes\n\n\nTu interviendras sur des sujets variés : mécanique, productique, ergonomie et amélioration continue.\n\n\nTon profil Tu es étudiant(e) et tu prépares une formation en : BTS / BUT / Licence en mécanique, productique ou génie industriel\n\n\nTes atouts Connaissances en modélisation numérique et conception mécanique Intérêt pour le terrain et la technique, Curiosité, motivation et envie d'apprendre.Esprit d'équipe et sens de l'organisation\n\n\nUn plus : La maîtrise de logiciels comme CATIA, Inventor ou AutoCAD\n\n\nPourquoi cette alternance est faite pour toi Un accompagnement personnalisé pour te faire progresser rapidement Une équipe bienveillante prête à partager son savoir Des projets concrets pour développer tes compétences Un environnement moderne (robotisation, innovation technique Informations pratiques Type de contrat : Alternance (apprentissage ou professionnalisation Durée : 12 à 24 mois Début : Septembre 2026 Lieu : Région Rhône-Alpes Rémunération : Selon barème légal Avantages : participation transport, avantages d'entreprise\n\n\nDans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "MANPOWER FRANCE",
+      "address": "69220 Belleville-en-Beaujolais",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55108351?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5021dcdea3d72aa22f9365",
+      "partner_label": "France Travail",
+      "title": "Chargé de clientèle logistique (H/F)",
+      "description": "Description du poste :\n\nEn tant qu'alternant au service client , vous serez un acteur clé pour assurer la satisfaction de nos clients. Vos responsabilités incluront : gérer les demandes des clients, coordonner les livraisons et résoudre les éventuels problèmes de logistique. Vous travaillerez étroitement avec les équipes commerciales et opérationnelles pour optimiser les processus et garantir le développement d'une relation client de qualité.\n\nDescription du profil :\n\nNous recherchons un candidat avec un bac+2 en commerce, logistique ou une discipline connexe. Le candidat idéal doit faire preuve d'excellentes compétences en communication, être orienté vers le service client et capable de travailler en équipe. Une première expérience dans la gestion de la relation client ou la logistique serait un atout. La maîtrise des outils informatiques de bureau est essentielle.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "94150 Rungis",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55104599?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a4faadaa8013626d33397f3",
+      "partner_label": "Talentplug",
+      "title": "ALTERNANT Assistant Approvisionnement H/F",
+      "description": "Rattaché(e) au Responsable Approvisionnement, vous intégrer l' équipe  d'approvisionnement constituée de 5 personnes qui assure la disponibilité des produits de l'offre commerciale en optimisant les conditions d'approvisionnement.<br /><br />A ce titre, vos principales missions seront les suivantes :<br /><br />Analyser chaque jour les états d'approvisionnements de son portefeuille<br />Passation des commandes aux fournisseurs : saisie des commandes en flux poussés et/ou en flux tirés, organisation du transport<br />Suivi des réceptions (vérification des conformités, suivi des litiges, replace les commandes non livrées en tenant comptes des contraintes liées au planning des réceptions...)<br />Analyse quotidienne de l'état des manquants à date et prévisionnels et déclenchement des actions correctives correspondantes<br />Analyse quotidienne de l'état d'alerte des dates limites de consommation, négociation des reprises marchandises avec les fournisseurs sur les surstocks et les produits sensibles<br />Gestion de la qualité :organise le retour marchandises chez les fournisseurs, s'engage à respecter les engagements sociétaux de l'entreprise <br /> Profil recherché :<br />Etudiant(e) en préparation d' une licence logistique en alternance<br /><br />Une très bonne maitrise d'Excel est demandée ( TCD, formules, voir Recherche V et macros)<br /><br />Une première expérience dans un entrepôt en tant que préparateur de commande, magasinier, assistant logistique est souhaitée<br />Aisance relationnelle fortement recommandée<br /><br />Contrat proposé :<br />Poste à pourvoir en alternance pour une durée d'1 an<br />Démarrage : septembre 2026<br /><br />",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "TRANSGOURMET SERVICES",
+      "address": "94460 Valenton",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-07-09T02:07:18.000Z",
+      "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=cd0c721d-2c5a-4153-898e-94aabf9f84b7",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
