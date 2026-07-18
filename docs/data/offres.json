@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T07:18:15.390968+00:00",
+  "generated_at": "2026-07-18T07:00:43.693271+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -1371,8 +1371,8 @@
     {
       "id": "6a3472e48846a43a71e4d457",
       "partner_label": "France Travail",
-      "title": "Alternance - développeur automatisme et protection F/H (H/F)",
-      "description": "Environnement de travail :Dans le cadre du projet PCCV ( palier de contrôle commande virtualisnous souhaitons améliorer la maitrise du système de protection, d'automatisme du contrôle commande poste source et faciliter son évolution .\n Pour cela le projet a créé le lot spécification et  afin d'unifier, d'automatiser les spécifications de celui-ci en ce servant de la norme IEC  (norme internationale pour les langages de programmation des automates ) .\nVous travaillerez dans une équipe de 6 personnes avec beaucoup d'échange avec d'autres lots du projet tel que le lot  ( norme internationale sur la communication des équipements dans le domaine de l'énergie ) ainsi que d'autres services ou le travaille collaboratif est très important.\nDans le lot  il y a environ 200 fonctions à modéliser.\nDescription de la mission : - Compilation des spécifications existantes , découpe de la fonction et construction des tables d'échanges et des exigences- Développement du code des fonctions d'automatisme et protection en se servant de la norme IEC , synthèse des exigences et réalisation de la spécification écrite - Prise en compte de l'impact de la modélisation des échanges en  et des évolutions souhaité en vu pour PCCV- Reprise du code et de la spécification écrite de chaque fonction avec ces évolutions- Vérification et test du code de la fonction modifié- Appréhender le rôle de SCRUM master",
+      "title": "Alternance - développeur automatisme et protection F/H",
+      "description": "Environnement de travail :Dans le cadre du projet PCCV ( palier de contrôle commande virtualisnous souhaitons améliorer la maitrise du système de protection, d'automatisme du contrôle commande poste source et faciliter son évolution .\n Pour cela le projet a créé le lot spécification et afin d'unifier, d'automatiser les spécifications de celui-ci en ce servant de la norme IEC (norme internationale pour les langages de programmation des automates ) .\nVous travaillerez dans une équipe de 6 personnes avec beaucoup d'échange avec d'autres lots du projet tel que le lot ( norme internationale sur la communication des équipements dans le domaine de l'énergie ) ainsi que d'autres services ou le travaille collaboratif est très important.\nDans le lot il y a environ 200 fonctions à modéliser.\nDescription de la mission : - Compilation des spécifications existantes , découpe de la fonction et construction des tables d'échanges et des exigences- Développement du code des fonctions d'automatisme et protection en se servant de la norme IEC , synthèse des exigences et réalisation de la spécification écrite - Prise en compte de l'impact de la modélisation des échanges en et des évolutions souhaité en vu pour PCCV- Reprise du code et de la spécification écrite de chaque fonction avec ces évolutions- Vérification et test du code de la fonction modifié- Appréhender le rôle de SCRUM master",
       "target_diploma": null,
       "rome_codes": [
         "H1206"
@@ -1452,7 +1452,7 @@
       "id": "6a20a8e942277229270750a5",
       "partner_label": "France Travail",
       "title": "Alternance - Ingénieur Essais H/F",
-      "description": "Dans le cadre de notre développement, nous recherchons un Apprenti - Ingénieur d'essai H/F, basé à Genas avec des grands déplacements sur le territoire national.En tant que Apprenti - Ingénieur d'essai  vous avez pour missions de participer au pilotage, organiser et superviser les activités d'essais techniques et fonctionnels des installations, afin de garantir leur conformité aux exigences contractuelles, réglementaires et techniques. Vos missions seront :  \nAnalyser les exigences techniques et réglementaires (plans, spécifications, référentiels sûreté).Définir la stratégie d'essai en lien avec les services d'ingénierie, d'exploitation ou de maintenance.Élaborer ou participer à la rédaction des procédures d'essai, modes opératoires, et plans de tests.Identifier les moyens humains, matériels et documentaires nécessaires (appareils de mesure, outillage, équipements de sécurité).Planifier les essais dans le respect du planning projet, en intégrant les contraintes de coactivité et d'accès.Exploiter les résultats d'essais : conformité aux critères d'acceptation, comportements fonctionnels, performance.Identifier les non-conformités ou écarts, en établir les causes probables, et contribuer à la définition des actions correctives.Présenter les résultats et conclusions aux responsables de projet, à l'exploitant ou au client final.La liste des missions n'est pas exhaustives.",
+      "description": "Dans le cadre de notre développement, nous recherchons un Apprenti - Ingénieur d'essai H/F, basé à Genas avec des grands déplacements sur le territoire national.En tant que Apprenti - Ingénieur d'essai vous avez pour missions de participer au pilotage, organiser et superviser les activités d'essais techniques et fonctionnels des installations, afin de garantir leur conformité aux exigences contractuelles, réglementaires et techniques. Vos missions seront : \nAnalyser les exigences techniques et réglementaires (plans, spécifications, référentiels sûreté).Définir la stratégie d'essai en lien avec les services d'ingénierie, d'exploitation ou de maintenance.Élaborer ou participer à la rédaction des procédures d'essai, modes opératoires, et plans de tests.Identifier les moyens humains, matériels et documentaires nécessaires (appareils de mesure, outillage, équipements de sécurité).Planifier les essais dans le respect du planning projet, en intégrant les contraintes de coactivité et d'accès.Exploiter les résultats d'essais : conformité aux critères d'acceptation, comportements fonctionnels, performance.Identifier les non-conformités ou écarts, en établir les causes probables, et contribuer à la définition des actions correctives.Présenter les résultats et conclusions aux responsables de projet, à l'exploitant ou au client final.La liste des missions n'est pas exhaustives.",
       "target_diploma": null,
       "rome_codes": [
         "H1206"
@@ -4731,8 +4731,8 @@
     {
       "id": "6a3473408846a43a71e4ea9a",
       "partner_label": "France Travail",
-      "title": "Alternance - ingénieur en electricité electro technique F/H (H/F)",
-      "description": "Vous pourrez acquérir des compétences dans le double domaine :Electro-technique, et réseaux de distribution électrique Haute Tension et Basse Tension,Instruction et analyse des réclamations dans le domaine de l'électricité (coupure, variation de tension.) Vous serez amené à analyser les documents explicatifs de l'évènement électrique et à mener un travail d'investigation sur l'origine et les causes de l'évènement dommageable.\nVous assurerez des séances de professionnalisation sur les outils informatiques et sur l'électricité et contribuerez à la veille technique et à la diffusion des informations.",
+      "title": "Alternance - ingénieur en electricité electro technique F/H",
+      "description": "Vous pourrez acquérir des compétences dans le double domaine :Electro-technique, et réseaux de distribution électrique Haute Tension et Basse Tension,Instruction et analyse des réclamations dans le domaine de l’électricité (coupure, variation de tension…) Vous serez amené à analyser les documents explicatifs de l’évènement électrique et à mener un travail d'investigation sur l'origine et les causes de l’évènement dommageable.\nVous assurerez des séances de professionnalisation sur les outils informatiques et sur l’électricité et contribuerez à la veille technique et à la diffusion des informations.",
       "target_diploma": null,
       "rome_codes": [
         "I1309"
@@ -10490,7 +10490,7 @@
         "Apprentissage"
       ],
       "contract_start": null,
-      "apply_url": "https://jobs.ponticelli.com/fr/offer/10654-MjAyNi0yNDEw?companies=GenSun",
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/209XVGF",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     },
@@ -14084,8 +14084,8 @@
     {
       "id": "6a541632dea3d72aa231c699",
       "partner_label": "France Travail",
-      "title": "Alternance - technicien electricité F/H (H/F)",
-      "description": "Au sein des équipes opérationnelles, vous intervenez en amont des chantiers afin depréparer et organiser les travaux Haute Tension et Basse Tension, dans le respect desexigences de sécurité, de performance technique et d'optimisation des coûts.\nVous contribuezL'organisation et la priorisation des activités- La planification des ressources humaines, matérielles et des équipements- La programmation rigoureuse des interventions- Le respect strict des règles de sécurité sur les chantiersPositionné à l'interface entre la préparation et l'intervention terrain, vous participezactivement au bon fonctionnement des opérations réseau :- Mise en œuvre des procédures d'exploitation et réglementaires- Réalisation et délivrance des consignations- Contribution à la qualité des interfaces entre équipes- Appui au management de la Base Opérationnelle- Participation au développement des compétences des techniciensUne alternance mêlant terrain, organisation et coordination",
+      "title": "Alternance - technicien electricité F/H",
+      "description": "Au sein des équipes opérationnelles, vous intervenez en amont des chantiers afin depréparer et organiser les travaux Haute Tension et Basse Tension, dans le respect desexigences de sécurité, de performance technique et d’optimisation des coûts.\nVous contribuezL’organisation et la priorisation des activités• La planification des ressources humaines, matérielles et des équipements• La programmation rigoureuse des interventions• Le respect strict des règles de sécurité sur les chantiersPositionné à l’interface entre la préparation et l’intervention terrain, vous participezactivement au bon fonctionnement des opérations réseau :• Mise en œuvre des procédures d’exploitation et réglementaires• Réalisation et délivrance des consignations• Contribution à la qualité des interfaces entre équipes• Appui au management de la Base Opérationnelle• Participation au développement des compétences des techniciensUne alternance mêlant terrain, organisation et coordination",
       "target_diploma": null,
       "rome_codes": [
         "I1309"
@@ -15563,6 +15563,495 @@
       ],
       "contract_start": null,
       "apply_url": "https://www.meteojob.com/jobs/55466985?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a5aadb96cce1228eac1fc9f",
+      "partner_label": "France Travail",
+      "title": "Alternance - Ingénieur Industrialisation / Mécanique F/H",
+      "description": "Au sein de la Direction Industrialisation et Technique de l'usine de Saint-Marcel (71), vous serez affecté/e à l'industrialisation d’un produit sur un projet en collaboration avec le responsable technique industrialisation (RTI), et à la coordination d’un sous-ensemble de la cuve EPR 2. Dans ce cadre, vos missions principales seront notamment les suivantes :o   Configurer la gamme de fabrication à partir d’une gamme standard et de la déclinaison des exigences contractuelles (TDS),o   Assurer l’interface avec les entités procédés pour assurer la bonne déclinaison des exigences dans les instructions de fabrication (MDS),o   Assurer l’interface avec l’atelier pour s’assurer de la composition de la gamme,o   Réaliser des AMDEC sur les opérations de fabrication du sous-ensemble en coordination avec le RTI et les équipes méthodes,o   Participer aux études de poste du sous-ensemble et décliner les améliorations dans les gammes et la documentation associées,o   Participer aux Rex Boucle Courte Qualité : créer et gérer les fiches articles qualité, piloter les actions compilées dans les fiches,o   Maitriser les coûts et les délais des gammes du sous-ensemble avec des hypothèses techniques claires compilées dans la CK.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "01390 Saint-Marcel",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55149926?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5aadbd6cce1228eac1fdab",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne chimiste en laboratoire d'analyse indus (H/F)",
+      "description": "Viens partager notre quotidien en alternance, au sein de notre laboratoire à Saint-Grégoire (35).\n\nIntégré(e) dans notre laboratoire de 78 collaborateurs(trices), tu travailles aux côtés d'Amélie afin de préparer les échantillons en vue de leurs analyses.\n\n \nTes missions principales :\n\nEffectuer différentes manipulations afin de préparer les échantillons (prélèvement, broyage, dissolution...)\nApprovisionner les différents postes de travail.\nRéaliser de la maintenance d'appareils de premier niveau.\nRespecter les procédures et les délais.\nParticiper à la gestion du stock des consommables.\nAfin de t'accompagner au mieux dans ton apprentissage, tu es épaulé(e) par un(e) super Tuteur(rice) !\n\nL'opportunité que nous t'offrons :\n\nAvoir UNE ENTREPRISE (Saint-Grégoire) + UNE ECOLE (cours majoritairement à distance avec 3 semaines en présentiel) pour obtenir ton Bac+2 !\nLa formation se déroule sur 12 mois avec 75% de temps en entreprise.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "address": "35760 Saint-Grégoire",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211HMDW",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5aaf479e972c0713e1362a",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Ingénieur d'unité de production industrielle F/H - H/F",
+      "description": "<p>  Référence : AA1524NF  <br />  Lieu : La Ferté-Saint-Aubin, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au sein de l'activité Véhicules et Systèmes Tactiques, le site de La Ferté Saint Aubin est spécialisé dans la production de systèmes d'armements terrestres et aéroportés (mortiers, munitions, roquettes…), de systèmes de protection des forces et de contrôle de zone. Fort de ses 450 salariés, ingénieurs, techniciens et ouvriers spécialisés, le site de la Ferté Saint Aubin assure la recherche et développement, la production, les essais ainsi que toutes les fonctions « supports » nécessaires à la conception de systèmes performants essentiels à la réussite des missions opérationnelles. Thales a constitué, avec le groupe allemand de défense DIEHL, une Joint-Venture « JUNGHANS T2M » qui compte 165 salariés permettant aux deux entreprises d'associer leurs compétences d'électronique et de mécanique de précision et de devenir ainsi un des leaders mondiaux dans le domaine des fusées de munitions. Cette Joint-Venture est présente également sur le site de La Ferté saint Aubin.   <br />   Sur le site de La Ferté Saint Aubin à proximité d'Orléans, au sein du Centre de Compétences Industrielles, vous intégrerez l'Unité de Production et Réparation Autonome (A.P.R.U) des systèmes d'armes.Vous travaillerez en étroite collaboration avec de multiples interlocuteurs : l'atelier de production , le service Process Engineering, le service Qualité, le Centre de Compétences Techniques et la Supply Chain.Sous la responsabilité du Responsable Produits Série, vous participerez à la montée en maturité.   <br />   Vos missions:   <br />  </li>  <li>   Analyse du processus de gestion des évolutions et proposition d'axes améliorations pour maitriser et piloter au sein du service la qualité de ce processus.   <br />  </li>  <li>   Identification, analyse et mise en place d'amélioration et de modernisation des moyens de mesures   <br />  </li>  <li>   Participation à la mise en place de l'EN9100 (focus FOD et application des procédés spéciaux)   <br />  </li>  <li>   Support de l'équipe dans le traitement des faits techniques et de la Non-Qualité en utilisant les méthodes de résolution de problèmes.   <br />   Votre profil:   <br />   Formation: En préparation d'un diplôme d'ingénieur ou un équivalent Bac+5 généraliste ou en génie industriel.   <br />   Durée: 1 an.   <br />   Compétences/connaissances requises:   <br />  </li>  <li>   gestion de production   <br />  </li>  <li>   outils du Lean   <br />  </li>  <li>   mécanique et hydraulique   <br />  </li>  <li>   pilotage de projet et gestion d'équipe transversale   <br />  </li>  <li>   rigueur, esprit de synthèse, organisation et bon relationnel   <br />   Le mot de l'équipe:Venez travailler avec nous au sein de l'APRU dans un environnement industriel en pleine évolution pour gagner en maturité industrielle et atteindre nos objectifs de performance.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable d'unité industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "45240 La Ferté-Saint-Aubin",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55512367?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5aa64f73e46f4c82db2e65",
+      "partner_label": "Nos Talents Nos Emplois",
+      "title": "Alternant Laboratoire - Contrôle et Qualité industrielle",
+      "description": "<p>  <strong>Découvrez un projet qui vous ressemble !</strong> </p> <p> Envie de rejoindre une PME à taille humaine en mouvement où le management de proximité favorise la coopération, l’autonomie et la recherche de performance ? </p> <p>Alors lisez la suite !</p> <p>La société Depagne est une référence depuis plus de 100 ans sur le marché français de la fabrication de matériels de raccordement, de protection et de distribution électrique destinés au réseau de distribution publique.</p> <p>Grâce à sa politique d’innovation, elle est également devenue leader européen sur les marchés de bornes portuaires et a su renforcer sa présence à l’international.</p> <p>Nous vous offrons une alternance où développer vos compétences et exprimer pleinement votre potentiel. La diversité des missions confiées et les enjeux liés à l’amélioration de notre organisation vous permettront de contribuer activement à la performance de notre laboratoire.</p> <p>  <strong>Venez exprimer votre potentiel !</strong> </p> <p>Rattaché· e au Responsable laboratoire, vous participez à la réalisation des contrôles qualité sur les produits et matières, au suivi des non-conformités et à l’amélioration continue du système de contrôle. Votre mission contribue directement à fluidifier les opérations et à renforcer la fiabilité de nos processus.</p> <p>Pour ce faire, vous aurez la charge de :</p> <p>· Réaliser les contrôles qualité récurrents (contrôle dimensionnel et matière)</p> <p>· Réaliser les essais matière</p> <p>· Suivre et gérer les non-conformités</p> <p>· Mettre à jour les procédures existantes</p> <p>· Améliorer le système de contrôle</p> <p>· Automatiser certaines tâches récurrentes (Excel, …)</p> <p>· Participer à d’autres missions selon votre profil</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Technicien de laboratoire de contrôle de fabrication des industries de process (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: À partir de 12,31 € par heure\r\n\r\nProfil: <p>  <strong>Venez développer votre potentiel !</strong> </p> <p>· Vous préparez un Bac +2 à Bac +3 en qualité, mesures physiques, ou dans un domaine technique ;</p> <p>· Une première expérience ou formation en lien avec la qualité, le laboratoire ou la métrologie ;</p> <p>· Maîtrise des outils bureautiques, en particulier Excel ;</p> <p>· Habileté manuelle et goût pour le travail de terrain ;</p> <p>· Vous êtes rigoureux.se, curieux.se, logique et avez une bonne capacité d’analyse ;</p> <p>· Vous êtes à l’aise dans un environnement technique ;</p> <p>  <strong>L'aventure vous tente ? Rencontrons-nous pour en discuter !</strong> </p> <p>Ce que nous vous proposons :</p> <p>· PME industrielle basée en Isère (160 collaborateurs) qui conçoit et fabrique ses produits en France</p> <p>· Un management participatif et collaboratif</p> <p>· Une ambiance conviviale</p> <p>· Des tickets restaurant à partir de 6 mois d’ancienneté</p> <p>· Une prime semestrielle</p> <p>· Intéressement et participation</p> <p>· Contexte : Création de poste</p> <p>· Lieu de travail : la Rivière (38)</p> <p>· Type d’offre : CDI</p> <p>· Statut : Alternance d’une durée de 1 an</p> <p>· Date de démarrage souhaitée : Septembre 2026</p> <p>  <strong>Envie de nous rejoindre ?</strong> </p> <p>  <strong>Les étapes du recrutement</strong> </p> <p>· Etape 1 : Préqualification téléphonique</p> <p>· Etape 2 : Entretien avec le service RH et le manager</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "DEPAGNE",
+      "address": "la Rivière 38150 Saint-Romain-de-Surieu",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-08-31T00:00:00.000Z",
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16101400?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5a35a28bfdaae34d6a5902",
+      "partner_label": "offres_emploi_lba",
+      "title": "Technicien / Technicienne de maintenance d'équipements de production",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "S.N. COMPTOIR RHODANIEN",
+      "address": "30 AVENUE DES LOTS 26600 TAIN-L'HERMITAGE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5a35a28bfdaae34d6a5902/technicien-technicienne-de-maintenance-d-équipements-de-production",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aadbe6cce1228eac1fdc1",
+      "partner_label": "France Travail",
+      "title": "Alternance - Technicien Maintenance &amp; Produits d'Instrumentation Nucléaire F/H",
+      "description": "Au sein de l’équipe maintenance et sous la supervision de son tuteur, l’alternant(e) contribue au bon fonctionnement des équipements liés à l’activité instrumentation. Il/elle participe aux opérations de maintenance préventive et corrective, au suivi des interventions, ainsi qu’à la gestion des outils et ressources nécessaires au maintien en condition opérationnelle des ateliers. Missions principales :Réaliser des opérations de maintenance préventive et curative sur les équipements des ateliers d’instrumentation.Participer au diagnostic des pannes, à la remise en état et aux tests de bon fonctionnement.Assurer la maintenance de niveau 1 des postes de travail sur la plateforme de contrôle fabrication (cartes électroniques).Renseigner et mettre à jour les interventions dans l’outil de gestion de maintenance assistée par ordinateur (GMAO).Suivre l’avancement des actions correctives et préventives.Identifier, ranger et suivre les stocks de pièces détachées.Participer à la gestion des gaz techniques et des produits chimiques : suivi des déchets, approvisionnements.Contribuer à la création et à la mise à jour des plans de maintenance.Participer aux nouveaux investissements de l’atelier (suivi de projet, installation, mise en service, documentation).",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "38000 Grenoble",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/54224857?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aadc16cce1228eac1fe83",
+      "partner_label": "France Travail",
+      "title": "Alternance Mécanicien de maintenance industrielle (H/F)",
+      "description": "Vous souhaitez apprendre un métier technique, concret et essentiel à la production industrielle ?\nUne entreprise industrielle à CAUDRY (59)\n (reconnue pour son savoir-faire dans le textile haut de gamme recherche un(e) alternant(e) mécanicien(ne) de maintenance industrielle pour rejoindre son équipe maintenance.\n\nVous intégrerez une équipe composée de professionnels expérimentés, passionnés par leur métier et attachés à la transmission de leurs compétences. Vous évoluerez dans un environnement bienveillant, où l'entraide, l'accompagnement et l'apprentissage sont au cœur du quotidien.\n\nVos missions\nAccompagné(e) par votre tuteur et l'équipe maintenance, vous apprendrez à :\n- Assurer la maintenance préventive et curative des équipements de production.\n- Participer aux diagnostics de pannes et aux réparations.\n- Réaliser des opérations de démontage, remontage et réglage des machines.\n- Effectuer des travaux de mécanique générale.\n- Découvrir et pratiquer des opérations de : \no soudure TIG et MIG,\no perçage,\no taraudage,\no ajustage de pièces mécaniques.\n- Participer à l'amélioration de la fiabilité des équipements.\n- Accompagner les projets de modernisation et d'automatisation des procédés de fabrication.\n- Respecter les consignes de sécurité et les bonnes pratiques de maintenance.\n\nProfil recherché\nVous préparez une formation dans le domaine de la mécanique ou de la maintenance industrielle.\nDébutant(e) accepté(e).\nNous recherchons avant tout une personne :\n- Curieuse et motivée à apprendre.\n- Passionnée par la mécanique.\n- Aimant comprendre le fonctionnement des machines.\n- Bricoleuse et manuelle.\n- Sérieuse et rigoureuse.\n- Capable de travailler en équipe.\n- Désireuse de s'investir dans un métier technique offrant de réelles perspectives d'évolution.\n\nLes profils ayant un intérêt pour la mécanique automobile, moto, vélo ou les activités de réparation et de bricolage seront particulièrement appréciés.\n\nConditions de travail\n- Contrat en alternance.\n- Travail en journée.\n- Environnement de travail tempéré.\n- Poste manuel et physique.\n- Environnement sonore bruyant.\n- Interventions sur plusieurs sites de production situés à proximité.\n\nPré-requis\n- Permis B souhaité ou en cours d'obtention.\n- Mobilité permettant de se rendre sur les différents sites de l'entreprise.\n\nCe que nous vous proposons\n- L'apprentissage d'un métier rare et recherché.\n- Un accompagnement de proximité par une équipe expérimentée et bienveillante.\n- Une montée en compétences progressive dans un environnement industriel de qualité.\n-La possibilité d'évoluer vers un poste durable à l'issue de l'alternance.\n-Une expérience valorisante mêlant savoir-faire traditionnel et modernisation des équipements industriels.\n\nVous êtes passionné(e) par la mécanique, aimez le travail concret et souhaitez apprendre auprès de professionnels expérimentés ? Rejoignez-nous et participez à la maintenance d'équipements au cœur de la production industrielle",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "59540 Caudry",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211HSSX",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e1360e",
+      "partner_label": "Meteojob",
+      "title": "Apprenti BTS Maintenance des Systèmes (H/F)",
+      "description": "<p>La société FRAMATEC, est spécialisée depuis près de 40 ans dans la conception et fabrication de structures métalliques, de passerelles, d'ouvrages d'art, d'ouvrages complexes, de pièces mécano-soudées et serrurerie.</p> <p>Notre entreprise intervient dans le domaine du BTP, du Nucléaire, de l'Energie, de l'Export et de l'Industrie. Depuis sa création, FRAMATEC bâtit sa croissance et sa notoriété sur le respect de valeurs et d'engagements vis-à-vis de ses salariés et de ses clients.</p> <p>Société à taille humaine, l'histoire de FRAMATEC est avant tout celle d'une famille de passionnés.</p> <p>Nos 100 collaborateurs, présents sur deux sites dans les Vosges Dinozé et Rambervillers, dédié au traitement de surface sur métaux, s'appliquent à mettre en lumière le savoir-faire industriel, que nous valorisons en France et à l'International.</p> <p>  <strong>Pourquoi rejoindre notre équipe?</strong> </p> <p>  Vous recherchez une expérience professionnalisante et valorisante pour votre  <strong>BTS MS ?</strong> </p> <p>Chez nous, vous ne serez pas un(e) simple alternant(e) : vous serez un véritable acteur du service maintenance !</p> <p>Accompagné(e) d'un tuteur bienveillant et dynamique, vous aurez l'opportunité de monter en compétences sur des missions variées et transverses.</p> <p>  <strong>Vos missions: un rôle clé dans l'équipe</strong> </p> <p>Sous la supervision de notre Technicien de Maintenance, vous serez amené(e) à :</p> <p>  - Rechercher et analyser les pannes,  <br />  - Préparer et réaliser les interventions de maintenance,  <br />  - Remise en service des équipements,  <br />  - Entretien préventif des machines et infrastructures,  <br />  - Améliorer la fiabilité des installations,  <br />  - Renseigner la GMAO  <br />  - Organiser et préparer des interventions techniques.  <br /> </p> <p>  <strong>Vous pourrez intervenir sur différentes technologies : mécanique, électrique, pneumatique et hydraulique.</strong> </p> <p>Cette alternance vous permettra de développer des compétences techniques concrètes et de gagner progressivement en autonomie sur le terrain.</p> <p>  <strong>Votre profil ; plus qu'un diplôme, un état d'esprit</strong> </p> <p>- Vous préparez une formation BTS MS</p> <p>- Vous aimez travailler en équipe, partager vos idées et avez à cœur de contribuer à la réussite collective</p> <p>  <strong>Nos petits plus qui font la différence</strong> </p> <p>- 38h30 par semaine avec des missions variées et stimulantes</p> <p>- Contrat d'apprentissage ou de professionnalisation de 12 ou 24 mois en fonction de votre parcours</p> <p>- Transports en commun pris en charge à 75%</p> <p>- Mutuelle 100% prise en charge (part isolée)</p> <p>- Prime de participation/intéressement, équivalente à un 13ème mois</p> <p>- Chèque cadeau de fin d'année</p> <p>- Evènements internes pour cultiver l'esprit d'équipe</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "88000 Dinozé",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55511873?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e13611",
+      "partner_label": "Meteojob",
+      "title": "BTS MS (Maintenance des Systèmes) option A : Système de production H/F",
+      "description": "<p>Pourquoi choisir le Pôle formation UIMM Eure Seine Estuaire:</p> <p>Insertion professionnelle : Plus de 90% de nos apprentis trouvent un emploi dans les 12 mois après l'obtention de leur diplôme.</p> <p>Formations en apprentissage : Toutes nos formations sont gratuites et rémunérées. Vous apprenez tout en gagnant !</p> <p>Poursuite d'études : Du CAP à l'Ingénieur, nos parcours offrent une diversité d'opportunités pour votre avenir.</p> <p>Plateaux techniques : Évoluez dans plus de 15 000m² d'ateliers</p> <p>Équipes qualifiées : Nos formateurs sont des experts de l'Industrie avec plusieurs années d'expérience.</p> <p>Accompagnement : Nous vous aidons à trouver votre entreprise d'accueil grâce à des Job Dating, ateliers coaching CV et nos offres d'apprentissage.</p> <p>Le BTS MS forme des techniciens supérieurs capables d'assurer la maintenance préventive et corrective d'équipements industriels. Ils interviennent sur des installations pluri-technologiques (électrotechnique, mécanique, hydraulique, automatique) et gèrent également l'organisation des interventions, le dialogue avec les clients, et l'amélioration des systèmes.</p> <p>Accessible après un Bac Pro ou Général (ex. Bac MSPC, MELEC, STI2D), la formation alterne 2 semaines en entreprise et 2 semaines en centre sur 1 ou 2 ans. Les enseignements incluent des bases générales (maths, anglais, physique) et des modules techniques (analyse, organisation et techniques de maintenance).</p> <p>Avec un taux d'insertion professionnelle de 85%, les diplômés peuvent poursuivre en licence ou ingénierie ou devenir techniciens de maintenance, techniciens SAV ou spécialistes en automatismes. La formation est gratuite et rémunérée pour les alternants.</p> <p>Prérequis : niveau Bac minimum</p> <p>?️Durée : 1 ou 2 ans (2 semaines en entreprise - 2 semaines en centre de formation)</p> <p>?Lieux : Pole formation UIMM ESE site d'Evreux</p> <p>?Prochaine session : Inscription ouverte sur notre site pour la rentrée de septembre 2026</p> <p>?Public cible : Accessible en :</p> <p>- Contrat d'apprentissage (être âgé de moins de 30 ans)</p> <p>- Contrat de professionnalisation</p> <p>?Tarifs : Pour les alternants, formation gratuite et rémunérée.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "27000 Évreux",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55511886?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e1361c",
+      "partner_label": "Meteojob",
+      "title": "Technicien(ne) Maintenance/ Ingénieur Maintenance H/F",
+      "description": "<p>Grand groupe industriel allemand, leader mondial dans la conception, la fabrication et la distribution de systèmes de freinage pour les véhicules industriels (100 sites dans le monde), recherche pour l'une de ses deux filiales françaises, basée à Lisieux en Normandie un(e) :</p> <p>Apprenti(e) Technicien(ne) Maintenance/ Ingénieur Maintenance</p> <p>  Accompagné(e) d'un tuteur, vous aurez comme principales missions de :  <br />  ▪ Identifier les défauts de fonctionnements, analyse et rectification (maintenance curative) ;  <br />  ▪ Elaborer et exécuter la maintenance préventive dans le cadre d'une démarche ;  <br />  ▪ Analyser et résoudre la récurrence des pannes ;  <br />  ▪ Renseigner et exploiter les données dans la GMAO ;  <br />  ▪ Proposer des améliorations des équipements et les mettre en œuvre ;  <br />  ▪ Détecter les dangers environnementaux / sécurité et alerter. </p> <p>  Bases en maintenance préventive et curative  <br />  Capacité d'analyse et de résolution de pannes  <br />  Rigueur, autonomie et esprit d'équipe </p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "14100 Lisieux",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55512069?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e13619",
+      "partner_label": "Meteojob",
+      "title": "Alternance Technicien de maintenance industrielle H/F",
+      "description": "<p>Basée à Saint Léry (limitrophe entre le 35 et 56, zone forêt de Brocéliande) et spécialisée dans la requalification périodique d'équipements sous pression, SATS travaille pour des clients grands comptes du secteur de l'énergie.</p> <p>Dans un contexte de développement de nos projets techniques, nous recherchons un(e) alternant(e) Technicien(ne) de Maintenance.</p> <p>Intégré(e) à l'équipe maintenance, vous serez accompagné(e) par votre tuteur pour découvrir le métier et monter en compétences.</p> <p>Vos missions :</p> <p>  - Diagnostiquer et dépanner les équipements industriels (mécanique, électrique, hydraulique, pneumatique)  <br />  - Participer à la réalisation de la maintenance préventive et corrective dans le respect des règles QHSE  <br />  - Contribuer à l'amélioration du parc machines </p> <p>Vous préparez un BTS ou BUT en maintenance industrielle en alternance</p> <p>Vous êtes curieux(se), minutieux(se) et avez un réel intérêt pour les technologies industrielles</p> <p>Contrat d'alternance de 12 à 24 mois</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "56430 Saint-Léry",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55511998?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e13616",
+      "partner_label": "Meteojob",
+      "title": "Apprenti Bac Pro MSPC (Maintenance des Systèmes de Production Connectés) (H/F)",
+      "description": "<p>La société FRAMATEC, est spécialisée depuis près de 40 ans dans la conception et fabrication de structures métalliques, de passerelles, d'ouvrages d'art, d'ouvrages complexes, de pièces mécano-soudées et serrurerie.</p> <p>Notre entreprise intervient dans le domaine du BTP, du Nucléaire, de l'Energie, de l'Export et de l'Industrie. Depuis sa création, FRAMATEC bâtit sa croissance et sa notoriété sur le respect de valeurs et d'engagements vis-à-vis de ses salariés et de ses clients.</p> <p>Société à taille humaine, l'histoire de FRAMATEC est avant tout celle d'une famille de passionnés.</p> <p>Nos 100 collaborateurs, présents sur deux sites dans les Vosges Dinozé et Rambervillers, dédié au traitement de surface sur métaux, s'appliquent à mettre en lumière le savoir-faire industriel, que nous valorisons en France et à l'International.</p> <p>  <strong>Pourquoi rejoindre notre équipe?</strong> </p> <p>  Vous recherchez une expérience professionnalisante et valorisante pour votre  <strong>Bac Pro MSPC ?</strong> </p> <p>Chez nous, vous ne serez pas un(e) simple alternant(e) : vous serez un véritable acteur du service maintenance !</p> <p>Accompagné(e) d'un tuteur bienveillant et dynamique, vous aurez l'opportunité de monter en compétences sur des missions variées et transverses.</p> <p>  <strong>Vos missions : un rôle clé dans l'équipe</strong> </p> <p>Sous la supervision de notre Technicien de Maintenance, vous serez amené(e) à :</p> <p>  - Rechercher et analyser les pannes,  <br />  - Préparer et réaliser les interventions de maintenance,  <br />  - Remise en service des équipements,  <br />  - Entretien préventif des machines et infrastructures,  <br />  - Améliorer la fiabilité des installations,  <br />  - Renseigner la GMAO  <br />  - Organiser et préparer des interventions techniques.  <br />  <strong>   <br />   Vous pourrez intervenir sur différentes technologies : mécanique, électrique, pneumatique et hydraulique.  </strong> </p> <p>Cette alternance vous permettra de développer des compétences techniques concrètes et de gagner progressivement en autonomie sur le terrain.</p> <p>  <strong>Votre profil ; plus qu'un diplôme, un état d'esprit</strong> </p> <p>- Vous préparez une formation Bac Pro MSPC</p> <p>- Vous aimez travailler en équipe, partager vos idées et avez à cœur de contribuer à la réussite collective</p> <p>  <strong>Nos petits plus qui font la différence</strong> </p> <p>- Transports en commun pris en charge à 75%</p> <p>- Mutuelle 100% prise en charge (part isolée)</p> <p>- Prime de participation/intéressement, équivalente à un 13ème mois</p> <p>- Chèque cadeau de fin d'année</p> <p>- Evènements internes pour cultiver l'esprit d'équipe</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "88000 Dinozé",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55511923?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aaf469e972c0713e1361f",
+      "partner_label": "Meteojob",
+      "title": "Apprenti(e) Technicien de maintenance H/F",
+      "description": "<p>Monosem a semé sa graine en 1948 à Largeasse, a cultivé ses compétences et a grandi pour bénéficier d'une expertise incontestable et confirmer son leadership commercial en Europe, dans les semoirs de précision pour grandes cultures et cultures spécialisées. Nous avons intégré le groupe John Deere en 2016 : 1er producteur mondial d'équipements agricoles.</p> <p>Monosem, c'est trois unités de fabrication sur le secteur de Bressuire (79) environ 300 salariés ! Fortement développée à l'international au fil des ans, réalisant 2/3 de son CA à l'Export.</p> <p>  - Participer à l'installation, aux réparations et à l'entretien des machines et installations  <br />  - S'informer sur l'application des normes de conformité (sécurité, qualité, environnement)  <br />  - Participer aux interventions en cas de panne  <br />  - Travailler en collaboration avec des prestataires externes  <br />  - Être acteur dans la mise en œuvre et l'amélioration des démarches Monogreen et Monosafe  <br />  de l'entreprise </p> <p>  <strong>Les + de ce job :</strong> </p> <p>  - Equipe pédagogue et prête à transmettre son savoir  <br />  - Environnement dynamique, bienveillant et innovant  <br />  - Une expérience dans le groupe John Deere, de renommée mondiale.  <br />  - Faire partie d'une entreprise engagée pour l'environnement  <br />  (certification ISO 14001)  <br />  - Entreprise en cours de modernisation </p> <p>  - Être curieux(se) et avoir envie d'apprendre  <br />  - Avoir une capacité d'écoute et d'adaptation  <br />  - Connaissances de base en hydraulique, mécanique, automatisme, ... </p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "79240 Largeasse",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55512104?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5aadc36cce1228eac1ff15",
+      "partner_label": "France Travail",
+      "title": "Opérateur/trice de production (H/F)",
+      "description": "RESPONSABILITÉS : \n\nAu fil de ta montée en compétences, tu seras amené(e) à :\n\n\n\nPréparer ton activité de production : organiser ton poste de travail, préparer les matières, les outils et les équipements nécessaires.\nRéaliser les opérations de production : alimenter les installations, appliquer les consignes et assurer le bon déroulement des opérations.\nSurveiller les paramètres de production : contrôler le bon fonctionnement des installations et signaler toute anomalie.\nGarantir la qualité des productions : réaliser les contrôles visuels, identifier les écarts et renseigner les documents de suivi.\nParticiper à l'entretien des équipements : nettoyage, rangement et maintenance de premier niveau.\nAppliquer strictement les règles de sécurité et contribuer à la bonne transmission des informations entre les équipes.\n\n\n\nCe que nous t'offrons\n\n\n • Un contrat de professionnalisation via GEIQ Industrie Savoie\n • Une formation certifiante avec l'obtention d'un diplôme reconnu : CQP Équipier de Production Industrielle\n • Une possibilité d'intégration durable à l'issue du parcours\n • Taux horaire 14.09€ pour 149.5h\n • Des horaires 3x8\n • Un 13ème mois\n • Des RTT\n • Heures de nuit majorées\n • Primes diverses\n • Un accompagnement personnalisé et un tutorat dédié\n • Une immersion dans un environnement industriel de haute technicité\n • Une entreprise engagée, prête à investir durablement dans ton avenir professionnel\n\nPROFIL RECHERCHÉ : \n\nTu es rigoureux(se), attentif(ve) et motivé(e), avec l'envie de t'investir dans un environnement industriel exigeant.\nTu souhaites apprendre un métier concret au cœur de la production.\nTu fais preuve de motivation pour te former, développer tes compétences et construire un véritable projet professionnel.\nTu respectes les consignes, les procédures et les règles de sécurité.\nTu apprécies le travail en équipe et sais faire preuve de vigilance, de réactivité et d'adaptation.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ INDUSTRIE SAVOIE",
+      "address": "73400 Ugine",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/34viilpt7e8/operateur-trice-de-production",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5aadc36cce1228eac1ff16",
+      "partner_label": "France Travail",
+      "title": "Opérateur/trice de production (H/F)",
+      "description": "RESPONSABILITÉS : \n\nAu fil de ta montée en compétences, tu seras amené(e) à :\n\n\n\nPréparer ton activité de production : organiser ton poste de travail, préparer les matières, les outils et les équipements nécessaires.\nRéaliser les opérations de production : alimenter les installations, appliquer les consignes et assurer le bon déroulement des opérations.\nSurveiller les paramètres de production : contrôler le bon fonctionnement des installations et signaler toute anomalie.\nGarantir la qualité des productions : réaliser les contrôles visuels, identifier les écarts et renseigner les documents de suivi.\nParticiper à l'entretien des équipements : nettoyage, rangement et maintenance de premier niveau.\nAppliquer strictement les règles de sécurité et contribuer à la bonne transmission des informations entre les équipes.\n\n\n\n\n\nCe que nous t'offrons\n\n\n • Un contrat de professionnalisation via GEIQ Industrie Savoie\n • Une formation certifiante avec l'obtention d'un diplôme reconnu : CQPI Conducteur d'Equipement Industriel\n • Une possibilité d'intégration durable à l'issue du parcours\n • Un taux horaire 14,09 € pour 149,5h de travail\n • Des horaires en 3x8\n • Un 13ème mois\n • Des RTT\n • Heures de nuit majorées\n • Primes diverses\n • Un accompagnement personnalisé et un tutorat dédié\n • Une immersion dans un environnement industriel de haute technicité\n • Une entreprise engagée, prête à investir durablement dans ton avenir professionnel\n\nPROFIL RECHERCHÉ : \n\n • Tu es rigoureux(se), méthodique et attentif(ve), avec l'envie de t'investir dans un environnement industriel\n • Tu souhaites apprendre un métier technique, au cœur de la production\n • Tu fais preuve d'une forte motivation pour te former, développer de nouvelles compétences et construire un véritable projet professionnel\n • Tu es à l'aise avec le respect des consignes, des procédures et des règles de sécurité\n • Tu apprécies le travail en équipe et la collaboration avec différents services (production, maintenance, qualité)\n • Tu sais faire preuve de réactivité, d'observation et d'adaptation face aux aléas de production\nAucune expérience exigée : ta motivation, ton sérieux et ton engagement seront les clés de ta réussite dans ce parcours de formation en CQP Conducteur d'Equipement Industriel.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ INDUSTRIE SAVOIE",
+      "address": "73400 Ugine",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hj6vmmzlqp8/operateur-trice-de-production",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5aadba6cce1228eac1fce0",
+      "partner_label": "France Travail",
+      "title": "Alternant Méthodes (H/F)",
+      "description": "? Votre mission\n\n\nRattaché(e) au service Méthodes, vous participerez au déploiement d'un projet d'amélioration industrielle portant sur le vissage au couple au sein de notre site de production.\n\n\nÀ ce titre, vous serez notamment amené(e) à :\n\n\nParticiper au déploiement du vissage au couple sur les postes de production.\nAnalyser les besoins des différents ateliers.\nDéfinir les modes opératoires et les standards associés.\nParticiper aux essais et à la validation des solutions mises en place.\nAccompagner les équipes dans la prise en main des nouveaux équipements et procédures.\nContribuer à l'amélioration continue des procédés de fabrication.\n\n\n \n\n✅ Votre profil\n\n\nVous préparez un BUT Génie Mécanique et Productique (GMP) et recherchez une alternance d'une durée d'un an.\n\n\nVous êtes :\n\n\ncurieux(se) et rigoureux(se) ;\norganisé(e) et autonome ;\ndoté(e) d'un bon esprit d'analyse ;\nà l'aise dans un environnement industriel.\nUne première expérience en production ou en méthodes serait un plus.\n\n\nCe que nous vous proposons\nUne alternance au cœur d'un site industriel.\nUn projet concret avec un véritable impact sur la production.\nUn accompagnement par des professionnels expérimentés.\nUne montée en compétences sur les méthodes industrielles et l'amélioration continue.\n\n\n\n? Durée : 1 an\n? Lieu : Lambesc (13)\n? Formation : BUT Génie Mécanique et Productique (GMP)\n\n\nRejoignez nous pour contribuer à un projet industriel concret et développer vos compétences au sein d'une équipe dynamique !\n\n\n \n\n\nChez PB, nous valorisons nos collaborateurs et leur engagement\n\n\nIci, chacun(e) a sa place et évolue dans un cadre bienveillant et dynamique !\n\n\nCe poste vous intéresse ? Postulez dès maintenant et échangeons ensemble sur votre futur chez PB !\n\n\n \n\n\nBienvenue chez PB Environnement ! \n\n\nNos engagements\n- Innovation durable : solutions pour diminuer les nuisances environnementales.\n- Respect des valeurs Qualité, Sécurité et Environnement.\n- Une aventure humaine où chacun a sa place pour grandir et faire évoluer nos méthodes.\n\n\nPrêt(e) à relever le défi et intégrer une entreprise tournée vers l'avenir ?\n\n\nRejoignez l'aventure PB et contribuez activement à l'usine du futur !\n\n\n \n\n\nProcessus de recrutement\n\n\nVous postulez ? Voici comment ça se passe !\n\n\n1-Analyse de votre candidature - Notre équipe étudie votre profil avec attention.\n2-Entretien avec les RH et le manager - Un premier échange pour mieux comprendre vos motivations et vous présenter le poste.\n3-Selon le poste, un second entretien et une visite du site peuvent être organisés pour aller plus en détail.\n4-Décision et retour - Nous vous donnons une réponse rapidement, quelle qu'elle soit !\n\n\nSi vous nous rejoignez, bienvenue ! Un parcours d'intégration est prévu pour vous accompagner dès votre arrivée.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "FAUN Environnement",
+      "address": "13410 Lambesc",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/820704?utm_source=NQ==",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5aaf489e972c0713e1368e",
+      "partner_label": "Meteojob",
+      "title": "Apprenti Ingénieur Méthodes &amp; Industrialisation f/h",
+      "description": "<p>  <em>En combinant les mondes réel et numérique, Siemens Smart Infrastructure révolutionne les bâtiments, l'électrification et les réseaux intelligents.</em> </p> <p>  <em>   Notre technologie permet de créer des infrastructures plus performantes, résilientes et durables qui répondent aux défis de l'urbanisation et de la transition énergétique.   <br />   En rejoignant nos équipes, vous participez à des projets innovants qui transforment concrètement les infrastructures de demain.  </em> </p> <p>Rejoignez notre équipe Smart Infrastructure à Wittelsheim et contribuez activement à l'optimisation de nos processus de production. En tant qu'Apprenti Ingénieur Méthodes &amp; Industrialisation, vous jouerez un rôle clé dans l'amélioration continue de nos outils et l'industrialisation de nos nouveaux produits, participant ainsi à l'excellence opérationnelle de notre site.</p> <p>Les activités de ce site d'environ 70 personnes sont l'intégration et la personnalisation de centrales de détection incendie et de systèmes de mise en sécurité pour l'aéronautique et le bâtiment, ainsi que la fabrication et reconditionnement de détecteurs de fumée.</p> <p>  <strong>Vos principales responsabilités :</strong> </p> <ul>  <li>Intégrer le service des Méthodes d'un site de production dynamique, en apportant votre regard neuf et vos compétences.</li>  <li>Contribuer activement à l'amélioration continue de nos outils de production, en identifiant les axes d'optimisation et en proposant des solutions innovantes.</li>  <li>Prendre part à l'industrialisation de nouveaux produits, de la conception à la mise en œuvre, en garantissant leur intégration fluide dans nos lignes de fabrication.</li>  <li>Assurer le suivi en vie série des modifications, en veillant à la conformité et à l'efficacité des ajustements apportés.</li>  <li>Participer au déploiement de nouvelles activités, notamment dans les domaines de l'Extinction et du Câblage, en apportant votre support méthodologique et technique.</li> </ul> <p>  Ce poste en  contrat d'apprentissage  est basé à Wittelsheim (68) et est à pourvoir à partir de septembre 2026 pour une durée de 2 à 3 ans. </p> <p>  <strong>Votre profil :</strong> </p> <p>Vous préparez un Master ou un diplôme d'Ingénieur en génie industriel, production ou management des systèmes industriels.</p> <p>Vous êtes doté d'une solide compréhension des principes du Lean Manufacturing et avez un intérêt marqué pour la gestion de projets. La création de gammes, d'instructions de travail et de nomenclatures vous est familière, et vous êtes à l'aise avec la réalisation de tableaux de bord ainsi que la définition et le suivi de KPI.</p> <p>Une connaissance de SAP serait un atout apprécié.</p> <p>Nous recherchons une personne proactive, rigoureuse et dotée d'un excellent esprit d'équipe, prête à s'investir pleinement dans des projets concrets.</p> <p>L'aventure vous attend ! Postulez maintenant !</p> <p>  Nous valorisons la diversité des parcours, des identités et des talents comme moteur d'innovation et de performance. Nous nous engageons à offrir à chacun des opportunités équitables et un accès juste au développement professionnel, en supprimant toute barrière, quels que soient l'origine, le genre, l'âge ou la situation de handicap.  <br />  Pour les candidats en situation de handicap, nous adaptons notre processus de recrutement. Pour un accompagnement personnalisé lors de votre candidature, contactez notre référent Mission Handicap : *** </p>\r\n\r\nSecteur: Industrie Electronique, Biens d'équipements\r\n\r\nPoste: Ingénieur méthodes et industrialisation (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "SIEMENS",
+      "address": "68310 Wittelsheim",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55525860?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5aaf469e972c0713e13610",
+      "partner_label": "Meteojob",
+      "title": "Licence Pro GPI (Amélioration Continue de la Production Industrielle) H/F",
+      "description": "<p>Pourquoi choisir le Pôle formation UIMM Eure Seine Estuaire:</p> <p>Insertion professionnelle : Plus de 90% de nos apprentis trouvent un emploi dans les 12 mois après l'obtention de leur diplôme.</p> <p>Formations en apprentissage : Toutes nos formations sont gratuites et rémunérées. Vous apprenez tout en gagnant !</p> <p>Poursuite d'études : Du CAP à l'Ingénieur, nos parcours offrent une diversité d'opportunités pour votre avenir.</p> <p>Plateaux techniques : Évoluez dans plus de 15 000m² d'ateliers</p> <p>Équipes qualifiées : Nos formateurs sont des experts de l'Industrie avec plusieurs années d'expérience.</p> <p>Accompagnement : Nous vous aidons à trouver votre entreprise d'accueil grâce à des Job Dating, ateliers coaching CV et nos offres d'apprentissage.</p> <p>Cette formation prépare les étudiants à devenir des spécialistes en amélioration continue et gestion de la performance des processus industriels. Les diplômés sont capables de mettre en place des démarches Lean, d'analyser la performance des processus de production, et de proposer des actions d'amélioration pour optimiser les coûts, les délais, et la qualité. Ils sont formés à l'utilisation d'outils comme le Kaizen, le Value Stream Mapping, et l'AMDEC pour améliorer l'efficacité des flux de production.</p> <p>Accessible après un Bac +2 (BTS, DUT), la formation dure 1 an (455 heures), avec 3 semaines en entreprise et 1 semaine en centre. Les étudiants abordent des modules comme la gestion des flux internes, la gestion de la qualité, et les statistiques industrielles.</p> <p>Avec un taux d'insertion professionnelle de 100%, les diplômés peuvent poursuivre leurs études en ingénierie ou intégrer des postes tels que animateur d'amélioration continue, technicien méthodes ou superviseur d'équipe de production. La formation est gratuite et rémunérée pour les alternants</p> <p>Profil recherché :</p> <p>Prérequis : niveau bac+2 minimum</p> <p>?️Durée : 1 an (3 semaines en entreprise - 1 semaines en centre de formation)</p> <p>?Lieux : Pole formation UIMM ESE site d'Evreux</p> <p>?Prochaine session : Ouverture des inscriptions en novembre 2026</p> <p>?Public cible : Accessible en :</p> <p>- Contrat d'apprentissage (être âgé de moins de 30 ans)</p> <p>- Contrat de professionnalisation</p> <p>?Tarifs : Pour les alternants, formation gratuite et rémunérée.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable amélioration continue (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "27000 Évreux",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55511885?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a5a3aea8bfdaae34d6a5afe",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE Assistant logistique (H/F)",
+      "description": "Planifie, organise et contrôle tout ou partie des opérations logistiques (réception, stockage, préparation de commandes, approvisionnement, expédition de marchandises, produits, ...) d'un site (plate-forme logistique, unité de production, ...) ou d'un service, selon les impératifs (délais, qualité, coûts, ...), la réglementation et les règles d'hygiène et de sécurité. Peut participer à la réalisation d'opérations logistiques et intervenir sur un domaine spécialisé (gestion des stocks, approvisionnement,...). Peut coordonner l'activité d'une équipe.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-07-31T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5a3aea8bfdaae34d6a5afe/alternance-assistant-logistique-h-f",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a5a39478bfdaae34d6a5a7a",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE Assistant logistique (H/F)",
+      "description": "Planifie, organise et contrôle tout ou partie des opérations logistiques (réception, stockage, préparation de commandes, approvisionnement, expédition de marchandises, produits, ...) d'un site (plate-forme logistique, unité de production, ...) ou d'un service, selon les impératifs (délais, qualité, coûts, ...), la réglementation et les règles d'hygiène et de sécurité. Peut participer à la réalisation d'opérations logistiques et intervenir sur un domaine spécialisé (gestion des stocks, approvisionnement,...). Peut coordonner l'activité d'une équipe.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-07-31T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5a39478bfdaae34d6a5a7a/alternance-assistant-logistique-h-f",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a59de44a8013626d33ebf01",
+      "partner_label": "offres_emploi_lba",
+      "title": "Assistant e-commerce et logistique (H) en alternance",
+      "description": "Planifie, organise et contrôle tout ou partie des opérations logistiques (réception, stockage, préparation de commandes, approvisionnement, expédition de marchandises, produits, ...) d'un site (plate-forme logistique, unité de production, ...) ou d'un service, selon les impératifs (délais, qualité, coûts, ...), la réglementation et les règles d'hygiène et de sécurité. Peut participer à la réalisation d'opérations logistiques et intervenir sur un domaine spécialisé (gestion des stocks, approvisionnement,...). Peut coordonner l'activité d'une équipe.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "KHANAAN",
+      "address": "ALLEE DU PLATEAU 77200 TORCY",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a59de44a8013626d33ebf01/assistant-e-commerce-et-logistique-h-en-alternance",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a5aadc06cce1228eac1fe70",
+      "partner_label": "France Travail",
+      "title": "Alternant F/H Approvisionneur F/H",
+      "description": "Mise à jour des tableaux de bord Achats (PBI)Mise a jour des fichiers de relance Fournisseur (Excel)Aide au traitement des demandes d’achat en commandesAnalyses des prix d’achat et participation à la rédaction des budgets achat projetsDiffusion et suivi du traitement des relevés d’incident.S’assure du respect de l’OTD (livraison à l’heure) en relation avec la cellule expéditing et les Acheteurs/approvisionneur.",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "59460 Jeumont",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/54732079?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
