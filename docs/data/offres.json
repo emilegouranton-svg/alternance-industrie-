@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:00:43.693271+00:00",
+  "generated_at": "2026-07-19T07:28:02.808331+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -13528,7 +13528,7 @@
       "company_name": "Airseas",
       "address": "44000 Nantes",
       "contract_type": [
-        "Professionnalisation"
+        "Apprentissage"
       ],
       "contract_start": null,
       "apply_url": "https://careers.werecruit.io/fr/airseas/offres/alternance--gestion-technique-documentaire-dune-machine-speciale-c5144c?utm_source=francetravail&utm_medium=job-board",
@@ -16054,6 +16054,143 @@
       "apply_url": "https://www.directemploi.com/candidatOffre/54732079?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a517398dea3d72aa2304fcd",
+      "partner_label": "France Travail",
+      "title": "Alternance - Ingénieur Système Complexe Automatisé F/H - Airseas",
+      "description": "Nous souhaitons améliorer les performances et enrichir la compréhension de notre système Seawing. Pour cela nous te proposons de contribuer à la validation des logiciels embarqués sur le système en participant à la mise en place de tests automatisés.\n \n \n \nEn collaboration étroite avec Mickaël, ton binôme, tes futures missions, si tu les acceptes, seront les suivantes :\n \n \n \n- S’approprier l’environnement Simulink permettant de faire des tests automatisés, des logiques et des lois utilisées pour le déploiement, le rapatriement et le vol de l’aile. \n- Améliorer la modélisation d’équipements au sein de cet environnement afin de gagner en représentativité (actionneurs, capteurs, modèle cinématique). \n- Maintenir à jour les scripts de lancement des scénarios. \n- Implémenter de nouveaux scénarios à partir de leur définition pour les besoins de Vérification et de Validation des lois de pilotage de l’aile et des lois de contrôle du déploiement et du rapatriement de l’aile. \n- Enrichir le post-traitement des résultats incluant la génération automatique de figures selon les besoins de Vérification et de Validation et le test automatique de la bonne réalisation des tests (non-régression).Airseas valorise la diversité et souhaite favoriser un milieu de travail où les différences individuelles sont reconnues, appréciées, respectées, afin de développer et mettre à profit les talents et les forces de chacun. \n \n \n \nTu prépares une formation de niveau Bac +5. Tu es à l'aise avec l'outil informatique, ainsi que dans l’utilisation de MATLAB et Simulink ? Ta connaissance en Git est une réelle plus-value.\n \n \n \nTu as des connaissances en mécanique des fluides et du vol, qui est un réel atout ? Tu aimes les défis, le travail d’équipe et apporter tes idées ?\n \n \n \nOn te caractérise comme une personne curieuse, autonome et rigoureuse. Mais pas seulement, tu es aussi une personne engagée et tu sais prendre du recul. Tu sais également faire preuve d’esprit critique.\n \n \n \nAlors ne te poses plus de questions et envoie-nous ta candidature !",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "Airseas",
+      "address": "44000 Nantes",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://careers.werecruit.io/fr/airseas/offres/alternance---ingenieur-systeme-complexe-automatise-be5669?utm_source=francetravail&utm_medium=job-board",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5c00829e972c0713e28434",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Ingénieur d'unité de production industrielle F/H - H/F",
+      "description": "<p>  Référence : AA1524NF  <br />  Lieu : La Ferté-Saint-Aubin, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au sein de l'activité Véhicules et Systèmes Tactiques, le site de La Ferté Saint Aubin est spécialisé dans la production de systèmes d'armements terrestres et aéroportés (mortiers, munitions, roquettes…), de systèmes de protection des forces et de contrôle de zone. Fort de ses 450 salariés, ingénieurs, techniciens et ouvriers spécialisés, le site de la Ferté Saint Aubin assure la recherche et développement, la production, les essais ainsi que toutes les fonctions « supports » nécessaires à la conception de systèmes performants essentiels à la réussite des missions opérationnelles. Thales a constitué, avec le groupe allemand de défense DIEHL, une Joint-Venture « JUNGHANS T2M » qui compte 165 salariés permettant aux deux entreprises d'associer leurs compétences d'électronique et de mécanique de précision et de devenir ainsi un des leaders mondiaux dans le domaine des fusées de munitions. Cette Joint-Venture est présente également sur le site de La Ferté saint Aubin.   <br />   Sur le site de La Ferté Saint Aubin à proximité d'Orléans, au sein du Centre de Compétences Industrielles, vous intégrerez l'Unité de Production et Réparation Autonome (A.P.R.U) des systèmes d'armes.Vous travaillerez en étroite collaboration avec de multiples interlocuteurs : l'atelier de production , le service Process Engineering, le service Qualité, le Centre de Compétences Techniques et la Supply Chain.Sous la responsabilité du Responsable Produits Série, vous participerez à la montée en maturité.   <br />   Vos missions:   <br />  </li>  <li>   Analyse du processus de gestion des évolutions et proposition d'axes améliorations pour maitriser et piloter au sein du service la qualité de ce processus.   <br />  </li>  <li>   Identification, analyse et mise en place d'amélioration et de modernisation des moyens de mesures   <br />  </li>  <li>   Participation à la mise en place de l'EN9100 (focus FOD et application des procédés spéciaux)   <br />  </li>  <li>   Support de l'équipe dans le traitement des faits techniques et de la Non-Qualité en utilisant les méthodes de résolution de problèmes.   <br />   Votre profil:   <br />   Formation: En préparation d'un diplôme d'ingénieur ou un équivalent Bac+5 généraliste ou en génie industriel.   <br />   Durée: 1 an.   <br />   Compétences/connaissances requises:   <br />  </li>  <li>   gestion de production   <br />  </li>  <li>   outils du Lean   <br />  </li>  <li>   mécanique et hydraulique   <br />  </li>  <li>   pilotage de projet et gestion d'équipe transversale   <br />  </li>  <li>   rigueur, esprit de synthèse, organisation et bon relationnel   <br />   Le mot de l'équipe:Venez travailler avec nous au sein de l'APRU dans un environnement industriel en pleine évolution pour gagner en maturité industrielle et atteindre nos objectifs de performance.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable d'unité industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "45240 La Ferté-Saint-Aubin",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55549489?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5bf7cb73e46f4c82dcfdf6",
+      "partner_label": "Nos Talents Nos Emplois",
+      "title": "Alternance Technicien de Laboratoire H/F",
+      "description": "<p>  Nous recherchons un ou une alternant(e), au poste de technicien de laboratoire, au sein de notre laboratoire régional basé à Tullins (38) et La Chavanne (73).  <br />  Sous la responsabilité du Référent Scientifique et Technique et du Chef de Section Laboratoire, dans le respect des consignes générales de sécurité, vous aurez comme principale mission : </p> <p>  <br />  -De réaliser des essais laboratoires sur les sols (Teneurs en eau, identifications, essai proctor) et sur les chaussées (analyses d'enrobés, compacités, pmt) </p> <p>  <br />  -D'effectuer des essais sur chantier (sondages, essais de portance) </p> <p>  -De réaliser le suivi produits sur nos centrales d'enrobage (suivi qualité des matières premières, granulats, bitumes)  <br />  -De participer à l'exploitation des résultats et à la rédaction des rapports d'essais </p> <p>  <br />  Dans le cadre de cette expérience, vous acquerrez des connaissances techniques dans les domaines du terrassement, de la canalisation et de la technique routière. </p> <p>  <br />  Cette liste de mission est non exhaustive. </p> <p>Déplacements à prévoir en IsèreDrômeSavoieHaute-Savoie</p> <br /> <p>  <br />  <b>Diplôme(s) demandé(s) :</b>  BAC+2 </p> <p>  <br />  <b>Expérience demandée :</b>  Débutant </p> <p>  <br />  <b>Type de contrat :</b>  Professionalization contract </p> <br />\r\n\r\nPoste: Technicien de laboratoire (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 30 000 € - 50 000 € par an\r\n\r\nProfil: <p>Issu(e) d'une formation type BTS/DUT en Travaux Publics, des matériaux, des mesures physiques ou de la chimie.</p> <br /> <p>  Rigueur, Méthode, Autonomie et Motivation sont autant de qualités nécessaires pour ce poste.  <br />  Vous maîtrisez les outils informatiques de base (Excel, Word). </p> <br /> <p>Vous désirez progresser dans une entreprise dynamique au sein d'un groupe en plein développement et offrant de réelles opportunités, n'hésitez plus et transmettez-nous votre candidature !</p> <br /> <p>Permis de conduire nécessaire</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "GUINTOLI",
+      "address": "38210 Tullins",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16107207?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a5c00829e972c0713e28422",
+      "partner_label": "Meteojob",
+      "title": "Apprenti Monteur Mecanicien H/F",
+      "description": "<p>Le Groupe Sulzer a été fondé en 1834, et a une implantation de 170 sites répartis dans une centaine de pays. Notre filiale française est spécialisée dans les équipements de pompage et les machines tournantes, pour des clients dans le domaine de l'énergie (Oil&amp;Gas, centrales nucléaires et thermiques…), de la production industrielle (papeterie, industrie chimique…) ou encore des solutions pour les collectivités territoriales (traitement des eaux usées…). Nos clients sont principalement concentrés en Europe et en Afrique du Nord.</p> <p>1. Démonter, expertiser et monter les équipements mécaniques (pompes), à l'aide notamment d'instrument de mesure.</p> <p>2. Réaliser l'inventaire des pièces mises à disposition par le client et contrôler leur état de fonctionnement.</p> <p>3. Remettre à disposition, les pièces de rechange non consommées auprès de l'expédition.</p> <p>4. S'assurer de la bonne gestion des outillages, de leur rangement et de leur maintien en bon état.</p> <p>5. Assurer un niveau de propreté irréprochable sur son espace de travail.</p> <p>6. Informer immédiatement sa hiérarchie toute situation potentiellement préjudiciable à la qualité, la sécurité, l'hygiène et l'environnement.</p> <p>  <strong>Avantages</strong>  <br />  Accès CSE / Tickets restaurant / RTT / Primes d'intéressement et de participation </p> <p>Bac Professionnel ou BTS/BUT en maintenance</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Monteur mécanicien (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "57190 Florange",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55548021?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5c00829e972c0713e28425",
+      "partner_label": "Meteojob",
+      "title": "Bac Pro MSPC (Maintenance des Systèmes de Production Connectés) H/F",
+      "description": "<p>Pourquoi choisir le Pôle formation UIMM Eure Seine Estuaire:</p> <p>Insertion professionnelle : Plus de 90% de nos apprentis trouvent un emploi dans les 12 mois après l'obtention de leur diplôme.</p> <p>Formations en apprentissage : Toutes nos formations sont gratuites et rémunérées. Vous apprenez tout en gagnant !</p> <p>Poursuite d'études : Du CAP à l'Ingénieur, nos parcours offrent une diversité d'opportunités pour votre avenir.</p> <p>Plateaux techniques : Évoluez dans plus de 15 000m² d'ateliers</p> <p>Équipes qualifiées : Nos formateurs sont des experts de l'Industrie avec plusieurs années d'expérience.</p> <p>Accompagnement : Nous vous aidons à trouver votre entreprise d'accueil grâce à des Job Dating, ateliers coaching CV et nos offres d'apprentissage.</p> <p>Le Bac Pro MSPC est idéal pour ceux qui souhaitent devenir des techniciens polyvalents dans la maintenance industrielle, un secteur clé et en forte demande. Cette formation permet de développer des compétences techniques (mécanique, électrique, hydraulique, etc.) pour assurer le bon fonctionnement et l'amélioration des systèmes de production. Elle offre une approche concrète grâce à l'alternance et des ateliers pratiques. Avec des débouchés variés et des possibilités de poursuite en BTS, c'est une voie prometteuse pour accéder rapidement à un emploi stable et évolutif dans l'industrie.</p> <p>Infos générales</p> <p>Prérequis : niveau 3ème minimum</p> <p>?️Durée : 1 ou 2 ans (2 semaines en entreprise - 2 semaines en centre de formation)</p> <p>?Lieux : Pole formation UIMM ESE site d'Evreux</p> <p>?Prochaine session : Ouverture des inscriptions en novembre 2026</p> <p>?Public cible : Accessible en :</p> <p>- Contrat d'apprentissage (être âgé de moins de 30 ans)</p> <p>- Contrat de professionnalisation</p> <p>?Tarifs : Pour les alternants, formation gratuite et rémunérée.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "27000 Évreux",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55548045?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a5c00829e972c0713e28429",
+      "partner_label": "Meteojob",
+      "title": "Apprenti maintenance H/F",
+      "description": "<p>F2J JAPY est une société du groupe F2J, spécialisée dans l'assemblage et l'usinage de composants mécaniques pour l'automobile.</p> <p>Le ou la technicien(ne) de maintenance assure le maintien du système de production dans un état optimal.</p> <p>Il règle, assure la maintenance, dépanne les appareils, équipements, installations, systèmes automatisés ou non, nécessaires à la production et plus généralement au bon fonctionnement de l'entreprise. Il ou elle participe à la fabrication ou à la modification d'éléments ou de dispositifs.</p> <p>L'emploi requiert une certaine polyvalence dans le respect de ses habilitations.</p> <p>rigueur, polyvalence, autonomie, sens de la réflexion</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "25700 Valentigney",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55548221?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
     }
   ]
 }
