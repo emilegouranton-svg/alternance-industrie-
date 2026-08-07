@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:41:21.233414+00:00",
+  "generated_at": "2026-08-07T06:09:50.662551+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -21868,6 +21868,334 @@
       "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/rn3hqo75tk8/operateur-de-production-et-conducteurs-de-machines",
       "sector_id": "methode",
       "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a750c58c335192c2268148d",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Ingénieur d'unité de production industrielle F/H - H/F",
+      "description": "<p>  Référence : AA1524NF  <br />  Lieu : La Ferté-Saint-Aubin, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au sein de l'activité Véhicules et Systèmes Tactiques, le site de La Ferté Saint Aubin est spécialisé dans la production de systèmes d'armements terrestres et aéroportés (mortiers, munitions, roquettes…), de systèmes de protection des forces et de contrôle de zone. Fort de ses 450 salariés, ingénieurs, techniciens et ouvriers spécialisés, le site de la Ferté Saint Aubin assure la recherche et développement, la production, les essais ainsi que toutes les fonctions « supports » nécessaires à la conception de systèmes performants essentiels à la réussite des missions opérationnelles. Thales a constitué, avec le groupe allemand de défense DIEHL, une Joint-Venture « JUNGHANS T2M » qui compte 165 salariés permettant aux deux entreprises d'associer leurs compétences d'électronique et de mécanique de précision et de devenir ainsi un des leaders mondiaux dans le domaine des fusées de munitions. Cette Joint-Venture est présente également sur le site de La Ferté saint Aubin.   <br />   Sur le site de La Ferté Saint Aubin à proximité d'Orléans, au sein du Centre de Compétences Industrielles, vous intégrerez l'Unité de Production et Réparation Autonome (A.P.R.U) des systèmes d'armes.Vous travaillerez en étroite collaboration avec de multiples interlocuteurs : l'atelier de production , le service Process Engineering, le service Qualité, le Centre de Compétences Techniques et la Supply Chain.Sous la responsabilité du Responsable Produits Série, vous participerez à la montée en maturité.   <br />   Vos missions:   <br />  </li>  <li>   Analyse du processus de gestion des évolutions et proposition d'axes améliorations pour maitriser et piloter au sein du service la qualité de ce processus.   <br />  </li>  <li>   Identification, analyse et mise en place d'amélioration et de modernisation des moyens de mesures   <br />  </li>  <li>   Participation à la mise en place de l'EN9100 (focus FOD et application des procédés spéciaux)   <br />  </li>  <li>   Support de l'équipe dans le traitement des faits techniques et de la Non-Qualité en utilisant les méthodes de résolution de problèmes.   <br />   Votre profil:   <br />   Formation: En préparation d'un diplôme d'ingénieur ou un équivalent Bac+5 généraliste ou en génie industriel.   <br />   Durée: 1 an.   <br />   Compétences/connaissances requises:   <br />  </li>  <li>   gestion de production   <br />  </li>  <li>   outils du Lean   <br />  </li>  <li>   mécanique et hydraulique   <br />  </li>  <li>   pilotage de projet et gestion d'équipe transversale   <br />  </li>  <li>   rigueur, esprit de synthèse, organisation et bon relationnel   <br />   Le mot de l'équipe:Venez travailler avec nous au sein de l'APRU dans un environnement industriel en pleine évolution pour gagner en maturité industrielle et atteindre nos objectifs de performance.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable d'unité industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "45240 La Ferté-Saint-Aubin",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55955490?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a735c00bb092dca9f1500b8",
+      "partner_label": "offres_emploi_lba",
+      "title": "Technicien / Technicienne de maintenance d'équipements de production",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SOCIETE DES CARRIERES LOURDAISES",
+      "address": "LIEU DIT LASCENDERE 65700 MAUBOURGUET",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a735c00bb092dca9f1500b8/technicien-technicienne-de-maintenance-d-équipements-de-production",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a750c58c335192c2268148e",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Technicien - Maintenance de moyens industriels - F/H - H/F",
+      "description": "<p>  Référence : AA1516KC  <br />  Lieu : Saint-Étienne, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au nord de Saint-Etienne, notre centre d'excellence en optronique du combattant terrestre, développe et fabrique des systèmes de vision nocturne et composants optiques. Centre historique de la marque Angénieux, le site est aussi spécialisé dans les optiques de très haute qualité pour l'industrie du cinéma.   <br />   Vous rejoignez l' équipe Maintenance et participez aux activités du service.   <br />   Dans ce contexte, vous :   <br />  </li>  <li>   Contribuez à la maintenance curative et préventive de moyens industriels ;   <br />  </li>  <li>   Participez à la définition et réalisez des actions d'amélioration ;   <br />  </li>  <li>   Utilisez et renseignez le logiciel de GMAO (Gestion de Maintenance Assistée par Ordinateur).   <br />   Votre profil   <br />   Votre priorité est de rejoindre un grand groupe industriel ?   <br />   Vous avez l'ambition de développer de nouvelles compétences ?   <br />   Vous avez envie de découvrir le secteur de la maintenance ?   <br />   Vous préparez un BAC+2 ou +3 spécialisé en Maintenance Industrielle et avez des connaissances en :   <br />  </li>  <li>   Mécanique,   <br />  </li>  <li>   Electricité,   <br />  </li>  <li>   Automatisme,   <br />   Rigueur, curiosité et bon relationnel sont des atouts que l'on vous reconnait ?   <br />   Alors ce poste est fait pour vous !   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "42000 Saint-Étienne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55955492?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a750c58c335192c22681480",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Technicien de maintenance électrotechnique H/F",
+      "description": "<p>Le Pôle Formation UIMM Limousin regroupe sous la même enseigne tous les acteurs du réseau emploi formation de l'UIMM Limousin (Union des Industries et Métiers de la Métallurgie) : AFPI et CFAI Limousin</p> <p>Présent depuis plus de 40 ans sur le territoire Limousin, le Pôle Formation accompagne les entreprises industrielles pour leur permettre de disposer des compétences dont elles ont besoin (formations en alternance, formation continue (salariés et demandeurs d'emploi), conseil, …).</p> <p>  <strong>L'une de nos entreprises partenaire, de plus de 50 salariés, appartenant à un groupe international et basée à Malemort-Sur-Corrèze est en recherche d'un(e) alternant(e) en contrat d'apprentissage en BTS ELECTROTECHNIQUE.</strong> </p> <p>Le titulaire du BTS Electrotechnique est spécialiste des installations électriques 'intelligentes' qui intègrent les technologies numériques, communicantes et les objets connectés au service des enjeux énergétiques. Il ou elle conçoit, optimise et maintient ces installations électriques depuis le point de production de l'énergie jusqu'aux utilisations, en intégrant des solutions techniques variées et innovantes.</p> <p>  Prérequis, être titulaire du :  <br />  BAC Professionnel MELEC  <br />  BAC Technologique STI2D option EE  <br />  BAC Général option sciences  <br />  et/ou d'une certification professionnelle (titre professionne/CQP) de niveau 4 en lien avec le secteur </p> <p>Compétences:</p> <p>- Savoir lire un plan mécanique, électrique et pneumatique.</p> <p>- Connaitre les règles d'hygiènes et de sécurités appliquées dans l'agroalimentaire.</p> <p>- Être force de proposition, autonome, dynamique et avoir le sens du contact et du service client.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance électrotechnique itinérant (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "19100 Brive-la-Gaillarde",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/55954411?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a2c18355d74f81b703605b8",
+      "partner_label": "Maazi",
+      "title": "Alternance - Technicien Intervention HTA et BT itinérant F/H - Référence 2026-110042",
+      "description": "<p>Cette offre est diffusée via maazi.<br /><b>⚠ INFORMATION IMPORTANTE SUR MAAZI, NOUS TRAITONS EXCLUSIVEMENT LES CANDIDATURES DES TALENTS EN SITUATION DE HANDICAP (BOETH).</b> Si vous n'êtes pas concerné(e), rendez-vous sur le site carrières de l'entreprise pour postuler à cette offre.</p><p>Vous intégrerez le Centre d’Application Power Systems pour contribuer à la réalisation de projet neuf, chez nos clients majeurs, sur des installations électriques en HTA et Basse tension sur la France.</p><p>Votre rattachement sera sur l’agence Schneider Electric de la région.</p><p><strong>Vos missions :</strong></p><p><strong>Mission 1 : </strong></p><ul><li>Accompagner d’un technicien d’intervention confirmé, vous réaliserez des chantiers chez nos clients (Régies d’électricité, Industriels, Data Center,…)</li><li>Montage de cellules primaires et secondaires HTA.</li></ul><p><strong>Mission 2 : </strong></p><ul><li>Contrôle et essais de tableaux basses tensions constructeur.</li><li>Essais électriques et câblage en BT</li></ul><p><strong>Mission 3 : </strong></p><ul><li>Paramétrage et essais de relais de protections numériques</li><li>Être le premier contact Schneider Electric auprès de nos clients</li></ul><strong>Avantages :</strong><ul><li>Expertise technique forte en électricité</li><li>Apprentissage terrain</li></ul>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SCHNEIDER ELECTRIC FRANCE",
+      "address": "38320 Eybens",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://maazi.fr/job/alternance-technicien-intervention-hta-et-bt-itinerant-f-h-reference-2026-110042-schneider-electric-groupe-schneider-manel-pastorello-moselle?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=110042",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a2c17ef5d74f81b703604d8",
+      "partner_label": "Maazi",
+      "title": "Alternance - Technicien Intervention HTA et BT itinérant F/H - Référence 2026-110042",
+      "description": "<p>Cette offre est diffusée via maazi.<br /><b>⚠ INFORMATION IMPORTANTE SUR MAAZI, NOUS TRAITONS EXCLUSIVEMENT LES CANDIDATURES DES TALENTS EN SITUATION DE HANDICAP (BOETH).</b> Si vous n'êtes pas concerné(e), rendez-vous sur le site carrières de l'entreprise pour postuler à cette offre.</p><p>Vous intégrerez le Centre d’Application Power Systems pour contribuer à la réalisation de projet neuf, chez nos clients majeurs, sur des installations électriques en HTA et Basse tension sur la France.</p><p>Votre rattachement sera sur l’agence Schneider Electric de la région.</p><p><strong>Vos missions :</strong></p><p><strong>Mission 1 : </strong></p><ul><li>Accompagner d’un technicien d’intervention confirmé, vous réaliserez des chantiers chez nos clients (Régies d’électricité, Industriels, Data Center,…)</li><li>Montage de cellules primaires et secondaires HTA.</li></ul><p><strong>Mission 2 : </strong></p><ul><li>Contrôle et essais de tableaux basses tensions constructeur.</li><li>Essais électriques et câblage en BT</li></ul><p><strong>Mission 3 : </strong></p><ul><li>Paramétrage et essais de relais de protections numériques</li><li>Être le premier contact Schneider Electric auprès de nos clients</li></ul><strong>Avantages :</strong><ul><li>Expertise technique forte en électricité</li><li>Apprentissage terrain</li></ul>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SCHNEIDER ELECTRIC FRANCE",
+      "address": "38320 Eybens",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://maazi.fr/job/alternance-technicien-intervention-hta-et-bt-itinerant-f-h-reference-2026-110042-schneider-electric-groupe-schneider-manel-pastorello-moselle?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=110042",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a2c17b31824d56034fc786c",
+      "partner_label": "Maazi",
+      "title": "Alternance - Technicien Intervention HTA et BT itinérant F/H - Référence 2026-110042",
+      "description": "<p>Cette offre est diffusée via maazi.<br /><b>⚠ INFORMATION IMPORTANTE SUR MAAZI, NOUS TRAITONS EXCLUSIVEMENT LES CANDIDATURES DES TALENTS EN SITUATION DE HANDICAP (BOETH).</b> Si vous n'êtes pas concerné(e), rendez-vous sur le site carrières de l'entreprise pour postuler à cette offre.</p><p>Vous intégrerez le Centre d’Application Power Systems pour contribuer à la réalisation de projet neuf, chez nos clients majeurs, sur des installations électriques en HTA et Basse tension sur la France.</p><p>Votre rattachement sera sur l’agence Schneider Electric de la région.</p><p><strong>Vos missions :</strong></p><p><strong>Mission 1 : </strong></p><ul><li>Accompagner d’un technicien d’intervention confirmé, vous réaliserez des chantiers chez nos clients (Régies d’électricité, Industriels, Data Center,…)</li><li>Montage de cellules primaires et secondaires HTA.</li></ul><p><strong>Mission 2 : </strong></p><ul><li>Contrôle et essais de tableaux basses tensions constructeur.</li><li>Essais électriques et câblage en BT</li></ul><p><strong>Mission 3 : </strong></p><ul><li>Paramétrage et essais de relais de protections numériques</li><li>Être le premier contact Schneider Electric auprès de nos clients</li></ul><strong>Avantages :</strong><ul><li>Expertise technique forte en électricité</li><li>Apprentissage terrain</li></ul>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SCHNEIDER ELECTRIC FRANCE",
+      "address": "38320 Eybens",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://maazi.fr/job/alternance-technicien-intervention-hta-et-bt-itinerant-f-h-reference-2026-110042-schneider-electric-groupe-schneider-manel-pastorello-moselle?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=110042",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a18bb13989f86c380086c43",
+      "partner_label": "PASS",
+      "title": "Apprenti(e) en charge des évolutions maintenance des réseaux",
+      "description": "<p>Au sein l’unité de politique de maintenance et de modernisation, vous aurez pour missions :<br /> </p><ul><li>assurer le pilotage de la maintenance préventive et curative sur l'ensemble des systèmes d'énergie haute tension SIRIUS et sur les câbles de transmission régionaux</li><li>organiser la maintenance et des tests de mise en condition du système de soutien énergétique sur le site (groupe électrogène et onduleur)</li><li>organiser la compagne de contrôle règlementaire annuel des éléments précités et procéder aux correctifs éventuels</li><li>réaliser les commandes, procéder à la vérification de l’exécution des travaux et valider le paiement des prestataires</li><li>le pilotage du marché de maintenance câble et énergie (lot 1 uniquement), notamment :</li><li>de passer des commandes régionales</li><li>de gérer et réapprovisionner le stock de câbles stratégiques</li><li>organiser l’astreinte SAPER</li><li>mise à jour des procédures et des référentiels documentaires.<br /> </li></ul><p>Vous serez amené(e) à effectuer des déplacements sur le terrain avec votre tuteur.</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "Direction régionale et interdépartementale de l'environnement",
+      "address": "94000 Créteil",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-14T22:00:00.000Z",
+      "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-en-charge-des-evolutions-maintenance-des-reseaux",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "69e2ad94f4a166af2c936b1b",
+      "partner_label": "PASS",
+      "title": "APPRENTI AGENT DE MAINTENANCE DES BATIMENTS ELECTRICIEN",
+      "description": "<p>CAP - BAC PROFESSIONNEL Interventions en maintenance des bâtiments, titre professionnel agent de maintenance des bâtiments, CAP-BAC PRO électricien</p><p>Participer, sous le contrôle de l’agent de maintenance titulaire du poste, à la maintenance préventive et curative du collège et à la réalisation des travaux et interventions de premier niveau dans les différents corps de métier des bâtiments.</p><p> </p><p><strong>Poste à pouvoir en Septembre 2026</strong></p><p>Pour postuler, veuillez envoyer votre CV+lettre de motivation en précisant l'offre à : <strong> </strong><strong>recrut-apprenti@hauts-de-seine.fr</strong> et <strong>lgode@hauts-de-seine.fr</strong></p>",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "Conseil départemental des Hauts-de-Seine",
+      "address": "92000 Nanterre",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-14T22:00:00.000Z",
+      "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-agent-de-maintenance-des-batiments-electricien",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "69f12e6ebf1fe86fa765f301",
+      "partner_label": "EDF",
+      "title": "Alternance - Electrotechnicien Site Industriel H/F",
+      "description": "Votre futur poste !\r\n\r\nAu sein de Dalkia, nous avons décidé de relever le défi du climat en mettant en place des solutions innovantes, économiques, écologiques... et pragmatiques ! Êtes-vous prêt.e, vous aussi, à relever le défi climatique ? Pour cela, il suffit de nous rejoindre !\r\n\r\n\r\nDalkia recrute un.e Electrotechnien.ne en contrat d’alternance.\r\n\r\nIntégré.e au sein d’un site industriel et accompagné.e de votre tuteur, vous participez aux interventions de maintenance préventive et corrective sur les différents équipements du site.\r\n\r\n💼Vos missions ?\r\nAssister votre tuteur dans les manœuvres d'exploitation sur la totalité des installations : consignation/déconsignation, démarrage/arrêt, mise sous tension, assistance aux entreprises travaux, …\r\nParticiper à la maintenance électrique préventive et curative de niveau 1 à 4 sur les installations électriques, ainsi qu'au dépannage du matériel électrique HT / BT\r\nAnalyser les dysfonctionnements et contribuer à l'établissement des diagnostics des installations de distribution\r\nParticiper à la sécurisation des alimentations électriques\r\nRendre compte dans la GMAO client de vos interventions\n\nProfil recherché :\n\nLe profil attendu ?\r\n✔️ Vous souhaitez intégrer un BTS Electrotechnique à réaliser en alternance ;\r\n✔️ Vous souhaitez acquérir une expertise approfondie avant d’entrer sur le marché du travail ;\r\n✔️ Vous êtes curieux(se), organisé(e) et aimez relever des défis techniques.\r\n\r\nVous candidatez… et ensuite ? \r\nVous avez un premier échange téléphonique pour discuter de votre projet. \r\nSi ce dernier est compatible avec ce que nous proposons, vous avez un entretien avec l’une de nos chargées de recrutement, Valérie ou Elise. \r\nSi l’avis est favorable et que vous êtes toujours intéressé.e, vous rencontrez le responsable d’exploitation  ! \r\n\r\nEt c’est parti pour l’aventure Dalkia !",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "EDF",
+      "address": "38920 Crolles",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-04-02T00:00:00.000Z",
+      "apply_url": "https://www.edf.fr/edf-recrute/offre/detail/DKA-REC-2026-12922?idOrigine=502",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a750af04c6efee3da6a378e",
+      "partner_label": "France Travail",
+      "title": "Coordonnateur / Coordonnatrice de projet méthodes en industrie (H/F)",
+      "description": "Chez Batteries Prod, nous concevons et fabriquons des batteries lithium de haute technologie pour répondre aux défis de demain.\n\nPour accompagner notre croissance, nous recherchons un(e) alternant(e) Production / Méthodes. Si vous aimez le terrain, les défis et souhaitez participer à l'amélioration de notre production, cette alternance est faite pour vous !\n\nVous intégrerez une équipe dynamique et participerez à des missions variées, avec un impact concret sur notre organisation et notre performance industrielle.\n\nVos missions\n\nVous participerez notamment à :\n\nSuivre le planning de production et les indicateurs de performance industrielle.\nParticiper au suivi des approvisionnements et des besoins nécessaires au bon déroulement de la production.\nAnalyser les problématiques rencontrées en production et contribuer à la recherche de solutions techniques.\nRédiger, mettre à jour et améliorer les modes opératoires, procédures et cahiers des charges.\nParticiper aux démarches d'amélioration continue en appliquant les principes du Lean Manufacturing.\nIdentifier et proposer des actions d'amélioration afin d'optimiser la qualité, la productivité et la sécurité.\nContribuer aux projets d'industrialisation et à l'optimisation des processus de fabrication.\n\nVous préparez une formation Bac+3 à Bac+5 en génie industriel, gestion de production, mécanique, automatisme, industrialisation, méthodes industrielles ou amélioration continue.\n\nVous êtes attiré(e) par :\n\nLes environnements industriels et les enjeux liés à la fabrication.\nL'analyse et la résolution de problématiques techniques.\nL'amélioration des procédés et l'optimisation des moyens de production.\nLes démarches d'amélioration continue et la recherche de solutions concrètes sur le terrain.\nVous êtes :\n\nRigoureux(se), organisé(e) et curieux(se).\nForce de proposition et capable de travailler en équipe.\nÀ l'aise dans un environnement industriel où la réactivité et l'adaptabilité sont essentielles.\nÀ l'aise avec les outils bureautiques, notamment Excel.\nAucun frais d'entrée ou de formation n'est à prévoir pour l'alternant(e).\n\nLieu du poste : En présentiel",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "BATTERIES PROD",
+      "address": "84170 Monteux",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212DZSJ",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a750aeb4c6efee3da6a3677",
+      "partner_label": "France Travail",
+      "title": "Alternant Amélioration Continue &amp; Méthodes (F/H)",
+      "description": "Notre contexte :\n\nLe site de Pargny-sur-Saulx (51), spécialisé dans la production d'accessoires et de tuiles en terre cuite, compte environ 150 collaborateurs et bénéficie d'une implantation stratégique, située à 20 minutes de Saint-Dizier et de Vitry-le-François.\n\nCe site s'appuie sur des équipes expérimentées et des outils industriels performants, au cœur des enjeux d'amélioration continue, de sécurité et de performance, tout en veillant à réduire son impact environnemental.\n\nIntégrer le site de Pargny-sur-Saulx, c'est rejoindre :\n\n * Un environnement industriel dynamique et technique\n\n * Une entreprise engagée dans l'innovation et la transition écologique\n * Des équipes terrain impliquées et proches des réalités opérationnelles\n * Une culture orientée sécurité, qualité et performance\n\nVos missions :\n\nRattaché(e) au Responsable d'Unité de Production, vous intervenez sur des projets d'optimisation industrielle :\n\n * Analyse des process de production et identification des axes d'amélioration\n\n * Définition et mise à jour des modes opératoires et standards\n * Participation à des projets d'amélioration continue (lean, 5S, SMED, etc.)\n * Suivi d'indicateurs de performance (TRS, productivité, qualité)\n * Contribution à l'optimisation des flux et des organisations de travail\n * Appui aux équipes terrain dans le déploiement des solutions\n\nVotre profil : \n\n * Formation : École d'ingénieur ou cursus Bac+4/5 (génie industriel, méthodes, production.)\n * Bon esprit d'analyse, rigueur et sens du terrain\n * Aisance relationnelle et capacité à travailler en équipe\n * Maîtrise des outils informatiques (Excel indispensable)",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "Edilians SAS",
+      "address": "51340 Pargny-sur-Saulx",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.aplitrak.com/?adid=c29sZW5lLmJ1cmJhdWQuMjA4MjguNjcwNkBlZGlsaWFucy5hcGxpdHJhay5jb20",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a750af04c6efee3da6a377a",
+      "partner_label": "France Travail",
+      "title": "Alternant / Alternante Approvisionnement &amp; Logistique (H/F)",
+      "description": "Nous recherchons un ou une alternant /e qui souhaite préparer un Bac +2 en logistique. \nAu sein du siège social, vous contribuez / réalisez pour nos 25 restaurants les activités suivantes : \n\nTraitement des flux amont : Approvisionnement des plateformes logistiques en produits alimentaires en fonction de l'état des stocks et des besoins Saisie des entrées en stock et contrôle de la conformité des réceptions (BL, quantités, factures) Suivi des réceptions, des commandes et traitement des anomalies et des non-conformités en lien avec le Responsable Logistique \n\nGestion des stocks : Contrôle des écarts de stock, analyse et remontée des anomalies Gestion des inventaires et reporting Participation à l'administration de l'outil de commande \n\nTraitement des flux aval &amp; Service Client : Traitement et suivi des commandes des restaurants Gestion des ruptures de stock (répartition, substitutions, propositions de solutions) Suivi et contrôle du bon déroulement des livraisons pour l'ensemble du réseau Suivi et traitement des litiges fournisseurs et transporteurs (avoirs, manquants, anomalies de livraison...) en lien avec le Responsable Logistique \n\nAmélioration continue : Participation à l'analyse des indicateurs de performance et proposition de pistes d'amélioration des processus d'approvisionnement et de logistique \n\nQualités requises / savoir-être : Rigueur, sens de l'organisation, esprit d'analyse, curiosité, capacité à résoudre les problèmes et sens du service.\n  \n Alternant / e voulant préparer un Bac+2 en Logistique",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "LE COMPTOIR DU MALT",
+      "address": "80480 Dury",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=LEd/ly4bjPF1sbWkaQWeDw==",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a750ae94c6efee3da6a361b",
+      "partner_label": "France Travail",
+      "title": "Responsable logistique en alternance (H/F)",
+      "description": "Pour une enseigne nationale de bricolage vous serez alternant (entre entreprise et centre de formation) pour préparer le diplôme Technicien Supérieur en Méthodes et Exploitation Logistique (BTS TSMEL).\n\nSous la responsabilité du Responsable Logistique, vous participerez activement à l'optimisation des flux et à la gestion opérationnelle de notre chaîne logistique. \n\nVos missions principales seront :\n-Optimisation des méthodes : Participer à l'analyse et à l'amélioration des processus de préparation de commandes, de réception et d'expédition pour gagner en productivité.\n-Gestion de l'exploitation : Aider à la planification des flux de marchandises et à la coordination des transports pour garantir le respect des délais de livraison.\n-Pilotage des stocks : Contribuer au suivi des niveaux de stocks, à la gestion des inventaires et à la réduction des écarts.\n-Suivi de la performance : Participer à la mise en place et au suivi des indicateurs clés de performance (KPI) pour mesurer l'efficacité de l'entrepôt.\n-Management opérationnel : Appuyer l'encadrement des équipes de terrain dans l'organisation quotidienne des tâches.\n\nVos qualités personnelles (Soft Skills) :\n-Rigueur et organisation : Vous savez gérer les priorités dans un environnement qui bouge.\n-Esprit d'analyse : Vous aimez comprendre les processus pour les améliorer.\n-Sens du relationnel : Vous communiquez facilement avec les équipes de terrain et les prestataires.\n-Réactivité : Vous savez faire face aux imprévus logistiques.",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "34440 Colombiers",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212DYHS",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a750af24c6efee3da6a37d7",
+      "partner_label": "France Travail",
+      "title": "Chargé de logistique - Alternance (H/F)",
+      "description": "Notre offreAu sein du Département Logistique Produit Alimentaire (DLPA) de la Direction France et Distribution (DFD) et rattaché(e) au chef de département, l'assistant logistique assurera une aide dans le quotidien de l'équipe logistique Vivres Métropole. Ce poste offre une vision transverse de l'activité Vivres Métropole (fournisseurs alimentaires, prestataire logistique, clients VM). Vos missions au quotidien",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "93500 Pantin",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55943914?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
     }
   ]
 }
