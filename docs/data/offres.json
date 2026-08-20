@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:32:08.386605+00:00",
+  "generated_at": "2026-08-20T05:32:00.470833+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -19436,7 +19436,7 @@
     {
       "id": "6a6877169e9ea39cf1cda7cb",
       "partner_label": "offres_emploi_lba",
-      "title": "Alternant(e) - Assistant(e) Logistique & Digitalisation des processus",
+      "title": "Alternant(e) Logistique opérationnelle & Digitalisation",
       "description": "Planifie, organise et contrôle tout ou partie des opérations logistiques (réception, stockage, préparation de commandes, approvisionnement, expédition de marchandises, produits, ...) d'un site (plate-forme logistique, unité de production, ...) ou d'un service, selon les impératifs (délais, qualité, coûts, ...), la réglementation et les règles d'hygiène et de sécurité. Peut participer à la réalisation d'opérations logistiques et intervenir sur un domaine spécialisé (gestion des stocks, approvisionnement,...). Peut coordonner l'activité d'une équipe.",
       "target_diploma": {
         "european": "5",
@@ -24605,6 +24605,255 @@
       "apply_url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2875534&NoLangue=1&NoSource=16001",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a85d7588a7c7745ea74d7db",
+      "partner_label": "offres_emploi_lba",
+      "title": "Alternant(e) Assistant(e) Chef de Projet Technique – Éclairage LED / Électrotechnique H/F",
+      "description": "Conçoit et finalise de nouveaux produits ou de nouvelles technologies. Fait évoluer ceux déjà existants, dans un objectif de développement commercial et d'innovation en milieu industriel. Définit des moyens, méthodes et techniques de valorisation et de mise en oeuvre des résultats de recherche. Peut superviser et coordonner un projet, une équipe, un service ou un département.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "ARLUX",
+      "address": "TRAVERSE DE LA BASTIDONNE 13400 AUBAGNE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-08-19T16:18:32.372Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a85d7588a7c7745ea74d7db/alternant-e-assistant-e-chef-de-projet-technique-éclairage-led-électrotechnique-h-f",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a862d234611e3d929beff8c",
+      "partner_label": "France Travail",
+      "title": "Chef / Cheffe de projet recherche et développement en industrie (H/F)",
+      "description": "Rejoignez Kdc/One Inter Cosmétiques ! \n\nSite français du groupe international Kdc/one, Inter Cosmétiques est une structure à taille humaine de 220 collaborateurs, spécialisée dans le développement et la fabrication de produits cosmétiques. \nNous accompagnons de nombreux clients, en France comme à l'international, des marques reconnues aux acteurs émergents, en leur proposant des solutions innovantes de haute qualité. \nAdossé à un groupe mondial (20 000 collaborateurs, 26 sites, 23 centres R&amp;D), notre site allie expertise industrielle, agilité et proximité. \n\n Nous recherchons de nouveaux talents pour rejoindre nos équipes !\n\n1 ASSISTANT R&amp;D/REGLEMENTAIRE EN APPRENTISSAGE H/F\n\nVous participez à la conception, développement et optimisation de formules cosmétiques, en conformité avec les exigences réglementaires. Missions principales : \n\n- Assurer la conformité réglementaire des matières premières référencées dans le logiciel Coptis, notamment au regard du Règlement (CE) n° 1223/2009 et des exigences spécifiques des pays de commercialisation, ainsi que participer à la constitution des dossiers réglementaires des nouvelles matières premières.\n- Évaluation et intégration des exigences clients relatives aux substances exclues (blacklists) dans le logiciel Coptis\n- Participer à la constitution des dossiers réglementaires (DIP - Dossier d'Information Produit) des produits développés et validés, en apportant un support à l'équipe\n- Participer à l'approvisionnement et au sourcing de nouvelles matières auprès des fournisseurs\n- Participer à la réalisation d'essais de formulation de formules existantes et réaliser les contrôles nécessaires de ces essais \n- Participer aux prélèvements de matières premières en stock au magasin\n- Participer à la réalisation des pilotes laboratoire \n- Participer à la lecture de stabilités \n- Participer au remplissage de packagings pour les formules présentées aux COE et NPD ainsi que pour les soumissions des formules aux clients \n\nListe non exhaustive\nCes missions doivent être réalisées dans le respect des règles BPF et des modes opératoires mis en place sur le site.\n\n- Vous préparez idéalement un diplôme en Formulation cosmétique.\n- Vous êtes méthodique et organisé(e), réactif(ve), et recherchez un poste polyvalent. \n- L'esprit d'équipe et d'analyse sont des qualités appréciées pour réussir à ce poste.\n\nLOCALISATION DU POSTE :\n11 Rue Papiau de la Verrie\n49000 ANGERS \nDIPLOME PREPARE : \nLicence 3 / Master en Formulation cosmétique \nNATURE DU CONTRAT : \nApprentissage \nDATE DE PRISE DE POSTE :\nSeptembre/Octobre 2026 \nORGANISATION DU POSTE : \nHoraires de journée",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "INTER COSMETIQUES",
+      "address": "49000 Angers",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212RCFB",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a862e41334ed2d599cfe0ac",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Ingénieur d'unité de production industrielle F/H - H/F",
+      "description": "<p>  Référence : AA1524NF  <br />  Lieu : La Ferté-Saint-Aubin, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au sein de l'activité Véhicules et Systèmes Tactiques, le site de La Ferté Saint Aubin est spécialisé dans la production de systèmes d'armements terrestres et aéroportés (mortiers, munitions, roquettes…), de systèmes de protection des forces et de contrôle de zone. Fort de ses 450 salariés, ingénieurs, techniciens et ouvriers spécialisés, le site de la Ferté Saint Aubin assure la recherche et développement, la production, les essais ainsi que toutes les fonctions « supports » nécessaires à la conception de systèmes performants essentiels à la réussite des missions opérationnelles. Thales a constitué, avec le groupe allemand de défense DIEHL, une Joint-Venture « JUNGHANS T2M » qui compte 165 salariés permettant aux deux entreprises d'associer leurs compétences d'électronique et de mécanique de précision et de devenir ainsi un des leaders mondiaux dans le domaine des fusées de munitions. Cette Joint-Venture est présente également sur le site de La Ferté saint Aubin.   <br />   Sur le site de La Ferté Saint Aubin à proximité d'Orléans, au sein du Centre de Compétences Industrielles, vous intégrerez l'Unité de Production et Réparation Autonome (A.P.R.U) des systèmes d'armes.Vous travaillerez en étroite collaboration avec de multiples interlocuteurs : l'atelier de production , le service Process Engineering, le service Qualité, le Centre de Compétences Techniques et la Supply Chain.Sous la responsabilité du Responsable Produits Série, vous participerez à la montée en maturité.   <br />   Vos missions:   <br />  </li>  <li>   Analyse du processus de gestion des évolutions et proposition d'axes améliorations pour maitriser et piloter au sein du service la qualité de ce processus.   <br />  </li>  <li>   Identification, analyse et mise en place d'amélioration et de modernisation des moyens de mesures   <br />  </li>  <li>   Participation à la mise en place de l'EN9100 (focus FOD et application des procédés spéciaux)   <br />  </li>  <li>   Support de l'équipe dans le traitement des faits techniques et de la Non-Qualité en utilisant les méthodes de résolution de problèmes.   <br />   Votre profil:   <br />   Formation: En préparation d'un diplôme d'ingénieur ou un équivalent Bac+5 généraliste ou en génie industriel.   <br />   Durée: 1 an.   <br />   Compétences/connaissances requises:   <br />  </li>  <li>   gestion de production   <br />  </li>  <li>   outils du Lean   <br />  </li>  <li>   mécanique et hydraulique   <br />  </li>  <li>   pilotage de projet et gestion d'équipe transversale   <br />  </li>  <li>   rigueur, esprit de synthèse, organisation et bon relationnel   <br />   Le mot de l'équipe:Venez travailler avec nous au sein de l'APRU dans un environnement industriel en pleine évolution pour gagner en maturité industrielle et atteindre nos objectifs de performance.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable d'unité industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "45240 La Ferté-Saint-Aubin",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56205813?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a862d224611e3d929beff3d",
+      "partner_label": "France Travail",
+      "title": "Alternant Électricien - BTS Électrotechnique (H/F)",
+      "description": "DOMOPOWER recrute un(e) alternant(e) en électricité !\n\nEntreprise à taille humaine spécialisée dans les installations électriques et les nouvelles technologies du bâtiment, nous recherchons un(e) alternant(e) préparant un BTS Électrotechnique pour rejoindre notre équipe.\n\nTes missions\n\nAccompagné(e) par nos techniciens, tu participeras progressivement à :\n\nInstallation et rénovation électrique\nTableaux électriques et distribution\nInstallations tertiaires\nBornes de recharge pour véhicules électriques (IRVE)\nInstallations photovoltaïques\nCourants faibles, réseaux et équipements connectés\nDépannage, maintenance et recherche de pannes\nLecture de plans et schémas électriques\nMesures, essais et mises en service\n\nL'objectif n'est pas de te cantonner aux tâches basiques : nous voulons réellement te faire progresser et gagner en autonomie sur le terrain.\n\nProfil recherché\n\nTu prépares un BTS Électrotechnique en alternance.\n\nNous recherchons avant tout quelqu'un de motivé, sérieux, curieux et volontaire, qui aime le travail terrain et souhaite découvrir plusieurs facettes du métier d'électricien.\n\nLe permis B est nécessaire.\n\nPourquoi rejoindre DOMOPOWER ?\n\nNous sommes une petite équipe où chacun compte réellement. \nTu travailleras directement avec des ouvrierexpérimentés sur des chantiers variés et des installations modernes.\n\nChez nous, la polyvalence est importante : l'objectif est de te permettre de toucher à plusieurs domaines avant, pourquoi pas, de te spécialiser progressivement dans celui qui te correspond le mieux.\n\nUne poursuite dans l'entreprise pourra être envisagée à l'issue de l'alternance si l'expérience est concluante des deux côtés.\n\n Secteur : Auriol (13) et interventions principalement dans les Bouches-du-Rhône",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "DOMOPOWER GROUP",
+      "address": "13390 Auriol",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212QTJV",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a862d244611e3d929beffb0",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT Technicien de Maintenance Industrielle (H/F)",
+      "description": "Au sein d'une industrie agroalimentaire en pleine expansion, nous sommes à la recherche de notre futur alternant Technicien de Maintenance Industrielle ( contrat d'apprentissage ou contrat de professionnalisation) . Vous préparez idéalement un diplôme de niveau Bac+2 (BTS ou Titre Professionnel). \n\nDans ce cadre et sous la responsabilité du Responsable vos missions seront principalement les suivantes : \n-Travaux d'intervention de maintenance préventive, corrective et d'amélioration sur l'équipement industriel\n-Montage et installation d'éléments ou de sous-ensembles de l'équipement industriel\n-Changements de format, réglages, mises au point de l'équipement industriel\n-Identification, réparation ou remplacement de pièces et éléments des systèmes défectueux\n-Diagnostic des arrêts et dysfonctionnements, interventions sur les équipements (dépannage, remise en état, réglages), analyse et proposition d'amélioration\n-Détection, gestion et signalement des anomalies (alarmes/ incidents), déclarations d'incidents et investigations.\n-Mise en sécurité des zones d'intervention\n-Nettoyage et entretien des équipements et du matériel\n-utilisation d'une GMAO pour l'organisation et le reporting de votre activité\n\nRythme souhaité : 3 semaines en entreprise / 1 semaine en cours\nDébut :  dès que possible\nLangue: Anglais souhaité mais non obligatoire\nCaces souhaité",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "BBM",
+      "address": "60230 Chambly",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212PMBS",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a862d1a4611e3d929befd7c",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT TECHNICIEN DE MAINTENANCE (POSTE FIXE) H/F (H/F)",
+      "description": "Qui sommes nous ?\n\nJungheinrich compte parmi les leaders mondiaux du secteur de l'intralogistique.\nDans le monde ce sont 18 000 collaborateurs, et en France, première filiale de distribution, nous sommes 1250.\n\n\nTes missions\n\nNous recherchons pour la prochaine rentrée scolaire 2026, un(e) alternant(e) pour rejoindre notre équipe de techniciens, afin de prendre part aux missions suivantes :\nAssurer le reconditionnement de nos machines sur différents aspects techniques : électrique, mécanique, hydraulique, thermique, carrosserie\nGarantir la conformité et la qualité des travaux en fonction des spécificités de la commande (coût, délai, etc...)\nAssurer le bon déroulement des Ordres de Travail, de la prise en charge du matériel jusqu'à la validation du contrôle de sortie\nEtablir des devis pour les clients internes\nMaintenir la propreté et l'entretien de ton poste de travail ainsi que la conformité de ton outillage\n\nPourquoi nous ?\n\nDurant toute la durée de ta formation tu es accompagné par ton tuteur dont la mission est de te faire gagner en compétences et grandir au sein de ton équipe. Tu bénéficies d'un suivi personnalisé tant par ton manager que par nos équipes RH.\n\nA l'issue de ton alternance, si elle est réussie, de nombreuses opportunités de carrière seront à saisir chez Jungheinrich France.\n\n\nAvantages :\nREMUNERATION FIXE + INTERESSEMENT/PARTICIPATION\n\nEt pourquoi toi ?\n\nParce que tu prépares un BAC +2 dans le domaine de l'électronique, électromécanique ou automatisme, ou diplôme équivalent.\n\nTu es curieux(se), dynamique et as le sens du service client.\n\nTu veux gagner en autonomie et en adaptabilité.\n\nEt enfin, tu veux te former auprès de techniciens professionnels.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "JUNGHEINRICH FRANCE",
+      "address": "59111 Hordain",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212CNLM",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a862c8c4611e3d929bedacf",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT TECHNICIEN DE MAINTENANCE (POSTE FIXE) H/F (H/F)",
+      "description": "Qui sommes nous ?\n\nJungheinrich compte parmi les leaders mondiaux du secteur de l'intralogistique.\nDans le monde ce sont 18 000 collaborateurs, et en France, première filiale de distribution, nous sommes 1250.\n\n\nTes missions\n\nNous recherchons pour la prochaine rentrée scolaire 2026, un(e) alternant(e) pour rejoindre notre équipe de techniciens, afin de prendre part aux missions suivantes :\nAssurer le reconditionnement de nos machines sur différents aspects techniques : électrique, mécanique, hydraulique, thermique, carrosserie\nGarantir la conformité et la qualité des travaux en fonction des spécificités de la commande (coût, délai, etc...)\nAssurer le bon déroulement des Ordres de Travail, de la prise en charge du matériel jusqu'à la validation du contrôle de sortie\nEtablir des devis pour les clients internes\nMaintenir la propreté et l'entretien de ton poste de travail ainsi que la conformité de ton outillage\n\nPourquoi nous ?\n\nDurant toute la durée de ta formation tu es accompagné par ton tuteur dont la mission est de te faire gagner en compétences et grandir au sein de ton équipe. Tu bénéficies d'un suivi personnalisé tant par ton manager que par nos équipes RH.\n\nA l'issue de ton alternance, si elle est réussie, de nombreuses opportunités de carrière seront à saisir chez Jungheinrich France.\n\n\nAvantages :\nREMUNERATION FIXE + INTERESSEMENT/PARTICIPATION\n\nEt pourquoi toi ?\n\nParce que tu prépares un BAC +2 dans le domaine de l'électronique, électromécanique ou automatisme, ou diplôme équivalent.\n\nTu es curieux(se), dynamique et as le sens du service client.\n\nTu veux gagner en autonomie et en adaptabilité.\n\nEt enfin, tu veux te former auprès de techniciens professionnels.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "JUNGHEINRICH FRANCE",
+      "address": "59220 Denain",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://jungheinrich.career-portal.io/jobs/6a0e593ad42a9902046fdf6b?utm_source=FranceTravail&utm_medium=TargetingSourcing&utm_campaign=JUNGHEINRICH",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a86276c334ed2d599cef8ec",
+      "partner_label": "RH Alternance",
+      "title": "Alternant(e) en maintenance mécanique",
+      "description": "Descriptif du poste : \nProfil recherché :",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "AVRIL",
+      "address": "80000 Amiens",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/amiens/alternant-e-en-maintenance-mécanique-824246579",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a862e41334ed2d599cfe0a8",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Technicien - Maintenance de moyens industriels - F/H - H/F",
+      "description": "<p>  Référence : AA1516KC  <br />  Lieu : Saint-Étienne, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au nord de Saint-Etienne, notre centre d'excellence en optronique du combattant terrestre, développe et fabrique des systèmes de vision nocturne et composants optiques. Centre historique de la marque Angénieux, le site est aussi spécialisé dans les optiques de très haute qualité pour l'industrie du cinéma.   <br />   Vous rejoignez l' équipe Maintenance et participez aux activités du service.   <br />   Dans ce contexte, vous :   <br />  </li>  <li>   Contribuez à la maintenance curative et préventive de moyens industriels ;   <br />  </li>  <li>   Participez à la définition et réalisez des actions d'amélioration ;   <br />  </li>  <li>   Utilisez et renseignez le logiciel de GMAO (Gestion de Maintenance Assistée par Ordinateur).   <br />   Votre profil   <br />   Votre priorité est de rejoindre un grand groupe industriel ?   <br />   Vous avez l'ambition de développer de nouvelles compétences ?   <br />   Vous avez envie de découvrir le secteur de la maintenance ?   <br />   Vous préparez un BAC+2 ou +3 spécialisé en Maintenance Industrielle et avez des connaissances en :   <br />  </li>  <li>   Mécanique,   <br />  </li>  <li>   Electricité,   <br />  </li>  <li>   Automatisme,   <br />   Rigueur, curiosité et bon relationnel sont des atouts que l'on vous reconnait ?   <br />   Alors ce poste est fait pour vous !   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "42000 Saint-Étienne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56205776?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a862e43334ed2d599cfe13d",
+      "partner_label": "Meteojob",
+      "title": "Ingénieur Méthode maintenance en alternance H/F",
+      "description": "<p>Rejoignez le n°1 français indépendant des solutions et services à l'énergie : une entreprise en croissance (+12% par an et 590M€ de CA).</p> <p>Fauché, c'est 3700 femmes et hommes répartis sur 150 sites en France et animés par une énergie entrepreneuriale.</p> <p>Notre agence, spécialisée dans la maintenace d'instalation électrique tertiaire basée à Villiers-sur-Marne, se développe et recrute :</p> <p>  Un  <strong>Ingénieur Méthode maintenance en alternance</strong>  H/F </p> <p>     <strong>Vos missions principales :</strong>   </p> <p>  Organisation Exploitation : </p> <ul>  <li>Analyser les méthodes de travail des équipes techniques</li>  <li>Formaliser et standardiser les processus d'intervention</li>  <li>Rédiger et mettre à jour les modes opératoires et procédures</li>  <li>Participer à l'optimisation de la planification et du suivi des interventions</li>  <li>Accompagner le déploiement et l'amélioration des outils de gestion (GMAO, tableaux de bord, reporting)</li> </ul> <p>  Structuration des procédures internes : </p> <ul>  <li>Cartographier les processus de l'agence</li>  <li>Formaliser les procédures administratives et opérationnelles</li>  <li>Participer à l'organisation documentaire de l'agence</li>  <li>Veiller à la bonne application des procédures et proposer des améliorations</li> </ul>\r\n\r\nSecteur: BTP - Bâtiment Travaux Publics\r\n\r\nPoste: ingénieur méthodes maintenance (H/F)\r\n\r\nTemps Plein\r\n\r\nAlternance\r\n\r\nProfil: <p>     <strong>Le profil idéal :</strong>   </p> <p>Vous préparez un BUT en Méthodes maintenance ou vous entrez en première année d'école d'ingénieur ou en Master en méthodes.</p> <p>Vous faites preuve de rigueur, d'organisation et d'un esprit d'analyse.</p> <p>Votre capacité à travailler en équipe et votre sens des responsabilités sont des atouts majeurs pour cette alternance.</p> <p>Vous êtes motivé(e) par l'idée de contribuer à l'amélioration continue de nos processus et de participer activement à la réalisation de nos projets.</p> <p>Votre sens du détail et votre capacité à communiquer efficacement sont également des qualités essentielles pour ce rôle.</p> <p>     <strong>Pourquoi rejoindre Fauché ?</strong>   </p> <p>  Les équipes de Fauché agissent au cœur des enjeux énergétiques depuis 60 ans en intervenant partout où l'énergie est nécessaire.  <br />  Choisir Fauché, c'est intégrer une entreprise solide, conviviale, proche de ses clients, où il fait bon travailler pour grandir ensemble.  <br />  Pour cela, nous créons un environnement confortable et inclusif où chacun peut s'épanouir. </p> <p>     <strong>Voici ce qu'on prévoit pour vous :</strong>   </p> <ul>  <li>Prime vacances 30%</li>  <li>Indemnité repas</li>  <li>Accord d'intéressement et de participation</li>  <li>CSE</li> </ul> <p>Vous hésitez encore ?</p> <p>     <strong>Fauché, c'est aussi :</strong>   </p> <ul>  <li>Un actionnariat salarié : près de 85% du capital est détenu par les collaborateurs du groupe</li>  <li>Une croissance régulière et maîtrisée depuis plus de 10 ans</li>  <li>Un plan stratégique 2032 ambitieux coconstruit avec les managers qui oriente Fauché vers un modèle multi métiers et multi marchés : électricité, CVC, maintenance et des clients dans le tertiaire, l'industrie, les transports, l'énergie photovoltaïque et le nucléaire.</li>  <li>   Des formations internes à la Fauché School   <br />  </li> </ul> <p>  <strong>Unissons nos énergies.</strong> </p>",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "Fauché",
+      "address": "Impasse du Val de Marne 94100 Saint-Maur-des-Fossés",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56214762?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a862e41334ed2d599cfe0ab",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Technicien méthodes F/H - H/F",
+      "description": "<p>  Référence : AA1535NH  <br />  Lieu : Vélizy-Villacoublay, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4,5 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 85 000 collaborateurs dans 65 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Rejoignez-nous sur le campus Vélizy qui héberge une grande diversité d'activités Thales, aéro, défense, civile,… A l'ouest de Paris, ce site offre un environnement de travail équipé des dernières innovations technologiques et propose des services permettant de concilier vie professionnelle et personnelle.   <br />   Votre quotidien   <br />   Rattaché au service Méthodes Process, vous contribuez activement à l'optimisation des processus de fabrication et à l'amélioration continue de la production. Vous intervenez en interface directe avec les équipes production, technique, ingénierie et qualité. Vos principales missions sont :   <br />  </li>  <li>   Analyser les processus de fabrication actuels afin de détecter les axes d'amélioration en termes de sécurité, qualité, productivité et ergonomie.   <br />  </li>  <li>   Participer à la rédaction et à la mise à jour des documents techniques, tels que les gammes de fabrication, modes opératoires et fiches d'instruction.   <br />  </li>  <li>   Appuyer la mise en place de nouveaux équipements ou procédés de fabrication.   <br />  </li>  <li>   Mener des études de postes (chronométrage, analyse des flux, organisation des postes de travail).   <br />  </li>  <li>   Suivre les indicateurs de performance (TRS, non-conformités, rebuts) et contribuer à la mise en œuvre d'actions correctives.   <br />  </li>  <li>   Collaborer étroitement avec les équipes de production, qualité et maintenance pour résoudre les problèmes techniques rencontrés au quotidien.   <br />  </li>  <li>   Proposer et participer à des actions d'amélioration continue.   <br />   Votre activité se répartit entre des périodes sur le terrain, en atelier, et du travail de bureau. Vous êtes encadré par un ingénieur méthodes expérimenté et êtes amené à participer à des projets d'amélioration et d'industrialisation.   <br />   Votre profil   <br />  </li>  <li>   Vous préparez un BTS, DUT ou Licence professionnelle dans les domaines de la productique, du génie industriel ou des méthodes.   <br />  </li>  <li>   Vous êtes passionné par les environnements industriels et aimez résoudre des problèmes techniques concrets.   <br />  </li>  <li>   Vous faites preuve de rigueur, d'un bon esprit d'analyse, d'un sens pratique développé et disposez d'un bon relationnel.   <br />  </li>  <li>   Vous maîtrisez les outils bureautiques (Excel, Word) et avez idéalement des connaissances sur SAP et PLM.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+2, type BTS - DUT - DTS,Licence générale, Licence professionnell  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien des méthodes (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "78140 Vélizy-Villacoublay",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56205805?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
     }
   ]
 }
