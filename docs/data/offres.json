@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:32:41.045536+00:00",
+  "generated_at": "2026-08-26T05:35:49.663066+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -26029,6 +26029,67 @@
       ],
       "contract_start": null,
       "apply_url": "https://www.meteojob.com/jobs/56291101?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a8e157fa49c76b718320544",
+      "partner_label": "France Travail",
+      "title": "Apprenti Electromécanicien H/F",
+      "description": "Notre objectif ?\nGarantir la qualité de service grâce à une rigueur et une organisation de travail irréprochable pour satisfaire nos clients.\nGueudet 1880 recherche son futur apprenti Électromécanicien (f/h) pour rejoindre la concession Renault de Bourgtheroulde !\nVotre quotidien ?\nMettez votre passion au centre de votre formation en intervenant sur une gamme variée de véhicules. Accompagné par votre tuteur, vos missions seront les suivantes :\n- Vous participez aux diagnostics et aux interventions sur les systèmes électriques, électroniques et mécaniques.\n- Vous apprenez à consulter et assimiler les notes techniques.\n- Vous apprenez à identifier et signaler les problèmes potentiels affectant les performances des véhicules.\n- Vous collaborez avec les membres de l'équipe pour garantir des délais de réparation rapides et une satisfaction client optimale.\n- Dans le respect de nos process Gueudet 1880 et notamment des méthodes de réparation définies par le constructeur, vous appliquez les règles de l'atelier en toute sécurité.\nDonnez-nous l'opportunité de former votre talent au sein de notre concession !\n\n  \n Vous préparez une formation en maintenance des véhicules (Bac Pro, BTS ou titre professionnel) et vous souhaitez mettre en pratique vos connaissances théoriques.\nVous êtes reconnu pour votre rigueur, votre curiosité ainsi que votre goût du travail bien fait. Votre motivation à apprendre le métier d'électromécanicien fera la différence.\nRejoignez-nous !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "Renault - Gueudet 1880",
+      "address": "27520 Grand Bourgtheroulde",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=8NRllPZZ3INCNfZmpk178w==",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a8e161da49c76b718322aea",
+      "partner_label": "France Travail",
+      "title": "SNCF - ALTERNANCE-  MASTER  2 QHSE - dominante Qualité (H/F)",
+      "description": "DESCRIPTION DU POSTE\n\nDescription de la mission:\n\nLa mission aura pour but d'apporter aide et conseil aux managers de l'établissement en vue d'améliorer les process en cours. Il faudra pour cela\n\n * définir la cartographie des processus au sein des 2 agences maintenances et travaux de l'établissement\n * organiser et mener les groupes de travail\n * proposer une harmonisation des pratiques au sein des 2 agences\n * accompagner la conduite du changement\n * excellence opérationnelle\n\n\nPROFIL RECHERCHÉ\n\n* Améliorer les processus\n * animer et piloter la qualité produite\n * pilotage de plans d'action\n * organisation\n * rigueur\n * excellence opérationnelle\n * rythme privilégié: 1 semaine école, 3 semaines en entreprise\n\nDiplôme recherché préparé :\n\nMASTER QHSE - dominante Qualité",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "SNCF",
+      "address": "75012 Paris 12e Arrondissement",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.altays-progiciels.com/sncf-recrutement-externe/back/offre/redirectOffreSiteCarriere/1?NoOffre=2820353&NoSociete=389&NoLangue=1&NoSource=16003",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a8e10754b5bbabffa343206",
+      "partner_label": "RH Alternance",
+      "title": "Apprentissage : Technicien Méthodes en Amélioration Continue F/H",
+      "description": "Descriptif du poste : \nProfil recherché :",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "MBDA FRANCE",
+      "address": "41300 Selles-Saint-Denis",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://rhalternance.com/jobs/maintenance-et-entretien/selles-saint-denis/apprentissage-:-technicien-méthodes-en-amélioration-continue-f-h-796123352",
       "sector_id": "methode",
       "sector_label": "Méthodes / Industrialisation"
     }
