@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:19:25.158695+00:00",
+  "generated_at": "2026-08-31T11:25:31.695819+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -6294,7 +6294,7 @@
       ],
       "created_at": null,
       "company_name": "Manpower",
-      "address": "51100 Reims",
+      "address": "Reims (51)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -6435,7 +6435,7 @@
       ],
       "created_at": null,
       "company_name": "EUREDEN",
-      "address": "22120 Yffiniac",
+      "address": "Yffiniac (22)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -6695,7 +6695,7 @@
       ],
       "created_at": null,
       "company_name": "E.Leclerc",
-      "address": "40000 Mont-de-Marsan",
+      "address": "Mont-de-Marsan (40)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -6951,7 +6951,7 @@
       ],
       "created_at": null,
       "company_name": "APAVE",
-      "address": "30000 Nîmes",
+      "address": "Nîmes (30)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -7273,7 +7273,7 @@
       ],
       "created_at": null,
       "company_name": "E.Leclerc",
-      "address": "95820 Bruyères-sur-Oise",
+      "address": "Bruyères-sur-Oise (95)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -9564,7 +9564,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "92210 Saint-Cloud",
+      "address": "Saint-Cloud (92)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -10866,7 +10866,7 @@
       ],
       "created_at": null,
       "company_name": "DPD",
-      "address": "26140 Saint-Rambert-d'Albon",
+      "address": "Saint-Rambert-d'Albon (26)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -11537,7 +11537,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "92210 Saint-Cloud",
+      "address": "Saint-Cloud (92)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -11793,7 +11793,7 @@
       ],
       "created_at": null,
       "company_name": "Proman",
-      "address": "13117 Martigues",
+      "address": "Martigues (13)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -12324,7 +12324,7 @@
       ],
       "created_at": null,
       "company_name": "Maison Montfort",
-      "address": "65700 Maubourguet",
+      "address": "Maubourguet (65)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -12452,7 +12452,7 @@
       ],
       "created_at": null,
       "company_name": "Manpower",
-      "address": "51100 Reims",
+      "address": "Reims (51)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -12500,7 +12500,7 @@
       ],
       "created_at": null,
       "company_name": "LOXAM",
-      "address": "47310 Estillac",
+      "address": "Estillac (47)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -13029,7 +13029,7 @@
       ],
       "created_at": null,
       "company_name": "Auchan Retail France",
-      "address": "54510 Tomblaine",
+      "address": "Tomblaine (54)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -13630,7 +13630,7 @@
       ],
       "created_at": null,
       "company_name": "HOZELOCK EXEL",
-      "address": "69400 Arnas",
+      "address": "Arnas (69)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -15389,7 +15389,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "54630 Flavigny-sur-Moselle",
+      "address": "Flavigny-sur-Moselle (54)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -15413,7 +15413,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "53800 Renazé",
+      "address": "Renazé (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -16341,7 +16341,7 @@
       ],
       "created_at": null,
       "company_name": "Auchan Retail France",
-      "address": "30000 Nîmes",
+      "address": "Nîmes (30)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -16362,7 +16362,7 @@
       ],
       "created_at": null,
       "company_name": "AUCHAN RETAIL LOGISTIQUE",
-      "address": "1608 Avenue Joliot Curie 30900 Nîmes",
+      "address": "1608 Avenue Joliot Curie 30932 Nîmes",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -16516,7 +16516,7 @@
       ],
       "created_at": null,
       "company_name": "Manpower",
-      "address": "69740 Genas",
+      "address": "Genas (69)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -16537,7 +16537,7 @@
       ],
       "created_at": null,
       "company_name": "Manpower",
-      "address": "69740 Genas",
+      "address": "Genas (69)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -17614,7 +17614,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "26000 Valence",
+      "address": "Valence (26)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -17790,7 +17790,7 @@
       ],
       "created_at": null,
       "company_name": "DISLAUB",
-      "address": "10800 Buchères",
+      "address": "Buchères (10)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -20099,7 +20099,7 @@
       ],
       "created_at": null,
       "company_name": "Auchan Retail France",
-      "address": "54350 Mont-Saint-Martin",
+      "address": "Mont-Saint-Martin (54)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -23626,7 +23626,7 @@
       ],
       "created_at": null,
       "company_name": "SYNERGIE",
-      "address": "74000 Annecy",
+      "address": "Annecy (74)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -24461,7 +24461,7 @@
       ],
       "created_at": null,
       "company_name": "ADECCO",
-      "address": "53100 Mayenne",
+      "address": "Mayenne (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -24482,7 +24482,7 @@
       ],
       "created_at": null,
       "company_name": "ADECCO",
-      "address": "53100 Mayenne",
+      "address": "Mayenne (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25040,7 +25040,7 @@
       ],
       "created_at": null,
       "company_name": "Le Mercato de l'Emploi",
-      "address": "66000 Perpignan",
+      "address": "Perpignan (66)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25064,7 +25064,7 @@
       ],
       "created_at": null,
       "company_name": "LOXAM",
-      "address": "72230 Arnage",
+      "address": "Arnage (72)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25399,7 +25399,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "19100 Brive-la-Gaillarde",
+      "address": "Brive-la-Gaillarde (19)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25679,7 +25679,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "26000 Valence",
+      "address": "Valence (26)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25703,7 +25703,7 @@
       ],
       "created_at": null,
       "company_name": "COLAS RAIL",
-      "address": "38540 Grenay",
+      "address": "Grenay (38)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25839,7 +25839,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "19100 Brive-la-Gaillarde",
+      "address": "Brive-la-Gaillarde (19)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -25998,7 +25998,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "33360 Latresne",
+      "address": "Latresne (33)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26362,7 +26362,7 @@
       ],
       "created_at": null,
       "company_name": "ADECCO",
-      "address": "53700 Villaines-la-Juhel",
+      "address": "Villaines-la-Juhel (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26386,7 +26386,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "21000 Dijon",
+      "address": "Dijon (21)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26434,7 +26434,7 @@
       ],
       "created_at": null,
       "company_name": "Jubil Interim Reims",
-      "address": "51100 Reims",
+      "address": "Reims (51)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26674,7 +26674,7 @@
       ],
       "created_at": null,
       "company_name": "RTE - Réseau de transport d'électricité",
-      "address": "Neuilly En Thelle 60530 Neuilly-en-Thelle",
+      "address": "Neuilly-en-Thelle (60)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26909,7 +26909,7 @@
       ],
       "created_at": null,
       "company_name": "ADECCO",
-      "address": "Route d'Evron 53210 Soulgé-sur-Ouette",
+      "address": "Évron (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26930,7 +26930,7 @@
       ],
       "created_at": null,
       "company_name": "ADECCO",
-      "address": "Route d'Evron 53210 Soulgé-sur-Ouette",
+      "address": "Évron (53)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26951,7 +26951,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "79240 Largeasse",
+      "address": "Largeasse (79)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26975,7 +26975,7 @@
       ],
       "created_at": null,
       "company_name": "L'industrie recrute",
-      "address": "79240 Largeasse",
+      "address": "Largeasse (79)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -26999,7 +26999,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "15300 Ussel",
+      "address": "Ussel (15)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -27023,7 +27023,7 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "16230 Saint-Groux",
+      "address": "Saint-Groux (16)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -27114,13 +27114,202 @@
       ],
       "created_at": null,
       "company_name": "UIMM",
-      "address": "80210 Feuquières-en-Vimeu",
+      "address": "Feuquières-en-Vimeu (80)",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
       ],
       "contract_start": null,
       "apply_url": "https://www.meteojob.com/jobs/56419674?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a94ae5250625cad39badb09",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - Ingénieur d'unité de production industrielle F/H - H/F",
+      "description": "<p>  Référence : AA1524NF  <br />  Lieu : La Ferté-Saint-Aubin, France  <br />  Construisons ensemble un avenir de confiance  <br />  Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &amp; Sécurité, Aéronautique &amp; Spatial, et Cyber &amp; Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche &amp; Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.  <br />  Nos engagements, vos avantages  <br /> </p> <ul>  <li>   Notre savoir-faire technologique   <br />  </li>  <li>   Notre attention portée à l'équilibre des collaborateurs   <br />  </li>  <li>   Un environnement inclusif et bienveillant   <br />  </li>  <li>   Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)   <br />   Votre quotidien   <br />   Au sein de l'activité Véhicules et Systèmes Tactiques, le site de La Ferté Saint Aubin est spécialisé dans la production de systèmes d'armements terrestres et aéroportés (mortiers, munitions, roquettes…), de systèmes de protection des forces et de contrôle de zone. Fort de ses 450 salariés, ingénieurs, techniciens et ouvriers spécialisés, le site de la Ferté Saint Aubin assure la recherche et développement, la production, les essais ainsi que toutes les fonctions « supports » nécessaires à la conception de systèmes performants essentiels à la réussite des missions opérationnelles. Thales a constitué, avec le groupe allemand de défense DIEHL, une Joint-Venture « JUNGHANS T2M » qui compte 165 salariés permettant aux deux entreprises d'associer leurs compétences d'électronique et de mécanique de précision et de devenir ainsi un des leaders mondiaux dans le domaine des fusées de munitions. Cette Joint-Venture est présente également sur le site de La Ferté saint Aubin.   <br />   Sur le site de La Ferté Saint Aubin à proximité d'Orléans, au sein du Centre de Compétences Industrielles, vous intégrerez l'Unité de Production et Réparation Autonome (A.P.R.U) des systèmes d'armes.Vous travaillerez en étroite collaboration avec de multiples interlocuteurs : l'atelier de production , le service Process Engineering, le service Qualité, le Centre de Compétences Techniques et la Supply Chain.Sous la responsabilité du Responsable Produits Série, vous participerez à la montée en maturité.   <br />   Vos missions:   <br />  </li>  <li>   Analyse du processus de gestion des évolutions et proposition d'axes améliorations pour maitriser et piloter au sein du service la qualité de ce processus.   <br />  </li>  <li>   Identification, analyse et mise en place d'amélioration et de modernisation des moyens de mesures   <br />  </li>  <li>   Participation à la mise en place de l'EN9100 (focus FOD et application des procédés spéciaux)   <br />  </li>  <li>   Support de l'équipe dans le traitement des faits techniques et de la Non-Qualité en utilisant les méthodes de résolution de problèmes.   <br />   Votre profil:   <br />   Formation: En préparation d'un diplôme d'ingénieur ou un équivalent Bac+5 généraliste ou en génie industriel.   <br />   Durée: 1 an.   <br />   Compétences/connaissances requises:   <br />  </li>  <li>   gestion de production   <br />  </li>  <li>   outils du Lean   <br />  </li>  <li>   mécanique et hydraulique   <br />  </li>  <li>   pilotage de projet et gestion d'équipe transversale   <br />  </li>  <li>   rigueur, esprit de synthèse, organisation et bon relationnel   <br />   Le mot de l'équipe:Venez travailler avec nous au sein de l'APRU dans un environnement industriel en pleine évolution pour gagner en maturité industrielle et atteindre nos objectifs de performance.   <br />   Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable d'unité industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "La Ferté-Saint-Aubin (45)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56428090?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a94a830338cc3a9129fdf5e",
+      "partner_label": "Nos Talents Nos Emplois",
+      "title": "Alternance - Agent de maintenance F/H",
+      "description": "<p>Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de construction en apportant des solutions innovantes sur les marchés en croissance des pays émergents, de l'efficacité énergétique et de l'environnement.</p> <br /> <p>Rejoindre Saint-Gobain, c'est avoir accès à des parcours professionnels captivants et enrichissants. En tant qu'entreprise de renommée mondiale, vous aurez la possibilité de rejoindre une communauté aux perspectives incroyables.</p> <br /> <p>SAMIN est une filiale du Groupe Saint-Gobain spécialisée dans l'extraction et le traitement de matières premières minérales à destination de l'industrie et de l'agriculture. Cette société compte 100 salariés répartis sur 9 sites en France.</p> <br /> <br /> <p>Le site de Tacon (01) recherche un(e) Alternant(e) Maintenance.</p> <br /> <p>Intégrer SAMIN et l'établissement de Tacon c'est intégrer une entreprise au style familial tout en faisant partie d'un grand Groupe !</p> <br /> <p>L'équipe de Tacon est constituée d'une pitite dizaine de collaborateurs répartis entre les carrières et l'usine de traitement.</p> <br /> <br /> <p>Sous le tutorat du Responsable Usine, vous serez chargé(e) de :</p> <br /> <br /> Effectuer l'entretien, le dépannage, la surveillance et l'installation d'équipements de l'exploitation selon les règles de sécurité et la réglementation, <br /> Aider à la planification d'opérations de maintenance ou d'installation d'équipements, <br /> Organiser avec l'Agent de Maintenance la synchronisation production/interventions consécutives à une panne, un gros entretien, un investissement (avec entreprises extérieures), <br /> Enregistrer et transmettre les \" mouvements magasins \", <br /> Renseigner les supports de suivi d'intervention et transmettre les informations au service concerné, <br /> Assurer votre propre sécurité et celle des autres. <br />\r\n\r\nPoste: Agent de maintenance industrielle (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 19 000 € - 30 000 € par an\r\n\r\nProfil: <p>Poste en alternance à pourvoir à la rentrée 2026.</p> <br /> <br /> <p>Merci d'indiquer sur votre CV le cursus et l'école envisagés, et les dates de votre alternance.</p>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SAMIN",
+      "address": "Châtillon-en-Michaille (01)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16333763?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a838b3907d4b431a412e3a8",
+      "partner_label": "Meteojob",
+      "title": "Alternant Technicien de Maintenance (F/H)",
+      "description": "Au sein d'une équipe de 4 gourmands, tu participeras au bon fonctionnement des outils de production. <br /> <br /> <br /> Dans ce cadre, tes missions seront les suivantes : <br /> <br /> <br /> - L'analyse et le diagnostic de pannes (savoir lire un schéma électrique, mécanique, pneumatique et hydraulique), <br /> <br /> <br /> - La réalisation en toute sécurité d'interventions curatives et préventives, <br /> <br /> <br /> - La mise en place de solutions d'amélioration. <br /> <br /> <br /> À travers cette alternance, tu auras l'opportunité d'approfondir tes connaissances sur le métier de technicien de maintenance avec des collègues dynamiques, qui seront à l'écoute de tes idées !\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: Au-delà du CV, c'est ta personnalité, ton audace et ta motivation qui feront la différence ! <br /> <br /> <br /> Permis B et véhicule indispensables <br /> <br /> <br /> - Des opportunités d'évolution interne <br /> <br /> <br /> - Une entreprise à taille humaine avec une ambiance familiale",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "TRAITEUR DU VAL DE CERE",
+      "address": "Gagnac-sur-Cère (46)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56133611?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a838b3907d4b431a412e391",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE -TECHNICIEN DE MAINTENANCE INDUSTRIELLE (H/F) - H/F",
+      "description": "<p>  Mission  : </p> <p>Vous êtes à la recherche d'une alternance en maintenance ou électrotechnique enrichissante au sein d'un service maintenance et vous êtes motivé(e), curieux(se) ; cette alternance est pour vous !</p> <p>  <strong>A ce titre, vos missions principales seront les suivantes :</strong> </p> <ul>  <li>   <p>Assurer la maintenance préventive et corrective des équipements de nos systèmes automatisés</p>  </li>  <li>   <p>Proposer et réaliser des améliorations pour fiabiliser ou optimiser le fonctionnement des installations automatisées</p>  </li>  <li>   <p>Assurer la traçabilité des interventions maintenance</p>  </li> </ul>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  Savoir-être ou Qualités requises : </p> <p>D'un naturel rigoureux et méthodique, aisance relationnelle, autonomie et force de proposition.</p> <p>  Niveau de Formation : </p> <p>Vous êtes titulaire d'un BAC et vous souhaitez commencer une alternance type BTS des systèmes (Option A : système de production) ou BTS électrotechnique pour la rentrée 2025</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "E.Leclerc",
+      "address": "Lisieux (14)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56127391?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a94ae5150625cad39badb05",
+      "partner_label": "Meteojob",
+      "title": "Technicien(ne) Méthodes / Amélioration continue H/F",
+      "description": "<p>  <strong>JET CUT CLERMONT</strong>  est une filiale du groupe ENERGIE-METAL, expert en tôlerie chaudronnerie sur des secteurs de haute technologie tel que la Défense, le ferroviaire, et l'aéronautique, située à Clermont-Ferrand (63), avec une croissance soutenue sur ses marchés et une équipe dynamique. </p> <p>  Dans ce cadre, nous recherchons un  <strong>Technicien Méthodes H/F</strong>  pour renforcer nos équipes. </p> <p>Vous êtes prêt à relever les défis sur des pièces complexes et exigeantes dans le secteur industriel au sein d'une équipe dynamique et passionnée.</p> <p>  <strong>Votre challenge</strong> </p> <p>Rattaché au Responsable Méthodes, vous êtes garant de la définition, de la formalisation et de l'optimisation des processus de fabrication des pièces, tout en assurant la conformité des opérations de soudage selon les normes en vigueur et les exigences clients.</p> <p>· Élaborer les dossiers techniques de fabrication (internes et sous-traités).</p> <p>· Définir les étapes de production, les besoins en matières, et veiller à leur disponibilité.</p> <p>· Concevoir ou exploiter les fichiers clients (plans, 3D), outillages, montages spécifiques.</p> <p>· Programmer les machines-outils et optimiser les parcours d'usinage.</p> <p>· Déterminer les paramètres de coupe, plans d'autocontrôle, et exigences qualité.</p> <p>· Vérifier la conformité des premières pièces avec le service qualité.</p> <p>· Renseigner les données dans l'ERP : gammes, temps, nomenclatures.</p> <p>· Contribuer à l'industrialisation des nouveaux produits et à l'amélioration continue.</p> <p>· Définir les modes opératoires de soudage (DMOS, QMOS) et assurer leur conformité.</p> <p>· Participer aux revues de contrat et à la qualification des procédés et soudeurs.</p> <p>· Valider les plans d'assemblage et critères de soudabilité des matériaux.</p> <p>· Suivre les contrôles destructifs et non destructifs (CND), en lien avec le service qualité.</p> <p>· Maintenir à jour la documentation soudage (registre QS, traçabilité, plans de soudure).</p> <p>· Accompagner les équipes de production sur les procédés et bonnes pratiques soudage.</p> <p>· Participer aux audits internes/externes liés aux normes ISO 3834-3 et EN 15085-1.</p> <p>  <strong>Votre profil</strong> </p> <p>· Formation Bac +2/3 (BTS CRCI, DUT GMP, Licence Pro Méthodes, ou équivalent).</p> <p>· Expérience significative dans un environnement industriel à forte exigence qualité.</p> <p>· Autonomie, esprit d'analyse, sens du travail en équipe et bonnes qualités relationnelles.</p> <p>· Connaissance des normes EN ISO 9606, EN ISO 15614, EN 1090, RCC-M, etc.</p> <p>· Maitrise des plans d'assemblage et exigences client en matière de soudure.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien méthodes et amélioration continue (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Amplepuis (69)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56427185?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a94ae5150625cad39badb01",
+      "partner_label": "Meteojob",
+      "title": "Alternant technicien process H/F",
+      "description": "<p>Prêt pour de nouvelles aventures ? Embarquez pour Selha Group !</p> <p>Selha Group, c'est plus de 1000 collaborateurs, répartis sur 5 sites en France et au Maroc, qui partagent une seule et même mission : apporter à nos clients des solutions électroniques, contribuant au développement de leurs activités à travers le monde. Depuis plus de 50 ans, nous industrialisons et fabriquons des produits électroniques et des solutions de test pour les secteurs de haute-technologie les plus exigeants : la défense, les télécoms, les énergies, le médical, l'aéronautique et l'industrie professionnelle.</p> <p>Nous rejoindre, c'est choisir de vivre une expérience professionnelle unique au sein d'un groupe responsable et engagé. C'est aussi pouvoir exercer ses missions et gagner en compétences, dans un environnement dynamique, entouré d'experts passionnés par leur métier.</p> <p>Pour voir toutes nos offres ou pour vous inscrire à notre alerte emploi, rendez-vous sur notre site web : ***</p> <p>-</p> <p>Vos missions à bord si vous l'acceptez</p> <p>Vous rejoindrez notre Pôle Process :</p> <p>Pour préparer votre embarquement et vous accompagner dans cette nouvelle aventure :</p> <p>o Nous vous ferons découvrir notre groupe, ses métiers et ses valeurs</p> <p>o Nous vous présenterons votre environnement et vos collègues de travail</p> <p>o Nous construirons ensemble le suivi de votre projet</p> <p>Puis, une fois à bord, vous serez en charge de travailler sur le périmètre collage (maintien mécanique des composants par de la colle) au sein de notre atelier de production. Un constat d'absences de procédures spécifiques pour chaque colle a été fait. En effet, l'ensemble des colles sont regroupées dans un même document rendant la lecture et la compréhension difficile. Cela a pour risque potentiel d'augmenter le risque d'erreur et l'identification des exigences clients.</p> <p>Vos principales missions seront donc :</p> <p>  *Création des fiches d'Instructions de Poste pour les colles : ceci va impliquer la prise en compte des préconisations propres aux différents clients et/ou produits et potentiellement des essais sur les colles pour optimiser des process.  <br />  *Homogénéisation entre les fiches d'instructions de poste du pôle colles et du pôle vernissage </p> <p>Le profil idéal (peut-être le vôtre…)</p> <p>- Vous préparez un diplôme Bac +3/5 dans le domaine des process ou de la performance industrielle</p> <p>- Vous possédez des premières bases en gestion de production et gestion de projets</p> <p>- Vous possédez un esprit de synthèse et d'analyse</p> <p>- Vous savez faire preuve d'adaptation, de curiosité et les nouveaux challenges ne vous font pas peur</p> <p>- Vous êtes à l'aise sur l'ensemble des applications office (Excel, Word)</p> <p>Nos avantages :</p> <p>  Horaires de journée du lundi au vendredi  <br />  CSE (réductions sorties, chèques vacances, bons cadeaux...)  <br />  Mutuelle, prévoyance  <br />  Parcours d'intégration et tutorat  <br />  Formations internes et développement des compétences </p> <p>Cap ou pas cap de rejoindre l'aventure ?</p> <p>Vous vous reconnaissez dans les valeurs portées par Selha Group « Travailler ensemble, dans le respect, vers l'excellence ». Notre annonce, les missions présentées vous motivent et vous vous imaginez déjà faire partie de notre équipage. Alors, n'hésitez plus et postulez !</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien industries de process (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Renazé (53)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56427140?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a94ae5150625cad39badb02",
+      "partner_label": "Meteojob",
+      "title": "Alternant Technicien méthodes (H/F)",
+      "description": "<p>  Rejoignez France Elévateur pour une expérience enrichissante au sein de notre entreprise,  <br />  Experts dans la conception et fabrication de nacelles élévatrices depuis 1984,  <br />  Présents dans toute la France avec nos 12 agences SAV, intégrés à un groupe international à fort potentiel de développement sur notre marché, profitez d'un accompagnement complet dans un cadre bienveillant. </p> <p>Intégrez notre équipe de 310 collaborateurs, tous passionnés et engagés, qui évoluent dans un univers où l'innovation et la qualité sont au cœur du développement.</p> <p>Contribuez à imaginer et construire les nacelles de demain !</p> <p>Prêt à rejoindre la FE Family ?</p> <p>  <em>   <strong>Parlons du poste</strong>  </em> </p> <p>Envie de participer à la transformation d'un environnement industriel innovant et stimulant ?</p> <p>Rattaché(e) à la Direction des Opérations et accompagné(e) par votre tuteur, vous contribuerez principalement à la rédaction et à la mise à jour des modes opératoires de nos process en production.</p> <p>Après une période d'intégration vous permettant de découvrir notre organisation, nos outils et nos méthodes de travail, vos principales missions seront :</p> <p>  · Mettre à jour les temps de gammes  <br />  · Elaboration des outils afin de favoriser la réduction des leads time  <br />  · Participer à la rédaction et à la mise à jour des standards techniques  <br />  · Appuyer les techniciens pour formaliser les bonnes pratiques  <br />  · Proposer et formaliser des améliorations (techniques, organisationnelles, ergonomiques)  <br />  · Mettre à jour des procédures et modes opératoires </p> <p>  Apporter un support technique à des projets transverses en lien avec la production, la qualité ou les méthodes.  <br />  La maitrise de l'anglais est vivement recommandée. </p> <p>Date de prise de poste : Septembre 2026</p> <p>  <em>   <strong>Parlons avantages</strong>  </em> </p> <p>· Vous recherchez un emploi de proximité ?</p> <p>Nous recrutons au siège de notre entreprise à Flavigny sur Moselle (54), à moins de 30 minutes de Lunéville, Toul, et Charmes (88).</p> <p>· France Elévateur vous propose les avantages suivants : participation aux bénéfices, intéressement, prime de vacances, mutuelle avantageuse, Tickets Restaurants pour un montant de 10 euros (60% part employeur). Rémunération selon le barème de la Convention Collective de la Métallurgie + diverses primes pour un montant mensuel estimé à environ 100 €.</p> <p>· Vous souhaitez vivre une expérience enrichissante au cœur d'un établissement influent, avec des projets variés et stimulants dans un cadre créatif au sein d'une équipe bienveillante et collaborative ?</p> <p>Vous travaillerez du lundi au vendredi, en horaires de journées avec modulation du temps de travail, réfectoire, tout est réuni pour des conditions de travail optimales</p> <p>  <em>   <strong>Et si on parlait de vous ?</strong>  </em> </p> <p>Ce poste est accessible à un(e) étudiant(e) en préparation d'une école d'ingénieur génie industriel, production ou méthodes, doté(e) de capacités d'analyse, d'organisation et motivé(e) par les défis de la production industrielle.</p> <p>  Élève ingénieur(e) en Bac+5 (école d'ingénieur, parcours génie industriel, production, méthodes ou équivalent)  <br />  Première expérience en milieu industriel appréciée (stage, projet, alternance)  <br />  Maîtrise des outils d'analyse, de résolution de problèmes et de gestion de projet  <br />  Capacités rédactionnelles pour la mise à jour de procédures techniques et de documents qualité  <br />  Esprit d'équipe, autonomie et capacité à communiquer efficacement avec des interlocuteurs variés (production, industrialisation, qualité)  <br />  Rigueur, organisation et sens de l'initiative  <br />  Maîtrise des outils informatiques (Pack Office, Excel, PowerPoint ; connaissance des logiciels industriels appréciée)  <br />  Anglais technique (un plus) </p> <p>N'hésitez plus, postulez !</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de méthodes industrielles (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Flavigny-sur-Moselle (54)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56427159?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a838b3a07d4b431a412e3e1",
+      "partner_label": "Meteojob",
+      "title": "Licence Pro GPI (Amélioration Continue de la Production Industrielle) H/F",
+      "description": "<p>Pourquoi choisir le Pôle formation UIMM Eure Seine Estuaire:</p> <p>Insertion professionnelle : Plus de 90% de nos apprentis trouvent un emploi dans les 12 mois après l'obtention de leur diplôme.</p> <p>Formations en apprentissage : Toutes nos formations sont gratuites et rémunérées. Vous apprenez tout en gagnant !</p> <p>Poursuite d'études : Du CAP à l'Ingénieur, nos parcours offrent une diversité d'opportunités pour votre avenir.</p> <p>Plateaux techniques : Évoluez dans plus de 15 000m² d'ateliers</p> <p>Équipes qualifiées : Nos formateurs sont des experts de l'Industrie avec plusieurs années d'expérience.</p> <p>Accompagnement : Nous vous aidons à trouver votre entreprise d'accueil grâce à des Job Dating, ateliers coaching CV et nos offres d'apprentissage.</p> <p>Cette formation prépare les étudiants à devenir des spécialistes en amélioration continue et gestion de la performance des processus industriels. Les diplômés sont capables de mettre en place des démarches Lean, d'analyser la performance des processus de production, et de proposer des actions d'amélioration pour optimiser les coûts, les délais, et la qualité. Ils sont formés à l'utilisation d'outils comme le Kaizen, le Value Stream Mapping, et l'AMDEC pour améliorer l'efficacité des flux de production.</p> <p>Accessible après un Bac +2 (BTS, DUT), la formation dure 1 an (455 heures), avec 3 semaines en entreprise et 1 semaine en centre. Les étudiants abordent des modules comme la gestion des flux internes, la gestion de la qualité, et les statistiques industrielles.</p> <p>Avec un taux d'insertion professionnelle de 100%, les diplômés peuvent poursuivre leurs études en ingénierie ou intégrer des postes tels que animateur d'amélioration continue, technicien méthodes ou superviseur d'équipe de production. La formation est gratuite et rémunérée pour les alternants</p> <p>Profil recherché :</p> <p>Prérequis : niveau bac+2 minimum</p> <p>?️Durée : 1 an (3 semaines en entreprise - 1 semaines en centre de formation)</p> <p>?Lieux : Pole formation UIMM ESE site d'Evreux</p> <p>?Prochaine session : Ouverture des inscriptions en novembre 2026</p> <p>?Public cible : Accessible en :</p> <p>- Contrat d'apprentissage (être âgé de moins de 30 ans)</p> <p>- Contrat de professionnalisation</p> <p>?Tarifs : Pour les alternants, formation gratuite et rémunérée.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable de fabrication et amélioration continue (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Évreux (27)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56164130?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "sector_id": "methode",
       "sector_label": "Méthodes / Industrialisation"
     }
