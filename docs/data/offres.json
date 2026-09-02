@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:48:12.589612+00:00",
+  "generated_at": "2026-09-02T09:20:44.144137+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -22054,7 +22054,7 @@
       "id": "69e2ad94f4a166af2c936b1b",
       "partner_label": "PASS",
       "title": "APPRENTI AGENT DE MAINTENANCE DES BATIMENTS ELECTRICIEN",
-      "description": "<p>CAP - BAC PROFESSIONNEL Interventions en maintenance des bâtiments, titre professionnel agent de maintenance des bâtiments, CAP-BAC PRO électricien</p><p>Participer, sous le contrôle de l’agent de maintenance titulaire du poste, à la maintenance préventive et curative du collège et à la réalisation des travaux et interventions de premier niveau dans les différents corps de métier des bâtiments.</p><p> </p><p><strong>Poste à pouvoir en Septembre 2026</strong></p><p>Pour postuler, veuillez envoyer votre CV+lettre de motivation en précisant l'offre à : <strong> </strong><strong>recrut-apprenti@hauts-de-seine.fr</strong> et <strong>lgode@hauts-de-seine.fr</strong></p>",
+      "description": "<p>CAP - BAC PROFESSIONNEL Interventions en maintenance des bâtiments, titre professionnel agent de maintenance des bâtiments, CAP-BAC PRO électricien</p><p>Participer, sous le contrôle de l’agent de maintenance titulaire du poste, à la maintenance préventive et curative du collège et à la réalisation des travaux et interventions de premier niveau dans les différents corps de métier des bâtiments.</p><p> </p><p><strong>Poste à pouvoir en Septembre 2026</strong></p><p>Pour postuler, veuillez envoyer votre CV+lettre de motivation en précisant l'offre à : <strong> </strong><strong></strong> et <strong></strong></p>",
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
@@ -27426,6 +27426,283 @@
       "apply_url": "https://www.aplitrak.com/?adid=SkVVU1NFTElOLjIwNDQ4LjEzNjgwQGxkYy5hcGxpdHJhay5jb20",
       "sector_id": "maintenance_industrielle",
       "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a96efe250bc4e06f868bf24",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE - Technicien qualité en agroalimentaire (H/F)",
+      "description": "Le Technicien de laboratoire d'analyse industrielle assure le contrôle et l'assurance qualité des processus industriels. Réalise des analyses physico-chimiques pour contrôler la qualité des matières premières et des produits finis Interprète les résultats et rédige des rapports détaillés pour assurer la conformité aux normes Participe à l'élaboration et à l'optimisation des procédures d'analyse pour améliorer la fiabilité des résultats Assure la maintenance et le calibrage des équipements de laboratoire pour garantir leur bon fonctionnement Collabore avec les équipes de production pour identifier et résoudre les problèmes de qualité Contribue à des projets de recherche et développement pour innover et améliorer les processus industriels",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T15:31:46.955Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a96efe250bc4e06f868bf24/alternance-technicien-qualité-en-agroalimentaire-h-f",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a96e08e50bc4e06f868aa37",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE - Technicien de production agroalimentaire (H/F)",
+      "description": "Le Technicien de laboratoire d'analyse industrielle assure le contrôle et l'assurance qualité des processus industriels. Réalise des analyses physico-chimiques pour contrôler la qualité des matières premières et des produits finis Interprète les résultats et rédige des rapports détaillés pour assurer la conformité aux normes Participe à l'élaboration et à l'optimisation des procédures d'analyse pour améliorer la fiabilité des résultats Assure la maintenance et le calibrage des équipements de laboratoire pour garantir leur bon fonctionnement Collabore avec les équipes de production pour identifier et résoudre les problèmes de qualité Contribue à des projets de recherche et développement pour innover et améliorer les processus industriels",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T14:26:22.158Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a96e08e50bc4e06f868aa37/alternance-technicien-de-production-agroalimentaire-h-f",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a96de80896188246ad05a75",
+      "partner_label": "offres_emploi_lba",
+      "title": "ALTERNANCE - technicien de production agroalimentaire (H/F)",
+      "description": "Le Technicien de laboratoire d'analyse industrielle assure le contrôle et l'assurance qualité des processus industriels. Réalise des analyses physico-chimiques pour contrôler la qualité des matières premières et des produits finis Interprète les résultats et rédige des rapports détaillés pour assurer la conformité aux normes Participe à l'élaboration et à l'optimisation des procédures d'analyse pour améliorer la fiabilité des résultats Assure la maintenance et le calibrage des équipements de laboratoire pour garantir leur bon fonctionnement Collabore avec les équipes de production pour identifier et résoudre les problèmes de qualité Contribue à des projets de recherche et développement pour innover et améliorer les processus industriels",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "address": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T14:17:36.590Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a96de80896188246ad05a75/alternance-technicien-de-production-agroalimentaire-h-f",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a97515fdb6c731160e48f20",
+      "partner_label": "Meteojob",
+      "title": "Alternant Technicien de Maintenance (F/H)",
+      "description": "Au sein d'une équipe de 4 gourmands, tu participeras au bon fonctionnement des outils de production. <br /> <br /> <br /> Dans ce cadre, tes missions seront les suivantes : <br /> <br /> <br /> - L'analyse et le diagnostic de pannes (savoir lire un schéma électrique, mécanique, pneumatique et hydraulique), <br /> <br /> <br /> - La réalisation en toute sécurité d'interventions curatives et préventives, <br /> <br /> <br /> - La mise en place de solutions d'amélioration. <br /> <br /> <br /> À travers cette alternance, tu auras l'opportunité d'approfondir tes connaissances sur le métier de technicien de maintenance avec des collègues dynamiques, qui seront à l'écoute de tes idées !\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Technicien de maintenance automaticien (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: Au-delà du CV, c'est ta personnalité, ton audace et ta motivation qui feront la différence ! <br /> <br /> <br /> Permis B et véhicule indispensables <br /> <br /> <br /> - Des opportunités d'évolution interne <br /> <br /> <br /> - Une entreprise à taille humaine avec une ambiance familiale",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "TRAITEUR DU VAL DE CERE",
+      "address": "Gagnac-sur-Cère (46)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56481094?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a97515fdb6c731160e48ef2",
+      "partner_label": "Meteojob",
+      "title": "ALTERNANCE - BTS Maintenance des Systèmes (MS) - Technicien ou Technicienne Opérationnel",
+      "description": "<p>  <strong>Description de la mission :</strong> </p> <ul>  <li>   <p>Assurer des interventions de maintenance multi technique, préventive et corrective, dans le second oeuvre et les équipements, du domaine du bâtiment et de l'électricité.</p>  </li>  <li>   <p>Assurer des missions de surveillance d'entreprise</p>  </li>  <li>   <p>Organisation au quotidien des interventions prévues au plan annuel de maintenance.</p>  </li>  <li>   <p>Mise à jour de la GMAO</p>  </li>  <li>   <p>Assistance et conseil aux clients</p>  </li>  <li>   <p>Rédaction de devis (pratique de BATIPRIX)</p>  </li>  <li>   <p>Gestion de la co activité</p>  </li>  <li>   <p>Vérification des décomptes et suivi des règlements</p>  </li> </ul> <p>  <strong>Informations complémentaire :</strong> </p> <ul>  <li>   <p>Permis B requis</p>  </li>  <li>   <p>Télétravail possible</p>  </li>  <li>   <p>Déplacements prévus</p>  </li> </ul>\r\n\r\nSecteur: Tourisme, Transport de passagers, loisirs\r\n\r\nPoste: Opérateur de maintenance des infrastructures ferroviaires (H/F)\r\n\r\nTemps Plein\r\n\r\nEn apprentissage : fixé en % du SMIC ou du salaire minimal SNCF selon l'âge, la progression dans le cycle de formation, conformément au Code du Travail. En contrat de professionnalisation : fixé par décret en % du SMIC et varie selon l'âge\r\n\r\nProfil: <p>Compétences attendues</p> <ul>  <li>   <p>Analyse</p>  </li>  <li>   <p>Animer et piloter la qualité produite</p>  </li>  <li>   <p>Coopération</p>  </li>  <li>   <p>Innovation</p>  </li>  <li>   <p>Méthode</p>  </li>  <li>   <p>Orientation clients</p>  </li>  <li>   <p>Orientation Performance</p>  </li>  <li>   <p>Promouvoir l'entreprise</p>  </li>  <li>   <p>Connaissance outils Microsoft Office</p>  </li>  <li>   <p>Organisation et rigueur</p>  </li> </ul> <br /> <p>  <strong>Description de la mission :</strong> </p> <ul>  <li>   <p>Assurer des interventions de maintenance multi technique, préventive et corrective, dans le second oeuvre et les équipements, du domaine du bâtiment et de l'électricité.</p>  </li>  <li>   <p>Assurer des missions de surveillance d'entreprise</p>  </li>  <li>   <p>Organisation au quotidien des interventions prévues au plan annuel de maintenance.</p>  </li>  <li>   <p>Mise à jour de la GMAO</p>  </li>  <li>   <p>Assistance et conseil aux clients</p>  </li>  <li>   <p>Rédaction de devis (pratique de BATIPRIX)</p>  </li>  <li>   <p>Gestion de la co activité</p>  </li>  <li>   <p>Vérification des décomptes et suivi des règlements</p>  </li> </ul> <p>  <strong>Informations complémentaire :</strong> </p> <ul>  <li>   <p>Permis B requis</p>  </li>  <li>   <p>Télétravail possible</p>  </li>  <li>   <p>Déplacements prévus</p>  </li> </ul> <br /> null",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SNCF",
+      "address": "Montpellier (34)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-08-16T00:00:00.000Z",
+      "apply_url": "https://www.meteojob.com/jobs/56476020?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a97515fdb6c731160e48ef0",
+      "partner_label": "Meteojob",
+      "title": "Mécanicien(ne) en Machines Tournantes sous Pression en alternance H/F",
+      "description": "<p>Le GEIQ Industrie recrute, pour l'une de ses entreprises adhérentes sur Fos-sur-Mer, un(e) Mécanicien(ne) en Machines Tournantes sous Pression dans le cadre d'un contrat de professionnalisation ayant déjà une expérience dans la mécanique.</p> <p>Le mécanicien en machines tournantes sous pression intervient sur des opérations de maintenance préventive, corrective, d'installation ou d'amélioration d'équipements industriels.</p> <p>- Réaliser des opérations de maintenance préventive sur des équipements industriels</p> <p>- Diagnostiquer les dysfonctionnements et intervenir sur les opérations de maintenance corrective</p> <p>- Participer aux opérations de montage, démontage, contrôle et remise en état des équipements</p> <p>- Intervenir sur différents types de machines tournantes sous pression, notamment :</p> <p>- Pompes centrifuges</p> <p>- Pompes alternatives</p> <p>- Turbines à vapeur...</p> <p>- Veiller au respect des procédures qualité, sécurité et environnement en vigueur sur site</p> <p>- Participer à l'amélioration continue des équipements et installations</p> <p>- Intérêt marqué pour les domaines mécaniques et techniques</p> <p>- Bonne habileté manuelle</p> <p>- Rigueur, précision et soin dans l'exécution des tâches confiées</p> <p>- Sens des responsabilités et respect des consignes de sécurité</p> <p>- Capacité à travailler en équipe</p> <p>- Bonnes capacités de communication</p> <p>- Esprit d'initiative</p> <p>- Autonomie dans l'organisation du travail</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Electromécanicien en machines tournantes (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Fos-sur-Mer (13)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56475614?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a97515ddb6c731160e48eaf",
+      "partner_label": "Meteojob",
+      "title": "Agent de maintenance énergies H/F - Alternance",
+      "description": "<p>« 67 millions de Gaulois et toi et toi et toi … » Et pourquoi pas vous ?</p> <p>François, Responsable Maintenance des Énergies est à la recherche pour la rentrée de septembre 2026 de son futur alternant prêt à réaliser des nouveaux défis.</p> <p>Rattaché(e) au Responsable Maintenance des Énergies, vous aurez pour missions de :</p> <ul>  <li>Participer aux interventions du quotidien (Intervention ammoniac, dépannage électrique, dépannage sur postes de vannes glycol, Vapeurs, etc. …)</li>  <li>Suivre les équipes pendant les interventions ;</li>  <li>Travailler sur les économies d'énergies.</li> </ul>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Responsable d'Unité de Maintenance en Énergie (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <strong>   <em>Et vous ?</em>  </strong> </p> <p>Vous souhaitez poursuivre vos études par le biais d'une formation en alternance type BTS maintenance des systèmes option énergétique et fluidique.</p> <p>Vous faite preuve d'autonomie et de rigueur dans l'exécution de votre travail ?</p> <p>Vous aimez travailler dans une équipe dynamique ?</p> <p>Vous avez soif de challenge et souhaitez partager le quotidien de nos équipes dans un esprit collectif et convivial ?</p> <p>Vous avez répondu majoritairement OUI à ces questions ? Nous sommes faits pour nous entendre !</p> <p>  <strong>Candidatez sans plus tarder pour venir rejoindre nos équipes maintenance !</strong> </p> <p>Vous partagez les valeurs portées par le Groupe : Travail, Innovation, Responsabilité, Respect, Performance et Simplicité. Rejoignez-nous ! www.ldc.fr</p> <p>Vos compétences, votre mobilité et votre implication vous ouvriront des perspectives de carrière au sein du groupe LDC.</p> <p>  <strong>Notre process de recrutement :</strong> </p> <p>  Après un premier échange téléphonique avec Juliette, Chargée de recrutement, vous échangerez avec le Responsable Maintenance des Énergies.  <strong>N'hésitez plus,</strong> </p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "LDC",
+      "address": "Sablé-sur-Sarthe (72)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-30T00:00:00.000Z",
+      "apply_url": "https://www.meteojob.com/jobs/56471002?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a96e7f9896188246ad067af",
+      "partner_label": "Talentplug",
+      "title": "Alternant Technicien de Maintenance (F/H)",
+      "description": "Au sein d'une équipe de 4 gourmands, tu participeras au bon fonctionnement des outils de production.<br />Dans ce cadre, tes missions seront les suivantes :<br /><br />- L'analyse et le diagnostic de pannes (savoir lire un schéma électrique, mécanique, pneumatique et hydraulique),<br />- La réalisation en toute sécurité d'interventions curatives et préventives,<br />- La mise en place de solutions d'amélioration.<br />À travers cette alternance, tu auras l'opportunité d'approfondir tes connaissances sur le métier de technicien de maintenance avec des collègues dynamiques, qui seront à l'écoute de tes idées ! <br /> Au-delà du CV, c'est ta personnalité, ton audace et ta motivation qui feront la différence !<br />Permis B et véhicule indispensables<br /><br /><br /><br />- Des opportunités d'évolution interne<br />- Une entreprise à taille humaine avec une ambiance familiale",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "TRAITEUR DU VAL DE CERE",
+      "address": "46130 Gagnac-sur-Cère",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T04:09:00.000Z",
+      "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=9febe514-815e-47eb-9c5f-786be51381c0",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a97515fdb6c731160e48f13",
+      "partner_label": "Meteojob",
+      "title": "Ingénieur(e) Méthodes &amp; Performance Opérationnelle - Alternance (H/F)",
+      "description": "Dans le cadre du développement et de l'amélioration continue de nos activités de Facility Management, nous recherchons un(e) Ingénieur(e) Méthodes &amp; Performance Opérationnelle en alternance. <br /> <br /> <br /> Vous contribuerez à la conception et à l'optimisation des méthodes et processus opérationnels, au pilotage de la performance, au système de management de la qualité ainsi qu'à la prévention des risques. <br /> <br /> <br /> Vous interviendrez sur des problématiques concrètes de dimensionnement des prestations, d'analyse de données et de standardisation des pratiques à l'échelle de différents sites. <br /> <br /> <br /> Missions principales <br /> <br /> <br /> 1. Ingénierie des méthodes et des process - 40 % <br /> <br /> <br /> - Modéliser les processus opérationnels : cartographies, logigrammes et matrices RACI ; <br /> <br /> <br /> - Identifier les points de rupture et les tâches sans valeur ajoutée ; <br /> <br /> <br /> - Dimensionner les prestations à partir de ratios de productivité : m²/agent/heure, fréquences d'intervention, gammes opératoires et temps standards ; <br /> <br /> <br /> - Concevoir les standards de production FM ; <br /> <br /> <br /> - Décliner ces standards en modes opératoires applicables sur l'ensemble des sites ; <br /> <br /> <br /> - Contribuer à la rédaction des cahiers des charges techniques ; <br /> <br /> <br /> - Participer aux réponses aux appels d'offres sur le volet méthodes. <br /> <br /> <br /> 2. Data et pilotage de la performance - 25 % <br /> <br /> <br /> - Construire et structurer le socle de données nécessaire au pilotage de la performance ; <br /> <br /> <br /> - Fiabiliser et traiter les différentes sources de données provenant des régions ; <br /> <br /> <br /> - Concevoir les indicateurs de performance et les tableaux de bord associés ; <br /> <br /> <br /> - Exploiter notamment Excel avancé, Power BI ou des outils équivalents ainsi que les données issues de la GMAO ; <br /> <br /> <br /> - Analyser les écarts entre la performance théorique et la performance réalisée ; <br /> <br /> <br /> - Identifier les causes des écarts constatés ; <br /> <br /> <br /> - Produire les analyses nécessaires aux comités de pilotage clients. <br /> <br /> <br /> 3. Système de management de la qualité et certification ISO 9001 - 25 % <br /> <br /> <br /> - Participer à la construction du référentiel documentaire ; <br /> <br /> <br /> - Structurer le système de maîtrise documentaire : gestion des versions, validation, diffusion et accessibilité ; <br /> <br /> <br /> - Préparer et conduire des audits internes ; <br /> <br /> <br /> - Formaliser les écarts identifiés ; <br /> <br /> <br /> - Suivre les plans d'actions correctives ; <br /> <br /> <br /> - Veiller à la cohérence entre les processus conçus et l'organisation administrative du Facility Management. <br /> <br /> <br /> 4. Prévention des risques - 10 % <br /> <br /> <br /> - Structurer le dispositif de suivi des plans de prévention à l'échelle du parc ; <br /> <br /> <br /> - Mettre en place des outils de suivi, des alertes d'échéance et une traçabilité auditable ; <br /> <br /> <br /> - Contribuer à l'analyse des risques d'interférence lors des interventions d'entreprises extérieures. <br /> <br /> <br /> Cette alternance vous permettra de développer une vision transverse du Facility Management, associant ingénierie des méthodes, analyse de données, performance opérationnelle, qualité et prévention des risques. <br /> <br /> <br /> Vous serez amené(e) à travailler avec différents interlocuteurs opérationnels et fonctions support et à contribuer à des projets déployés sur plusieurs périmètres. <br /> <br /> <br /> - Localisation : Créteil <br /> <br /> <br /> - Type de contrat : Alternance\r\n\r\nPoste: Ingénieur Méthodes Process et Amélioration Continue (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 966 € - 1 867 €\r\n\r\n966 - 1867 EUR brut/an\r\n\r\nProfil: Formation : vous préparez une formation de niveau Bac+4/Bac+5 en école d'ingénieurs, management de la performance, génie industriel, Facility Management, qualité ou domaine équivalent. <br /> <br /> <br /> Compétences techniques : <br /> <br /> <br /> - Très bonne maîtrise d'Excel ; <br /> <br /> <br /> - Une connaissance de Power BI est appréciée ; <br /> <br /> <br /> - Capacité à structurer et analyser des données ; <br /> <br /> <br /> - Appétence pour la modélisation des processus et l'amélioration continue ; <br /> <br /> <br /> - Intérêt pour les problématiques de performance opérationnelle ; <br /> <br /> <br /> - Une connaissance des outils GMAO constitue un plus ; <br /> <br /> <br /> - Des notions liées aux systèmes de management de la qualité et à la norme ISO 9001 sont appréciées. <br /> <br /> <br /> Qualités attendues : <br /> <br /> <br /> - Rigueur et esprit d'analyse ; <br /> <br /> <br /> - Capacité de synthèse ; <br /> <br /> <br /> - Organisation et autonomie ; <br /> <br /> <br /> - Curiosité ; <br /> <br /> <br /> - Esprit d'initiative ; <br /> <br /> <br /> - Aisance relationnelle ; <br /> <br /> <br /> - Capacité à travailler avec des interlocuteurs variés ; <br /> <br /> <br /> - Goût pour les problématiques opérationnelles et l'amélioration continue.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "DERICHEBOURG Facility",
+      "address": "Nantes (44)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56478167?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a97515ddb6c731160e48e94",
+      "partner_label": "Meteojob",
+      "title": "Licence Pro GPI (Amélioration Continue de la Production Industrielle) H/F",
+      "description": "<p>Pourquoi choisir le Pôle formation UIMM Eure Seine Estuaire:</p> <p>Insertion professionnelle : Plus de 90% de nos apprentis trouvent un emploi dans les 12 mois après l'obtention de leur diplôme.</p> <p>Formations en apprentissage : Toutes nos formations sont gratuites et rémunérées. Vous apprenez tout en gagnant !</p> <p>Poursuite d'études : Du CAP à l'Ingénieur, nos parcours offrent une diversité d'opportunités pour votre avenir.</p> <p>Plateaux techniques : Évoluez dans plus de 15 000m² d'ateliers</p> <p>Équipes qualifiées : Nos formateurs sont des experts de l'Industrie avec plusieurs années d'expérience.</p> <p>Accompagnement : Nous vous aidons à trouver votre entreprise d'accueil grâce à des Job Dating, ateliers coaching CV et nos offres d'apprentissage.</p> <p>Cette formation prépare les étudiants à devenir des spécialistes en amélioration continue et gestion de la performance des processus industriels. Les diplômés sont capables de mettre en place des démarches Lean, d'analyser la performance des processus de production, et de proposer des actions d'amélioration pour optimiser les coûts, les délais, et la qualité. Ils sont formés à l'utilisation d'outils comme le Kaizen, le Value Stream Mapping, et l'AMDEC pour améliorer l'efficacité des flux de production.</p> <p>Accessible après un Bac +2 (BTS, DUT), la formation dure 1 an (455 heures), avec 3 semaines en entreprise et 1 semaine en centre. Les étudiants abordent des modules comme la gestion des flux internes, la gestion de la qualité, et les statistiques industrielles.</p> <p>Avec un taux d'insertion professionnelle de 100%, les diplômés peuvent poursuivre leurs études en ingénierie ou intégrer des postes tels que animateur d'amélioration continue, technicien méthodes ou superviseur d'équipe de production. La formation est gratuite et rémunérée pour les alternants</p> <p>Profil recherché :</p> <p>Prérequis : niveau bac+2 minimum</p> <p>?️Durée : 1 an (3 semaines en entreprise - 1 semaines en centre de formation)</p> <p>?Lieux : Pole formation UIMM ESE site d'Evreux</p> <p>?Prochaine session : Ouverture des inscriptions en novembre 2026</p> <p>?Public cible : Accessible en :</p> <p>- Contrat d'apprentissage (être âgé de moins de 30 ans)</p> <p>- Contrat de professionnalisation</p> <p>?Tarifs : Pour les alternants, formation gratuite et rémunérée.</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Responsable de fabrication et amélioration continue (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "Évreux (27)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56466008?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6a96a98d896188246ad0093c",
+      "partner_label": "offres_emploi_lba",
+      "title": "Logisticien épiceries solidaires",
+      "description": "Le Responsable logistique coordonne et optimise la gestion des flux de produits sur un site opérationnel, pour tous les mouvements d'entrée, sortie et manipulations des marchandises (incl. leurs conditionnements) et s'assure d'être en communication constante avec les autres services de l'entreprise ou acteurs de la chaîne d'approvisionnement, en lien avec la qualité de service et enjeux de traçabilité. Planifie et coordonne les opérations de réception, de stockage et de livraison des marchandises Optimise les coûts et les délais des opérations logistiques en mettant en place des indicateurs de performance Supervise et forme les équipes opérationnelles pour garantir l'efficacité des processus logistiques Assure la conformité des opérations logistiques avec les réglementations en vigueur Collabore avec les fournisseurs et les clients pour améliorer la qualité de service et résoudre les problèmes logistiques Implémente des solutions technologiques pour automatiser et améliorer les processus logistiques",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "CAFE SAWA",
+      "address": "125 RUE DU CHEMIN VERT 75011 PARIS",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-01T10:32:33.685Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a96a98d896188246ad0093c/logisticien-épiceries-solidaires",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a97515edb6c731160e48ed4",
+      "partner_label": "Meteojob",
+      "title": "Alternance Gestionnaire d'approvisionnement - H/F",
+      "description": "<p>  <strong>Descriptif de l'offre</strong> </p> <p>Dans le cadre d'un contrat en alternance, nous recherchons un(e) Gestionnaire d'Approvisionnement motivé(e) et organisé(e) pour rejoindre notre équipe dynamique.</p> <p>  <strong>Vos missions :</strong>  <br />  Rattaché(e) à la Responsable du Pôle Approvisionnement, vous participerez activement aux activités suivantes : </p>   <li>   <p>Mise en place du nouvel ERP</p>   <ul>    <li>     <p>Paramétrage de l'outil</p>    </li>    <li>     <p>Rédaction des documents qualités</p>    </li>    <li>     <p>Participation phases test</p>    </li>    <li>     <p>Accompagnement des approvisionneurs</p>    </li>   </ul>  </li>  <li>   <p>Suivi des livraisons fournisseurs</p>   <ul>    <li>     <p>Relation fournisseurs</p>    </li>    <li>     <p>Interface avec les différentes plateformes logistiques</p>    </li>   </ul>  </li>  <li>   <p>Gestion administrative : Effectuer des tâches variées telles que le reporting, l'archivage et la gestion des e-mails et appels entrants.</p>  </li> \r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Gestionnaire approvisionnements (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>Vous êtes titulaire d'un Bac +2 idéalement dans les domaines de la gestion ou du commerce et préparez une licence ou un master en gestion des achats et approvisionnements.</p> <p>  <strong>Vos atouts</strong>  : </p> <p>Organisation et sens des priorités.</p> <p>Esprit d'équipe et aisance relationnelle.</p> <p>Rigueur, polyvalence et sens du contact.</p> <p>  <strong>Informations complémentaires</strong> </p> <p>Poste basé à Colmar.</p> <p>Contrat d'alternance à pourvoir dès septembre 2026.</p> <p>Envoyez votre candidature à l'adresse suivante : ***</p> <p>Rejoignez nous et participez à une aventure riche en apprentissages !!</p>",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "E.Leclerc",
+      "address": "Colmar (68)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56472563?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
     }
   ]
 }
