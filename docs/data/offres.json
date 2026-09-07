@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:11:36.122929+00:00",
+  "generated_at": "2026-09-07T09:59:18.459608+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -24766,7 +24766,7 @@
       "id": "6a86276c334ed2d599cef8ec",
       "partner_label": "RH Alternance",
       "title": "Alternant(e) en maintenance mécanique",
-      "description": "Profil recherché : \nDescriptif du poste :",
+      "description": "Descriptif du poste : \nProfil recherché :",
       "target_diploma": null,
       "rome_codes": [
         "I1310"
@@ -26923,7 +26923,7 @@
       "id": "6a920baa5f2fd127163c4e8b",
       "partner_label": "Meteojob",
       "title": "Technicien de Maintenance (h/f)",
-      "description": "Offre d'emploi - Formation Technicien de Maintenance (H/F) rémunérée <p>  <strong>Vous aimez la technique, le dépannage et la résolution de problèmes ? Formez-vous à un métier recherché par les entreprises industrielles de la Mayenne.</strong> </p> <p>  Adecco Villaines-la-Juhel / Evron recrute recrutent de futurs  <strong>Techniciens de Maintenance (H/F)</strong>  pour intégrer une formation qualifiante rémunérée avec des perspectives d'emploi durables en  <strong>CDII.</strong> </p> Ce que nous vous proposons <ul>  <li>Une formation rémunérée tout au long du parcours</li>  <li>Un titre professionnel reconnu par l'État</li>  <li>Un accompagnement personnalisé vers l'emploi</li>  <li>Des opportunités professionnelles au sein des entreprises partenaires Adecco</li>  <li>Un parcours ouvert aux débutants et aux personnes en reconversion professionnelle</li> </ul> Contenu de la formation <ul>  <li>Maintenance mécanique</li>  <li>Électricité industrielle</li>  <li>Hydraulique</li>  <li>Diagnostic de pannes</li>  <li>Maintenance préventive et corrective</li> </ul> <p>  <strong>Durée : 546 heures de formation</strong> </p> Participez à notre Job Dating Formation &amp; Emploi : <p>  <strong>Mercredi 23 septembre 2026</strong> </p> <p>Parc Cérès - Bâtiment G</p> <p>21 rue Ferdinand Buisson - 53810 Changé</p> <p>Informations collectives à 10h, 12h, 14h, 16h ou 18h. Entrée libre, sans inscription préalable. Votre candidature sera étudiée directement avec nos recruteurs.</p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Technicien de maintenance automaticien (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 € - 10 012 €\r\n\r\nProfil: <strong>Profils recherchés</strong> <br /> <ul>  <br />  <li>Vous êtes curieux(se) et aimez comprendre le fonctionnement des équipements</li>  <br />  <li>Vous êtes méthodique et réactif(ve)</li>  <br />  <li>Vous avez un intérêt pour les domaines techniques</li>  <br />  <li>Vous souhaitez acquérir une qualification reconnue et accéder à un emploi durable</li>  <br /> </ul>",
+      "description": "Offre d'emploi - Formation Technicien de Maintenance (H/F) rémunérée <p>  <strong>Vous aimez la technique, le dépannage et la r��solution de problèmes ? Formez-vous à un métier recherché par les entreprises industrielles de la Mayenne.</strong> </p> <p>  Adecco Villaines-la-Juhel / Evron recrute recrutent de futurs  <strong>Techniciens de Maintenance (H/F)</strong>  pour intégrer une formation qualifiante rémunérée avec des perspectives d'emploi durables en  <strong>CDII.</strong> </p> Ce que nous vous proposons <ul>  <li>Une formation rémunérée tout au long du parcours</li>  <li>Un titre professionnel reconnu par l'État</li>  <li>Un accompagnement personnalisé vers l'emploi</li>  <li>Des opportunités professionnelles au sein des entreprises partenaires Adecco</li>  <li>Un parcours ouvert aux débutants et aux personnes en reconversion professionnelle</li> </ul> Contenu de la formation <ul>  <li>Maintenance mécanique</li>  <li>Électricité industrielle</li>  <li>Hydraulique</li>  <li>Diagnostic de pannes</li>  <li>Maintenance préventive et corrective</li> </ul> <p>  <strong>Durée : 546 heures de formation</strong> </p> Participez à notre Job Dating Formation &amp; Emploi : <p>  <strong>Mercredi 23 septembre 2026</strong> </p> <p>Parc Cérès - Bâtiment G</p> <p>21 rue Ferdinand Buisson - 53810 Changé</p> <p>Informations collectives à 10h, 12h, 14h, 16h ou 18h. Entrée libre, sans inscription préalable. Votre candidature sera étudiée directement avec nos recruteurs.</p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Technicien de maintenance automaticien (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 € - 10 012 €\r\n\r\nProfil: <strong>Profils recherchés</strong> <br /> <ul>  <br />  <li>Vous êtes curieux(se) et aimez comprendre le fonctionnement des équipements</li>  <br />  <li>Vous êtes méthodique et réactif(ve)</li>  <br />  <li>Vous avez un intérêt pour les domaines techniques</li>  <br />  <li>Vous souhaitez acquérir une qualification reconnue et accéder à un emploi durable</li>  <br /> </ul>",
       "target_diploma": null,
       "rome_codes": [
         "I1304"
@@ -28445,6 +28445,72 @@
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213JTWW",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6a9e6cc306fad1942d13cbdd",
+      "partner_label": "offres_emploi_lba",
+      "title": "Apprenti ingénieur industriel en PME",
+      "description": "Conçoit et finalise de nouveaux produits ou de nouvelles technologies. Fait évoluer ceux déjà existants, dans un objectif de développement commercial et d'innovation en milieu industriel. Définit des moyens, méthodes et techniques de valorisation et de mise en oeuvre des résultats de recherche. Peut superviser et coordonner un projet, une équipe, un service ou un département.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "RPI MENUISERIE",
+      "address": "204 ROUTE DE GABACHOT 33540 SAUVETERRE-DE-GUYENNE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-07T07:50:27.942Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9e6cc306fad1942d13cbdd/apprenti-ingénieur-industriel-en-pme",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6a9e5f9c06fad1942d13c151",
+      "partner_label": "offres_emploi_lba",
+      "title": "Technicien / Technicienne de maintenance industrielle polyvalente",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "OPTIMUM MAINTENANCE",
+      "address": "72 ROUTE DE MACON 71300 GOURDON",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-07T06:54:20.837Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9e5f9c06fad1942d13c151/technicien-technicienne-de-maintenance-industrielle-polyvalente",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6a9de75e85d4232b2a92fba3",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT(E) MAINTENANCE (H/F)",
+      "description": "Afin d'accompagner le développement du Groupe, nous souhaitons renforcer notre équipe Maintenance en recrutant un(e) Alternant(e) en Maintenance (F/H).\n\nVos missions seront les suivantes : \n- Réparer des pannes ou des dysfonctionnements\n- Assurer l'entretien courant et la maintenance préventive \n- Réaliser des interventions techniques de réparation des machines\n\nDébut du contrat : Septembre 2026",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "MIX'BUFFET",
+      "address": "56380 Guer",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213BRXQ",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
     }
   ]
 }
