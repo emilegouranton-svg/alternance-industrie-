@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:25:22.534663+00:00",
+  "generated_at": "2026-09-11T09:23:58.337333+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -29096,6 +29096,236 @@
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213GRLM",
       "sector_id": "methode",
       "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aa2b9a0744920529feb03f9",
+      "partner_label": "offres_emploi_lba",
+      "title": "Chargé / Chargée d'études – Technologies propres & projets industriels",
+      "description": "Conçoit et finalise de nouveaux produits ou de nouvelles technologies. Fait évoluer ceux déjà existants, dans un objectif de développement commercial et d'innovation en milieu industriel. Définit des moyens, méthodes et techniques de valorisation et de mise en oeuvre des résultats de recherche. Peut superviser et coordonner un projet, une équipe, un service ou un département.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "ALHOMNA SYSTEMS",
+      "address": "AVENUE LOUIS PHILIBERT 13100 AIX-EN-PROVENCE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-10T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa2b9a0744920529feb03f9/chargé-chargée-d-études-technologies-propres-projets-industriels",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6aa32d44d4cd2f3dc01058ea",
+      "partner_label": "France Travail",
+      "title": "Ingénieur / Ingénieure R&amp;D en industrie (404441) (H/F)",
+      "description": "CLAYENS IZERNORE\nApprenti(e) Recherche &amp; Développement Industrie Santé ou Stagiaire\n\nPoursuivre votre carrière chez CLAYENS, c'est développer vos compétences au sein d'un groupe qui compte parmi les leaders de la transformation de polymères, de composites et de pièces métalliques de précision. C'est aussi incarner nos valeurs de confiance, de réputation, d'intégrité et de progrès.\nEngagés pour une industrie qui conjugue innovation et responsabilité, nous incarnons notre slogan au quotidien : « A World of Opportunities ». \nVotre Futur Poste\n\nSous la responsabilité du chef de projet R&amp;D, vous conduirez des projets de R&amp;D industrielle dans un environnement santé :\n- Étude des niveaux de propreté des produits et mise en place de méthodes de contrôle de la contamination particulaire \n - Faire le bilan des dispositifs médicaux en termes de niveau de propreté des produits par classe de DM.\n - Faire un état de lieu sur l'ensemble des productions en ISO 7 en cours : Définir et réaliser des tests de mesure des niveaux de propreté des pièces\n - Recherche bibliographique (normes, thèses, publications) sur les sources de contamination. Définir les stratégies de contrôle de la contamination produit adaptée aux infrastructures de la société et à leur utilisation. \n - Établir un protocole de contrôle de la contamination (FR / EN). Définir les BPF permettant d'améliorer les niveaux de propreté des produits / plan de formation des équipes\n - Identifier/définir les stratégies de contrôle de la contamination produit adaptée aux infrastructures de la société et à leur utilisation. Définir le référentiel pour la société en termes de niveaux de propreté produit atteignables\n - Réaliser une cartographie de solutions complémentaires permettant d'atteindre un niveau de propreté particulaire supérieur au référentiel défini.\n - Réaliser un état de lieu des technologies de nettoyage avec les spécifications du procédé selon les exigences produit / normes / client.\n - Participer à la mise en place des documents du Système de Management de la Qualité relatifs aux protocoles validés.\n - Apporter du support aux projets en industrialisation dans les questions liées aux niveaux de propreté produit.\n\nVotre Profil\n\n  *  Vous êtes en cours de formation Ingénieur(e) Biomédical, Matériaux ou généraliste.\n  *  Vous êtes intéressé(e) par le milieu médical, idéalement, vous avez une première expérience dans le domaine de la santé.\n  *  La rigueur et la précision sont des valeurs qui vous tiennent à coeur dans l'exercice de vos fonctions.\n  *  Motivé(e) et volontaire, vous êtes autonome et vous cherchez un stage dynamique au sein d'un environnement industriel. Vous êtes également force de proposition afin de proposer des solutions et actions à déployer sur le site.\n\n\n\nPostuler chez Clayens c'est se donner l'opportunité de rejoindre un groupe qui favorise la montée en compétences et la prise d'initiative : le développement des talents par l'action est au cœur de notre stratégie d'entreprise !\nSi vous vous reconnaissez dans cette annonce, que vous souhaitez évoluer au sein d'un groupe en plein développement et que vous êtes une personne de challenge, n'hésitez plus, envoyez-nous votre candidature !\nToutes nos offres d'emplois sont ouvertes aux candidats en situation de handicap. N'hésitez pas à préciser lors de votre candidature si un aménagement de poste est nécessaire.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "CLAYENS IZERNORE",
+      "address": "01580 Izernore",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://clayens-np.contactrh.com/jobs/6469/44428678",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6aa2bd14744920529feb07b4",
+      "partner_label": "offres_emploi_lba",
+      "title": "Technicien / Technicienne de maintenance industrielle polyvalente",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "COOPERATIVE FRANCAISE DE SELLERIE",
+      "address": "2 BOULEVARD DE LA LIBERATION 93200 SAINT-DENIS",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-10T14:22:12.399Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa2bd14744920529feb07b4/technicien-technicienne-de-maintenance-industrielle-polyvalente",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d4bd4cd2f3dc0105a95",
+      "partner_label": "France Travail",
+      "title": "Electricien H/F",
+      "description": "Vous avez une expérience significative sur le poste d'électricienVous maîtrisez la conduite du CACES Nacelle Vous connaissez les règles d'hygiène et de sécurité sur chantier Vous êtes capable d'effectuer les travaux suivants : travaux en hauteur, l'entretien, la maintenance ou l'installation.Vous vous reconnaissez à travers cette description ? N'hésitez pas à postuler!Ou à venir directement nous rencontrer dans notre agence.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "83000 Toulon",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56314813?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d47d4cd2f3dc0105997",
+      "partner_label": "France Travail",
+      "title": "Alternant technicien de maintenance H/F",
+      "description": "Tu es intéressé(e) par la maintenance industrielle et tu souhaites développer tes compétences sur le terrain ? Rejoins nos équipes et participe au bon fonctionnement de nos équipements !Dans le cadre de ton alternance, tu intégreras l'équipe maintenance et seras accompagné(e) pour découvrir les différentes missions liées à l'entretien et à l'amélioration de nos installations.Encadré(e) par l'équipe maintenance, tu participeras notamment à :Réaliser les opérations de maintenance préventive et curativeParticiper au diagnostic des pannesContribuer à l'entretien et au bon fonctionnement des équipements et installationsParticiper aux interventions techniques sur les matérielsSuivre les opérations de maintenance dans les outils dédiésProposer des améliorations techniques pour optimiser la performance des équipements",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "49110 Beaupréau-en-Mauges",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56313599?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d48d4cd2f3dc01059ca",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle (19870) (H/F)",
+      "description": "Avec pour maison-mère une coopérative agricole française installée dans la plaine de Limagne-Val d'Allier, au coeur de l'Auvergne, Limagrain est un groupe semencier et agroalimentaire fort de plus de 9 600 collaborateurs et présent dans 53 pays.\n\n4e semencier mondial, Limagrain a réalisé un chiffre d'affaires de 2 522 millions d'euros en 2023-2024, auquel s'ajoutent 729 millions d'euros de chiffre d'affaires des activités réalisées conjointement avec ses partenaires stratégiques.\nDans un contexte de renforcement des compétences au sein des équipes techniques, nos sites J2000 (production de pain de mie) recherchent un(e) Alternant(e) Technicien de Maintenance, afin d'accompagner la modernisation des installations et soutenir la performance technique des ateliers. \nVos Missions\n\nMaintenance opérationnelle \n  *  Participer aux interventions de maintenance préventive et curative sur les lignes de production. \n\n  *  Aider aux diagnostics de pannes : mécanique, électricité, pneumatique, hydraulique. \n\n  *  Contribuer aux réglages, dépannages et contrôles de remise en service. \n\nDécouverte des automatismes \n  *  Être initié(e) à la lecture de programmes automates (Siemens Step7). \n\n  *  Assister les techniciens sur les interventions simples liées aux automatismes. \n\n  *  Participer à l'analyse de dysfonctionnements et à la recherche d'améliorations. \n\nVie du service Maintenance \n  *  Mettre à jour les documents techniques et utiliser la GMAO. \n\n  *  Appliquer les règles de sécurité et les standards qualité du site. \n\n  *  Travailler en lien étroit avec la production, la qualité et la logistique. \n\n\nVous préparez un BTS Maintenance des Systèmes (MS), Électrotechnique ou une formation technique équivalente. Vous êtes motivé(e), curieux(se), rigoureux(se) et appréciez le travail en équipe. Vous possédez des bases en électricité ou mécanique.À l'aise avec l'informatique, vous savez faire preuve d'analyse et de logique. \nVous avez envie d'apprendre et de vous développer dans un environnement industriel: nous vous accompagnerons avec un tutorat structuré et des formations internes adaptées.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "Jacquet Panification ETS J2000",
+      "address": "58500 Clamecy",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://vilmorin-cie.contactrh.com/jobs/6469/44432332",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d48d4cd2f3dc01059cd",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle polyvalente (19871) (H/F)",
+      "description": "Avec pour maison-mère une coopérative agricole française installée dans la plaine de Limagne-Val d'Allier, au coeur de l'Auvergne, Limagrain est un groupe semencier et agroalimentaire fort de plus de 9 600 collaborateurs et présent dans 53 pays.\n\n4e semencier mondial, Limagrain a réalisé un chiffre d'affaires de 2 522 millions d'euros en 2023-2024, auquel s'ajoutent 729 millions d'euros de chiffre d'affaires des activités réalisées conjointement avec ses partenaires stratégiques.\n\nActeur majeur de la boulangerie-pâtisserie industrielle française, Jacquet Brossard est spécialisé dans la fabrication et la commercialisation de pains et pâtisseries industrielles via ses marques Jacquet et Brossard. \n L'entreprise réalise 380 millions d'euros de chiffre d'affaires en 2024 et emploie près de 1 400 collaborateurs. \nDans un contexte de renforcement des compétences au sein des équipes techniques, nos sites J2000 (production de pain de mie) recherchent un(e) Alternant(e) Technicien de Maintenance, afin d'accompagner la modernisation des installations et soutenir la performance technique des ateliers. \nVotre environnement\nIntégré(e) au service Maintenance du site J2000, vous évoluerez au cœur d'un environnement industriel diversifié, piloté par une équipe expérimentée et engagée dans la transmission des savoir-faire. \n Cette alternance vous permettra de développer des compétences solides en maintenance électromécanique, tout en découvrant progressivement les automatismes industriels. \nVos missions\nMaintenance opérationnelle\n  *  Participer aux interventions de maintenance préventive et curative sur les lignes de production. \n\n  *  Aider aux diagnostics de pannes : mécanique, électricité, pneumatique, hydraulique. \n\n  *  Contribuer aux réglages, dépannages et contrôles de remise en service. \n\nDécouverte des automatismes\n  *  Être initié(e) à la lecture de programmes automates (Siemens Step7). \n\n  *  Assister les techniciens sur les interventions simples liées aux automatismes. \n\n  *  Participer à l'analyse de dysfonctionnements et à la recherche d'améliorations. \n\nVie du service Maintenance\n  *  Mettre à jour les documents techniques et utiliser la GMAO. \n\n  *  Appliquer les règles de sécurité et les standards qualité du site. \n\n  *  Travailler en lien étroit avec la production, la qualité et la logistique. \n\n\n\n\nVous préparez un BTS Maintenance des Systèmes (MS), Électrotechnique ou une formation technique équivalente. Vous êtes à l'aise avec l'outil informatique et curieux",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "Jacquet Panification ETS J2000",
+      "address": "58500 Clamecy",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://vilmorin-cie.contactrh.com/jobs/6469/44428645",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d48d4cd2f3dc01059db",
+      "partner_label": "France Travail",
+      "title": "Electromécanicien / Electromécanicienne de maintenance d'installa (H/F)",
+      "description": "Nous !\nA FERROGLOBE, nous croyons en une culture synonyme de collaboration, conduite du changement, respect et appropriation, qui représentent nos valeurs fondamentales, symbolisent la personnalité unique de Ferroglobe et expriment les croyances, l'éthique et les comportements fondamentaux qui régissent notre organisation.\nFERROGLOBE MANGANESE FRANCE est une PMI spécialisée dans la production du ferromanganèse située à Grande-Synthe (près de Dunkerque). Certains d'entre nous ont vu l'usine sortir de terre, il y a 35 ans : c'est dire si l'usine, c'est un peu notre bébé !\n\n\nCe que nous proposons :\nUn contrat d'apprentissage de 2 ans, au sein du service de maintenance électrique d'un four moderne et automatisé (le + gros d'Europe ! ) produisant du ferromanganèse, et du silicomanganèse.\n\nLa mission que nous te proposons : apprendre à contribuer à la disponibilité, la fiabilité et la sécurité des installations industrielles.\n\nLes apprentissages via les tâches, apprendre à :\n- Participer aux opérations de maintenance préventive et corrective.\n- Participer au diagnostic et à la recherche de pannes électriques.\n- Réaliser des contrôles et mesures électriques.\n- Participer au remplacement et au réglage de moteurs, capteurs, contacteurs, protections et autres équipements électriques.\n- Participer aux interventions sur les variateurs de vitesse et équipements d'automatisme.\n- Réaliser des travaux de câblage et de modification des installations.\n- Participer aux essais et à la remise en service des équipements.\n- Participer aux travaux d'amélioration et de fiabilisation des installations.\n- Lire et exploiter les schémas électriques.\n- Renseigner les interventions réalisées dans la GMAO et signaler les anomalies constatées.\n- Consigner les équipements électriques\nCe que nous nous engageons à t'apporter\n- Développer la connaissance du métier de technicien.ne maintenance électrique, en ayant l'opportunité de rejoindre une usine familiale à taille humaine, et une équipe avec beaucoup de savoir-faire technique\n- Prendre part au développement d'une stratégie maintenance autour de sujets clés pour l'entreprise\nToi !\nSi..tu prépares un BUT GEII (Génie Électrique et Informatique Industrielle) OU un BTS Électrotechnique en apprentissage, que tu es motivé.e pour t'investir dans un projet global d'amélioration du site, tu es curieux.se, créateur.rice et a envie d'apprendre, et que tu as un réel intérêt pour l'industrie\nAlors ce contrat d'apprentissage est fait pour toi !\n\nEnvoie un CV à",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "FERROGLOBE MANGANESE FRANCE",
+      "address": "59760 Grande-Synthe",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213PYBG",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d48d4cd2f3dc01059dc",
+      "partner_label": "France Travail",
+      "title": "Agent / Agente de rénovation et maintenance mécanique de machines (H/F)",
+      "description": "Nous !\nA FERROGLOBE, nous croyons en une culture synonyme de collaboration, conduite du changement, respect et appropriation, qui représentent nos valeurs fondamentales, symbolisent la personnalité unique de Ferroglobe et expriment les croyances, l'éthique et les comportements fondamentaux qui régissent notre organisation.\nFERROGLOBE MANGANESE FRANCE est une PMI spécialisée dans la production du ferromanganèse située à Grande-Synthe (près de Dunkerque). Certains d'entre nous ont vu l'usine sortir de terre, il y a 35 ans : c'est dire si l'usine, c'est un peu notre bébé !\n\n\nCe que nous proposons :\nUn contrat d'apprentissage de 2 ans, au sein du service de maintenance mécanique d'un four moderne et automatisé (le + gros d'Europe ! ) produisant du ferromanganèse, et du silicomanganèse.\n\nLa mission que nous te proposons : apprendre à contribuer à la disponibilité, la fiabilité et la sécurité des installations industrielles.\n\nLes apprentissages via les tâches, apprendre à :\n- Participer aux opérations de maintenance préventive et corrective.\n- Participer au diagnostic des pannes mécaniques.\n- Réaliser des opérations de démontage, remontage, réglage et remplacement de composants mécaniques.\n- Participer à la maintenance des convoyeurs, réducteurs, roulements, paliers, accouplements et autres équipements mécaniques.\n- Réaliser des travaux de chaudronnerie : prise de côtes, traçage, découpe, perçage, meulage, formage et assemblage.\n- Participer à la fabrication, modification et réparation de pièces ou structures métalliques.\n- Réaliser des opérations de soudage selon son niveau de compétence et ses qualifications.\n- Participer aux travaux d'amélioration et de fiabilisation des installations.\n- Renseigner les interventions réalisées dans la GMAO.\n- Signaler les anomalies et proposer des améliorations techniques.\nCe que nous nous engageons à t'apporter\n- Développer la connaissance du métier de technicien.ne maintenance mécanique, en ayant l'opportunité de rejoindre une usine familiale à taille humaine, et une équipe avec beaucoup de savoir-faire technique\n- Prendre part au développement d'une stratégie maintenance autour de sujets clés pour l'entreprise\nToi !\nSi..tu prépares un BTS Conception et Réalisation en Chaudronnerie Industrielle OU un Bac Pro Technicien en Chaudronnerie Industrielle OU un Bac Pro TCI, que tu es motivé.e pour t'investir dans un projet global d'amélioration du site, tu es curieux.se, créateur.rice et a envie d'apprendre, et que tu as un réel intérêt pour l'industrie\nAlors ce contrat d'apprentissage est fait pour toi !\n\nEnvoie un CV à",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "FERROGLOBE MANGANESE FRANCE",
+      "address": "59760 Grande-Synthe",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213PXWF",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32d16d4cd2f3dc0104e2a",
+      "partner_label": "France Travail",
+      "title": "Technicien(ne) de maintenance en alternance (H/F)",
+      "description": "Le Groupe Valdys est un groupe familial d'hôtels, restaurants, thalassos implantés dans 3 départements (29, 44, 85) répartis sur 4 sites.\n\nDans le cadre de la rentrée prochaine, notre établissement situé à Roscoff, recrute un(e) technicien(ne) de maintenance en alternance (H/F).\nCe poste en alternance est à pourvoir dès à présent (35h/semaine).\n\nSous la responsabilité du Responsable Technique du site et au sein d'une équipe de techniciens, vous développerez vos connaissances et vos compétences en matière d'entretien et de maintenance des bâtiments.\nDans le cadre de votre alternance, vous aurez pour mission principale : \nEntretien et maintenance des bâtiments, composés d'un Hôtel ****, de Résidences Haut de Gamme et d'un restaurant : \n- Participer au bon état général des bâtiments\n- Assurer la maintenance préventive et curative des installations de l'hôtel et des Résidences afin de garantir le confort des équipes et de la clientèle \n- Intervenir sur les différentes missions de maintenance : équipements électriques, plomberie, peinture décorative, entretien des espaces extérieurs ...\n\nEntretien et maintenance des équipements de la Thalasso :\n- Suivi du pompage et du traitement de l'eau de mer\n- Contrôle et mise en œuvre des actions d'entretien sur les bassins et locaux techniques\n- Contrôle et entretien des installations hydrauliques\n- Contrôle et entretien des installations de filtration\n- Contrôle et entretien des chaufferies et productions ECS\n- Diagnostiquer les dysfonctionnements des installations de la thalasso\n\nEn fonction de votre niveau, de vos connaissances et compétences déjà acquises, ainsi que de votre curiosité et appétence, la liste des missions pourra évoluer.\n\nProfil recherché : \n\nVous intégrez une formation en alternance en Maintenance des bâtiments et/ou Maintenance Hydraulique ou tout autre type de diplôme équivalent. \n\nNos métiers sont riches et variés et nécessitent un véritable savoir-faire que nous souhaitons vous transmettre.\nNous recherchons un profil polyvalent, curieux, souhaitant développer ses compétences techniques dans un environnement haut de gamme. \n\nProfil recherché : \n- Polyvalent(e), méticuleux(se), rigoureux(se) \n- Vous êtes attentif(ve) et vous avez le sens du détail \n- A l'écoute, vous appliquez les consignes et les protocoles de sécurité\n- Vous avez l'esprit d'équipe\n\nConditions et avantages du poste : \n- Date de début souhaitée : rentrée 2026\n- Type de contrat : Contrat en alternance\n- Temps de travail : 35h/semaine\n- Durée : de 12 mois à 24 mois\n- Rémunération : selon la grille de rémunération en vigueur pour l'alternance\n- Réductions sur les prestations du Resort\n- Accès à la salle de sport et au Spa Marin",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "THALASSO.COM",
+      "address": "29680 Roscoff",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213HWPJ",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa32e3a0d35903fc268e529",
+      "partner_label": "Meteojob",
+      "title": "Alternance - Agent technique maintenance H/F",
+      "description": "<p>Nous recherchons pour l'un de nos clients industriels, des candidats souhaitant se former en Technicien de maintenance.</p> <p>Un parcours de formation d'1 an sera prévu en alternance au sein de l'entreprise et vous donnera la possibilité d'obtenir un CQPM Technicien de maintenance productive (équivalent niveau BAC+2)</p> <p>Fort de ses 40 ans d'expérience, ce site de production de 350 personnes est reconnu comme un leader incontestable.</p> <p>Description du poste et des principales missions :</p> <p>Rattaché au Responsable d'équipe de fabrication de votre secteur, votre mission principale est de gérer le bon fonctionnement des lignes de production (entretien, amélioration et suivi).</p> <p>Avant de pouvoir intervenir en maintenance, le parcours prévoit d'être rattaché à une ligne de production afin de savoir gérer la ligne et faire du réglage.</p> <p>Une fois en poste, vos missions seront les suivantes :</p> <p>- Vous garantissez la qualité des productions de l'atelier par l'optimisation du réglage des moyens de production.</p> <p>- Vous assurez les opérations élémentaires de dépannages mécaniques, électriques, pneumatiques et automatisme en autonomie, à l'aide des schémas et plans disponibles.</p> <p>- Vous détectez les anomalies de fonctionnement, les pannes éventuelles.</p> <p>- Vous réalisez le diagnostic des situations et l'analyse des interventions à exécuter,</p> <p>- Vous remettez en état de fonctionnement les équipements et matériels par échange de pièces ou réparation.</p> <p>- Vous apportez des améliorations aux équipements en étant force de proposition</p> <p>- Vous analysez les résultats des différents moyens en termes de cadence, aléas, non qualité et participez à leur fiabilisation.</p> <p>- Vous assurez la maintenance préventive (niveaux 1,2,3) des moyens pour en garantir la performance et l'atteinte des objectifs (respect et évolution du plan de maintenance).</p> <p>Horaires en équipes postées :</p> <p>Matin (05h37- 13h10) Après-midi (13h10 - 20h43)</p> <p>Vous êtes titulaire d'un BAC technique et/ou possédez une expérience en dépannage, diagnostic, maintenance.</p> <p>Vous avez envie de vous investir dans un parcours de formation pour monter en compétences.</p> <p>Vous disposerez des connaissances techniques polyvalentes en mécanique, électrotechnique, pneumatique, électricité et automatisme et cela vous permettra de collaborer efficacement avec les acteurs du service maintenance et production.</p> <p>Habilitation électrique niveau BR/</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance d'équipements de production (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "21000 Dijon",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/56700115?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
     }
   ]
 }
