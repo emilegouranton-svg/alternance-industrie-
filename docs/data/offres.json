@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:23:58.337333+00:00",
+  "generated_at": "2026-09-12T09:03:36.602333+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -27207,7 +27207,7 @@
       ],
       "created_at": null,
       "company_name": "E.Leclerc",
-      "address": "Lisieux (14)",
+      "address": "14100 Lisieux",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -27694,7 +27694,7 @@
       ],
       "created_at": null,
       "company_name": "E.Leclerc",
-      "address": "Colmar (68)",
+      "address": "68000 Colmar",
       "contract_type": [
         "Apprentissage",
         "Professionnalisation"
@@ -29326,6 +29326,174 @@
       "apply_url": "https://www.meteojob.com/jobs/56700115?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "sector_id": "maintenance_industrielle",
       "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa47e14d4cd2f3dc010cac9",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT FORMULATION - APPRENTISSAGE (F/H)",
+      "description": "Votre rôle\n\nRattaché(e) au RESPONSABLE PROJETS DEVELOPPEMENT,\n\n\nPréparer des essais à l'Atelier Pilote pour le ou les projets confiés (approvisionnement matières premières, documentation, planification)\nRéaliser des essais pour le ou les projets confiés à l'Atelier Pilote\nInterpréter les résultats obtenus sur les essais effectués\nRédiger les rapports d'essai et partager tes résultats sur les essais effectués\nGérer des projets de petite envergure (reformulation avec remplacement d'excipient par un autre, changement de système aromatique) avec le support du responsable Formulation\nSeconder les techniciens Atelier Pilote en cas de besoin\nÊtre support aux chargées de projets Formulation, essentiellement, au niveau des recherches bibliographiques\nMettre à jour les trames documentaires utilisées au sein du pôle Formulation\nVotre profil\n\n\nVous avez acquis de l'expérience en formulation de forme liquides et/ou semi-solides ainsi qu'en développement de procédés.\nVous préparez un BAC+3 dans le domaine de Formulation et/ou Production, de préférence en industrie pharmaceutique.\nVotre niveau d'anglais doit vous permettre de communiquer par écrit et par oral avec vos interlocuteurs.\nVous êtes doté(e) de connaissances techniques dans la formulation de formes liquides et semi-solides et notamment rôles des matières premières et propriétés associées, développement de procédés,\nVous maitrisez les outils informatiques (Excel, PowerPoint).\nDe nature organisé(e) et rigoureux(se), vous aimez travailler en autonomie et faites preuve d'un bon relationnel.\n\nVos avantages\n\nIntéressement\nPrime de transport\nRestaurant d'entreprise\nAvantages CSE (chèques vacances, chèques cadeaux, etc.)\nMutuelle (part employeur 65%) et Prévoyance (part employeur 71%)\nCompte Epargne Temps\nPlan Epargne Groupe\nPlan d'Épargne Retraite d'Entreprise Collectif\nPolitique de télétravail\n27 jours de congés payés\nRTT\nRepos Compensateur Equivalent pour la production",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "UNITHER LIQUID MANUFACTURING",
+      "address": "31770 Colomiers",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213SZRS",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6aa47d7ed4cd2f3dc010a99a",
+      "partner_label": "France Travail",
+      "title": "Ingénieur calcul en Alternance F/H",
+      "description": "Que proposons-nous ?\nRattaché(e) au Responsable de Service «?Conception &amp; Conformité ESP(N)?» au sein de notre Ingénierie, vous intégrerez nos équipes intervenant sur des projets nucléaires en réalisant/participant à la coordination technique afin de participerez aux activités de conception, calcul et réglementation associées aux Équipements Sous Pression (ESP).\n\nAccompagné(e) par des ingénieurs expérimentés, vous contribuerez au bon déroulement des études en garantissant la qualité technique des livrables et le respect des exigences propres au secteur nucléaire.\n\nÀ ce titre, vos principales missions seront :\n\n- Réaliser des calculs de structures dans le secteur de la chaudronnerie pour des clients grands comptes ;\n\n- Utiliser de la simulation numérique et des règles de résistance des matériaux ;\n\n- Dimensionner des structures et vérification de leurs conformités avant leur fabrication dans les ateliers du groupe ;\n\n- Collaborer avec les différents services (projeteurs, pilotes techniques, chefs de projets, etc.) ;\n  \n Qui êtes-vous ?\n- Vous préparez une formation d'Ingénieur (Bac+4/Bac+5) avec une spécialisation en mécanique, calcul de structures, génie mécanique ou équivalent.\n\n- Vous souhaitez développer vos compétences dans le domaine des Équipements Sous Pression appliqués à l'industrie nucléaire.\n\n- Vous disposez de connaissances en résistance des matériaux, calcul mécanique ou dimensionnement de structures.\n\n- Une première connaissance des codes, normes et réglementations tels que RCC-M, NF EN 13445, Eurocodes, DESP et ESPN serait un plus.\n\n- Vous avez idéalement une première approche de logiciels tels que :\n*Ansys Worbenck / APDL\n*Visual Vessel Design / PV Elite\n*Solidworks\n*Visual Vessel Design / PV Elite\n*Robot Structural Analysis\n\n- Vous appréciez le travail en équipe et souhaitez évoluer dans un environnement exigeant, innovant et fortement réglementé.\n\nPourquoi nous rejoindre ?\n\nCette alternance vous permettra de découvrir le métier de coordinateur technique appliqué aux équipements sous pression dans le secteur nucléaire, tout en participant à des projets à forte technicité aux côtés d'experts reconnus du domaine. Vous développerez une vision globale des études d'ingénierie (conception, calculs et réglementations) et des exigences propres à la sûreté nucléaire.\n\nSalaire &amp; Avantages :\nFourchette entre 1200 et 1800 brut\nCC Métallurgie \nCarte ticket restaurant : 5 EUR par jour travaillé pris en charge à 60 % par l'employeur\nMutuelle : 109.90 EUR prise en charge à 85 % par l'employeur\nAccord \"Qualité de Vie au Travail\"\nAvantages CSE : chèques cadeaux/vacances, tarifs préférentiels, événements\nPasserelle métiers (mobilité interne et internationale)\nPrime de cooptation\nCentre de formation interne\nApplication de covoiturage\n\nIntéressé(e) par notre proposition ?\nEnvoyez votre candidature !\n\nNotre équipe recrutement l'examinera attentivement.\n\nSi elle est retenue, nous vous contacterons pour un échange téléphonique, suivi d'un entretien technique.\n\nEngagés pour la diversité et l'inclusion, nous étudions toutes les candidatures.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "Groupe ADF",
+      "address": "13080 Aix-en-Provence",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=/sjDKJlsW+hswZqTK7lTjw==",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6aa47e14d4cd2f3dc010cab7",
+      "partner_label": "France Travail",
+      "title": "Apprenti Électricien H/F (H/F)",
+      "description": "SARL Lebellois Électricité Générale, basée à Epaignes (27260), recherche son/sa futur(e) apprenti(e) électricien(ne) pour rejoindre et renforcer son équipe.\n\nVous souhaitez apprendre un métier concret, technique et varié ? Vous êtes motivé(e), sérieux(se) et avez envie de vous former dans le domaine de l'électricité ? Rejoignez une entreprise spécialisée dans les travaux d'électricité générale, la rénovation et le dépannage.\n\nVos missions :\n\nAccompagné(e) par un électricien expérimenté, vous participerez progressivement aux différents travaux réalisés par l'entreprise :\n\n- Travaux d'électricité générale\n- Installations électriques dans le neuf et la rénovation\n- Rénovation et mise aux normes d'installations électriques\n- Pose de câbles, gaines, appareillages et équipements électriques\n- Raccordements et mise en service\n- Participation à la recherche et au dépannage de pannes\n\nL'objectif sera de vous permettre d'acquérir progressivement les compétences nécessaires au métier d'électricien, en complément de votre formation en centre de formation.\n\nProfil recherché :\n\nNous recherchons avant tout une personne motivée et désireuse d'apprendre, souhaitant préparer un diplôme dans le domaine de l'électricité.\n\nVous êtes :\n\n- À la recherche d'un contrat d'apprentissage\n- Motivé(e), sérieux(se) et ponctuel(le)\n- Curieux(se) et intéressé(e) par le métier de l'électricité\n- Manuel(le) et à l'aise avec le travail pratique\n- Rigoureux(se) et attentif(ve) aux consignes de sécurité\n- Capable de travailler en équipe\n- Respectueux(se) et ayant un bon relationnel\n\nFormation :\n\nLe poste est destiné à une personne souhaitant préparer, par exemple, un CAP Électricien ou un diplôme équivalent dans le cadre d'un contrat d'apprentissage.\n\nVous serez accompagné(e) au quotidien par notre équipe afin de vous permettre de progresser et de découvrir l'ensemble des aspects du métier.\n\nConditions du poste :\nHoraires :\nDu lundi au jeudi : 8h00 - 12h00 / 13h30 - 17h30\nVendredi : 8h00 - 12h00 / 13h30 - 16h30\n\nPourquoi rejoindre SARL Lebellois Électricité Générale ?\n\nVous intégrerez une entreprise à taille humaine, dans laquelle vous pourrez apprendre le métier directement sur le terrain et découvrir des chantiers variés.\n\nNous souhaitons transmettre notre savoir-faire à une personne motivée et lui permettre de construire progressivement son expérience et son avenir professionnel dans le métier d'électricien.\n\nSi vous êtes sérieux(se), motivé(e), curieux(se) et souhaitez apprendre un métier technique et recherché, nous serons ravis d'étudier votre candidature.\n\nCandidature :\nMerci d'envoyer votre CV et votre candidature par e-mail à :",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "LEBELLOIS ELECTRCITE GENERALE",
+      "address": "27260 Épaignes",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213THPX",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa47e17d4cd2f3dc010cb4e",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT ELECTRICIEN(NE) (H/F)",
+      "description": "Pour une entreprise familiale de second œuvre, nous recherchons un électricien en alternance.\n60 % de l'activité de l'entreprise est consacrée à la rénovation de salle de bain. Vous interviendrez dans ce contexte mais également dans le domaine des climatisations et pompes à chaleur, suite à un accroissement de ces demandes.\nL'entreprise est attachée à travailler dans un environnement propice, aussi vous aimez le travail en équipe.\nVous vous déplacerez dans le département 65 et sur la ville de Pau.\nVous travaillerez de 8h00 à 12h00 et de 13h00 à 18h00 du Lundi au Jeudi (travail sur 4 jours)\nL'employeur propose de faire une immersion dans l'entreprise pour découvrir le poste avant de vous engager . Une formation rémunérée type POEI peut également être envisagée avant un contrat.\nEn fonction de votre âge et de votre niveau scolaire, le contrat sera de 12 à 24 mois",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SOCH",
+      "address": "65100 Lourdes",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213SYXM",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa47e14d4cd2f3dc010caca",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT INGENIEUR METHODES - APPRENTISSAGE(H/F)",
+      "description": "Poste :\n\nRattaché(e) au CHARGE DE PROJET EXCELLENCE OPERATIONNELLE,\n\n- Standardisation et Méthodes : Restandardiser les gammes et temps de cycle, valider et maintenir les standards de changement (A, B, C, D,E), et mettre à jour les modes opératoires.\n- Déploiement SMED : Appliquer la méthodologie SMED sur les lignes, identifier les étapes internes/externes, et former les équipes pour réduire les temps de changement.\n- Optimisation des flux et équilibrage des lignes : Analyser les flux, proposer des améliorations pour réduire les déplacements et temps morts, et réaliser des études d'équilibrage pour maximiser le TRS.\n- Suivi et pilotage de la performance : Mettre en place un suivi en temps réel (disponibilité, performance, qualité), analyser les pertes (arrêts, micro-arrêts, vitesse réduite), et définir des alertes automatiques.\n- Qualité et taux de rebut : Créer un tableau de bord qualité par format et ligne, et définir des plans d'action pour réduire les rebuts.\n- Reporting et communication : Développer des dashboards interactifs (Power BI, Excel automatisé), afficher les indicateurs clés en zone de production, et participer  aux revues de performance hebdomadaires.\n\nProfil :\n\n- Vous préparez un BAC +5 dans le domaine Génie Industriel / Méthodes / Performance industrielle / Amélioration Continue.\n-  Vous avez un fort intérêt pour le terrain industriel.\n- Vous êtes à l'aise avec l'observation, l'analyse et l'échange avec les équipes de production.\n- Vous êtes rigoureux/se, vous avez un esprit de synthèse et une capacité à structurer un problème.\n- Vous maitrisez le pack office, particulièrement Excel ainsi que Power BI.\n\nVos avantages\n\nIntéressement\nPrime de transport\nRestaurant d'entreprise\nAvantages CSE (chèques vacances, chèques cadeaux, etc.)\nMutuelle (part employeur 65%) et Prévoyance (part employeur 71%)\nCompte Epargne Temps\nPlan Epargne Groupe\nPlan d'Épargne Retraite d'Entreprise Collectif\nPolitique de télétravail\n27 jours de congés payés\nRTT\nRepos Compensateur Equivalent pour la production",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "UNITHER LIQUID MANUFACTURING",
+      "address": "31770 Colomiers",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213SZNT",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aa479e50d35903fc268f65b",
+      "partner_label": "RH Alternance",
+      "title": "Apprenti-e Ingénieur-e Chef-fe de projets Méthodes Outillages F/H",
+      "description": "Descriptif du poste :",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "SAFRAN",
+      "address": "76700 Gonfreville-l'Orcher",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/gonfreville-l-orcher/apprenti-e-ingénieur-e-chef-fe-de-projets-méthodes-outillages-f-h-495577899",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aa47e14d4cd2f3dc010cab5",
+      "partner_label": "France Travail",
+      "title": "ALTERNANCE - Supply Planning H/F",
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants.Antartic II, est spécialisée dans les produits secs, sucrés et salés. C'est 21 lignes de production, références et un grand volume de production par an. Elle fait le bonheur des amoureux des épices, des féculents, des céréales petit-déjeuner, des snacks salés, des aides à la pâtisserie, des ingrédients et additifs technologiques\n\nAu sein de notre équipe Planification &amp; Ordonnancement, nous recherchons un(e) Alternant(e) Supply Planning pour nous accompagner dans l'amélioration de nos processus de planification et de nos outils de pilotage.Cette alternance vous permettra d'être au cœur d'un projet de transformation de la planification, avec une forte dimension outil, données et amélioration continue.? Votre missionVotre principal objectif sera de contribuer à l'amélioration de nos process Supply Chain à  travers notre ERP Sage X3.Vous interviendrez notamment sur :? Sage X3 - ERPParticiper au paramétrage et à l'amélioration des données et paramètres de planification dans Sage X3 ;Travailler notamment sur les processus PDP et CBN ;Analyser la cohérence des paramètres de planification ;Identifier les anomalies ou incohérences dans les données ;Proposer et mettre en œuvre des améliorations ;Contribuer à la fiabilisation des données utilisées pour la planification.? Supply PlanningEn parallèle de la dimension outils, vous développerez votre compréhension des problématiques de planification industrielle :Participer au Capacity Planning sur un périmètre de 21 lignes de production ;Travailler sur les méthodologies MTS (Make to Stock) / MTO (Make to Order) ;Participer à la définition des couvertures de stock cibles ;Prendre en compte les problématiques de stocks saisonniers ;Contribuer à l'optimisation des plannings de fabrication : fréquences et quantités ;Analyser les données et les KPI Supply Chain ;Identifier les risques et proposer des solutions.? Une alternance orientée amélioration continueVous travaillerez ainsi à l'interface entre les métiers de la Supply Chain, les données et les systèmes d'information.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "26800 Étoile-sur-Rhône",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56317519?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6aa479e40d35903fc268f615",
+      "partner_label": "RH Alternance",
+      "title": "Apprenti-e Approvisionneur-se F/H",
+      "description": "Descriptif du poste :",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "SAFRAN",
+      "address": "31770 Colomiers",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://rhalternance.com/jobs/logistique-et-transport/colomiers/apprenti-e-approvisionneur-se-f-h-161352176",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
     }
   ]
 }
