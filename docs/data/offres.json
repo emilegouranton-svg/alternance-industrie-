@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:22:27.312099+00:00",
+  "generated_at": "2026-09-15T09:48:52.228126+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -10114,7 +10114,7 @@
       "contract_type": [
         "Apprentissage"
       ],
-      "contract_start": "2026-07-29T08:22:35.447Z",
+      "contract_start": "2026-09-14T11:21:12.834Z",
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/69fa0aa7ff2dd2e621f795f8/assistant-assistante-logistique",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
@@ -12490,7 +12490,7 @@
       "id": "6907e2e3d95667b5d025f087",
       "partner_label": "Meteojob",
       "title": "Mécanicien en alternance H/F - AGEN",
-      "description": "<p>Au sein de l'atelier, vous assurez le bon état (technique, sécurité, présentation) des matériels proposés à la location. Dans le cadre de votre alternance, vous assurez la maintenance préventive et curative du matériel mis à la disposition des clients.</p> <p>Vos missions parmi nous :</p> <ul>  <li>Contrôler le matériel à son entrée et sa sortie de l'atelier ;</li>  <li>Exécuter la maintenance préventive du matériel ;</li>  <li>Préparer et installer les équipements, intervenir sur site en cas de panne et proposer des solutions permettant la continuité d'activité ;</li>  <li>Diagnostiquer les pannes et réaliser les opérations de réparations ;</li>  <li>Participer à la gestion administrative de l'atelier en complétant les dossiers d'entretien des matériels ;</li>  <li>Assurer le respect des mesures d'hygiène, qualité et de sécurité conformément aux exigences du groupe.</li> </ul> Informations supplémentaires\r\n\r\nPoste: Mécanicien (H/F)\r\n\r\nProfil: <p>Vous souhaitez préparer un diplôme BAC Pro/BTS à dominante technique (maintenance engins TP ou agricoles, maintenance des matériels des espaces verts, maintenance industrielle, …) et êtes à la recherche d'un contrat en alternance dans un environnement stimulant au sein du Groupe Leader dans la location de matériel.</p> <p>Passionné(e), vous disposez d'un attrait pour la mécanique. Rigoureux(se) et méthodique, vous avez le sens du service et aimez travailler en équipe.</p> <p>  <strong>Votre rémunération et avantages</strong> </p> <ul>  <li>Nous vous proposons un accompagnement approfondi avec un tuteur dédié tout au long de votre alternance</li>  <li>Un parcours d'intégration spécifique aux alternants</li>  <li>En plus de votre rémunération d'apprenti vous bénéficierez d'une prime de participation/intéressement et un 13ème mois</li> </ul> <p>  <strong>Type de contrat : Contrat de Professionnalisation ou Contrat d'apprentissage</strong> </p> <p>  <strong>Durée : 1 à 2 ans</strong> </p> <p>  <strong>Découvrez toutes nos offres d'emplois, notre culture, à travers notre site de recrutement:</strong>     <strong>*******************</strong>   </p>",
+      "description": "<p>Au sein de l'atelier, vous assurez le bon état (technique, sécurité, présentation) des matériels proposés à la location. Dans le cadre de votre alternance, vous assurez la maintenance préventive et curative du matériel mis à la disposition des clients.</p> <p>Vos missions parmi nous :</p> <ul>  <li>Contrôler le matériel à son entrée et sa sortie de l'atelier ;</li>  <li>Exécuter la maintenance préventive du matériel ;</li>  <li>Préparer et installer les équipements, intervenir sur site en cas de panne et proposer des solutions permettant la continuité d'activité ;</li>  <li>Diagnostiquer les pannes et réaliser les opérations de réparations ;</li>  <li>Participer à la gestion administrative de l'atelier en complétant les dossiers d'entretien des matériels ;</li>  <li>Assurer le respect des mesures d'hygiène, qualité et de sécurité conformément aux exigences du groupe.</li> </ul> Informations supplémentaires\r\n\r\nPoste: Mécanicien (H/F)\r\n\r\nProfil: <p>Vous souhaitez préparer un diplôme BAC Pro/BTS à dominante technique (maintenance engins TP ou agricoles, maintenance des matériels des espaces verts, maintenance industrielle, …) et ��tes à la recherche d'un contrat en alternance dans un environnement stimulant au sein du Groupe Leader dans la location de matériel.</p> <p>Passionné(e), vous disposez d'un attrait pour la mécanique. Rigoureux(se) et méthodique, vous avez le sens du service et aimez travailler en équipe.</p> <p>  <strong>Votre rémunération et avantages</strong> </p> <ul>  <li>Nous vous proposons un accompagnement approfondi avec un tuteur dédié tout au long de votre alternance</li>  <li>Un parcours d'intégration spécifique aux alternants</li>  <li>En plus de votre rémunération d'apprenti vous bénéficierez d'une prime de participation/intéressement et un 13ème mois</li> </ul> <p>  <strong>Type de contrat : Contrat de Professionnalisation ou Contrat d'apprentissage</strong> </p> <p>  <strong>Durée : 1 à 2 ans</strong> </p> <p>  <strong>Découvrez toutes nos offres d'emplois, notre culture, à travers notre site de recrutement:</strong>     <strong>*******************</strong>   </p>",
       "target_diploma": {
         "european": "4",
         "label": "Bac, Bac Pro, BP (Bac)"
@@ -24766,7 +24766,7 @@
       "id": "6a86276c334ed2d599cef8ec",
       "partner_label": "RH Alternance",
       "title": "Alternant(e) en maintenance mécanique",
-      "description": "Descriptif du poste : \nProfil recherché :",
+      "description": "Profil recherché : \nDescriptif du poste :",
       "target_diploma": null,
       "rome_codes": [
         "I1310"
@@ -29622,6 +29622,164 @@
       ],
       "contract_start": "2026-10-01T00:00:00.000Z",
       "apply_url": "https://www.aplitrak.com/?adid=SW5lcy5CZXJ0aGF1bHQuMTAyNDguMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aa7db26b272299cc427d570",
+      "partner_label": "offres_emploi_lba",
+      "title": "Assistant technique / Assistante technique d'ingénierie études, recherche et développement en industrie",
+      "description": "Conçoit et finalise de nouveaux produits ou de nouvelles technologies. Fait évoluer ceux déjà existants, dans un objectif de développement commercial et d'innovation en milieu industriel. Définit des moyens, méthodes et techniques de valorisation et de mise en oeuvre des résultats de recherche. Peut superviser et coordonner un projet, une équipe, un service ou un département.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA REUNION",
+      "address": "31 AVENUE RAYMOND MONDON 97420 LE PORT",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-10-01T00:00:00.000Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa7db26b272299cc427d570/assistant-technique-assistante-technique-d-ingénierie-études-recherche-et-développement-en-industrie",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6aa872f35743d160f9f96b13",
+      "partner_label": "France Travail",
+      "title": "Technicien de maintenance H/F",
+      "description": "Entreprise \n\nActeur incontournable du secteur de la biscuiterie et de la pâtisserie à la française, St Michel est une entreprise familiale indépendante en pleine croissance :\n\n  * 8 usines en France avec l'ouverture de nouvelles lignes de production\n  * Des produits distribués à l'international dans + de 100 pays\n  * 150 métiers pour tout type de qualification\n  * St Michel a été élue marque préférée des français en 2022 tous secteurs confondus\n\n\n\nNotre marque de fabrique ? Nous inventons et fabriquons des produits gourmands avec une attention particulière portée à la qualité des ingrédients, leurs origines ainsi que la prise en compte des producteurs, du bien-être animal et de l'environnement.\n\nNotre démarche RSE « le Goût de la transmission » est au cœur de toutes nos actions. \n\nChez St Michel, nous sommes animés par une seule chose : rendre populaire nos biscuits et pâtisseries en France et à l'international tout en accompagnant de nouveaux talents.\n\nPoste \n\nEn tant que Technicien de maintenance, vous assurez la maintenance préventive, corrective et améliorative. Vous participez de façon très globale à l'amélioration du fonctionnement du site.\n\nRattaché au Responsable Production-Maintenance et en équipe avec deux autres Techniciens :\n\n  * Vous assurez les opérations de maintenance préventive et enrichissez le plan préventif\n  * Vous analysez les dysfonctionnements et assurez les opérations de maintenance corrective nécessaires\n  * Vous optimisez les réglages des équipements et formez les conducteurs de ligne aux réglages et à la maintenance de 1er niveau\n  * Vous assurez les changements de format des équipements\n  * Vous menez des projets d'amélioration sur les équipements et les méthodes\n  * Vous gérez le stock de pièces détachées\n  * Pour les nouveaux projets, vous participez activement à la définition du besoin, à la conception et à la mise en route des équipements\n  * Vous assurez des astreintes techniques\n\n\n\nVous assurez vos missions dans le respect de la politique sécurité et qualité du site.\n\nEtant donné la taille du site (20 personnes), le poste est très polyvalent.\n\nEn fonction du profil, des compétences et des motivations, des missions complémentaires pourront être proposées.\n\n \n\n  \n  \n\n\nProfil \n\nDe formation Bac +2 minimum en Maintenance Industrielle et/ou en électromécanique, vous avez de solides compétences en mécanique, pneumatique et électricité.\n\nUne maitrise ou connaissance en automatisme est un plus à votre candidature.  \nVous disposez d'une expérience réussie de 2 ans minimum à un poste en maintenance industrielle, idéalement dans le secteur agroalimentaire, pharmaceutique ou cosmétique.  \n  \nReconnu(e) pour vos compétences techniques et votre sérieux, vous disposez d'un bon esprit d'analyse.  \nVous êtes soucieux(euse) d'intégrer une structure de petite taille, en plein développement et capable de vous proposer un cadre de travail stimulant, complet, demandant une polyvalence et une autonomie importante.  \n  \n\n\nLe poste est à pourvoir dès que possible et est basé en région Bourgogne (58), à Saint-Péreuse (15 min de Château-Chinon et 40 min de Nevers) dans Le Parc Naturel Régional du Morvan.\n\nSi vous souhaitez rejoindre une entreprise à taille humaine, ayant de belles perspectives devant elle, ce poste est fait pour vous !\n\nPostulez ! Promis, on ne vous mangera pas.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "ST MICHEL GROBOST",
+      "address": "58110 Saint-Péreuse",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://jobaffinity.fr/apply/oo4ryojabojb8b31fe?src=FranceTravail%20API",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa872f55743d160f9f96b8c",
+      "partner_label": "France Travail",
+      "title": "Apprenti Electricien H/F",
+      "description": "Au sein du service maintenance, l'Apprenti Electricien est formé aux activités d'installation, de maintenance et de dépannage des équipements électriques industriels.\n\nEn tant qu'Apprenti Electricien, vos principales missions sont : \nParticipation aux installations et interventions électriques :\n- Participer au tirage de câbles et au raccordement d'équipements électriques \n- Assister à l'installation d'armoires électriques, coffret et appareillages \n- Réaliser des opérations simples de câblage (courant fort/ faible) \n- Participer aux essais et à la mise en service des installations \n- Lire et comprendre progressivement les schémas électriques.\nParticipation à la maintenance et au diagnostic :\n- Accompagner les techniciens lors des opérations de maintenance préventive \n- Participer au dépannage des installations électriques \n- Identifier les composants électriques (contacteurs, disjoncteurs, relais) \n- Réaliser des contrôles simples (continuité, tension) sous supervision \n- Apprendre les méthodes de diagnostic de panne.\nContrôle &amp; Sécurité :\n- Respecter strictement les consigne de sécurité et procédures HSE \n- Maintenir son poste de travail propre et sécurisé \n- Utilisation des équipements de protection individuelles \nFormation :\n- CAP/ Bac Pro MELEC/ BTS électrotechnique ou équivalent",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "97312 ST ELIE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213WBHK",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa872f35743d160f9f96b1c",
+      "partner_label": "France Travail",
+      "title": "ALTERNANT TECHNICIEN DE MAINTENANCE (POSTE FIXE) H/F (H/F)",
+      "description": "Qui sommes nous ?\n\nJungheinrich compte parmi les leaders mondiaux du secteur de l'intralogistique.\nDans le monde ce sont 18 000 collaborateurs, et en France, première filiale de distribution, nous sommes 1250.\n\n\nTes missions\n\nNous recherchons pour la prochaine rentrée scolaire 2026, un(e) alternant(e) pour rejoindre notre équipe de techniciens, afin de prendre part aux missions suivantes :\nAssurer le reconditionnement de nos machines sur différents aspects techniques : électrique, mécanique, hydraulique, thermique, carrosserie\nGarantir la conformité et la qualité des travaux en fonction des spécificités de la commande (coût, délai, etc...)\nAssurer le bon déroulement des Ordres de Travail, de la prise en charge du matériel jusqu'à la validation du contrôle de sortie\nEtablir des devis pour les clients internes\nMaintenir la propreté et l'entretien de ton poste de travail ainsi que la conformité de ton outillage\n\nPourquoi nous ?\n\nDurant toute la durée de ta formation tu es accompagné par ton tuteur dont la mission est de te faire gagner en compétences et grandir au sein de ton équipe. Tu bénéficies d'un suivi personnalisé tant par ton manager que par nos équipes RH.\n\nA l'issue de ton alternance, si elle est réussie, de nombreuses opportunités de carrière seront à saisir chez Jungheinrich France.\n\n\nAvantages :\nREMUNERATION FIXE + INTERESSEMENT/PARTICIPATION\n\nEt pourquoi toi ?\n\nParce que tu prépares un BAC +2 dans le domaine de l'électronique, électromécanique ou automatisme, ou diplôme équivalent.\n\nTu es curieux(se), dynamique et as le sens du service client.\n\nTu veux gagner en autonomie et en adaptabilité.\n\nEt enfin, tu veux te former auprès de techniciens professionnels.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "JUNGHEINRICH FRANCE",
+      "address": "59111 Hordain",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://jungheinrich.career-portal.io/jobs/6a0e593ad42a9902046fdf6d?utm_source=FranceTravail&utm_medium=TargetingSourcing&utm_campaign=JUNGHEINRICH",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa8fc511124e47278839566",
+      "partner_label": "Veritone",
+      "title": "Apprenti(e) Technicien de maintenance industrielle (F/H)",
+      "description": "Eiffage Route : accompagner la transition écologique\r\n\r\nEiffage Route contribue à l'amélioration du réseau français, des voies communales aux tracés autoroutiers, qu'il s'agisse de conception, de construction ou d'entretien. Experte en aménagement urbain, Eiffage Route participe également à la réalisation de projets portuaires, aéroportuaires, industriels et commerciaux.\n\nDans le cadre de son développement, Eiffage Route Centre-Est recrute pour sa filière Industrie à Commenailles (39) un.e :\r\n\r\n \r\n\r\nApprenti(e) Technicien de maintenance industrielle F/H\r\n\r\n \r\n\r\nVos missions\r\n\r\n \r\n\r\nRattaché(e) à un Chef de poste et en collaboration avec l'équipe de maintenance, au terme de votre alternance vous serez en mesure de participer à la maintenance préventive et curative des installations :\r\n\r\n * \r\n\r\nAssurer l'entretien courant et la maintenance du poste dans le souci des règles de sécurité et environnementales (électrotechnique, mécanique, hydraulique, pneumatique, automatisme)\r\n * \r\n\r\nRechercher et diagnostiquer les pannes​ dans le cadre de dépannage\r\n * \r\n\r\nApprendre à piloter une ligne de production mécanique, semi automatisée ou automatisée en fonction du programme de fabrication\r\n * \r\n\r\nMettre en œuvre la fabrication des produits industriels propres au secteur dans le cadre des exigences spécifiques liées à la qualité, à la sécurité et à l'environnement",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "EIFFAGE ROUTE ILE DE FRANCE / CENTRE OUEST",
+      "address": "93330 Neuilly-sur-Marne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-01T00:00:00.000Z",
+      "apply_url": "https://www.aplitrak.com/?adid=QWxleGFuZHJhLkRlc2FicmUuOTk4MjIuMTM2ODBAZWlmZmFnZS5hcGxpdHJhay5jb20",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aa82bd31734e71a67c787a2",
+      "partner_label": "Jobposting",
+      "title": "Alternance Ingénieur projet - ASAP - Marseille",
+      "description": "Alternant(e) Ingénieur Projet - Génie des Procédés / Mécanique | Marseille | Alternance 2 ansContrat : Contrat d'alternance - 2 ansDémarrage : ASAPObjectif assumé : t'intégrer dans l'équipe à l'issue de l'alternanceCE QUE TU VAS VRAIMENT FAIREIntégré(e) à l'équipe ingénierie Marseille, tu travailles aux côtés de chefs de projet et d'ingénieurs projet expérimentés sur des projets industriels concrets :• Coordonner les études techniques entre les différentes disciplines (procédés, mécanique, génie civil…)• Suivre l'avancement des lots d'études et contribuer aux reportings projet• Participer à l'élaboration et à la mise à jour des plannings (MS Project)• Contribuer aux études TCE selon les besoins du projetTu seras accompagné(e) par Jean-François (tuteur) pendant toute la durée du contrat, avec une montée en autonomie progressive sur 6 mois.POURQUOI CETTE ALTERNANCE ?• Tu touches à un projet industriel de bout en bout — pas un rôle de support• Une équipe à taille humaine, avec un accompagnement réel• Une perspective d'embauche concrète à l'issue des 2 ans — c'est l'objectif affiché dès le départ• Une expérience qui compte dans un CV ingénieur : EPC/EPCM, c'est ce que recrutent",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "PARLYM",
+      "address": "13016 Marseille 16e Arrondissement",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2698389-180",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aa873eb9dceff7dd4b8e989",
+      "partner_label": "Meteojob",
+      "title": "Apprenti ingénieur méthodes F/H",
+      "description": "<p>  Tu recherches un super poste  <strong>d'Ingénieur Méthode/GMAO en alternance</strong>  ? Cette annonce est faite pour toi ! </p> <p>Acteur de la transition énergétique, Idex s'adresse à tous les audacieux souhaitant agir pour changer la vision de l'énergie : plus responsable, plus durable et en toute neutralité ! Aujourd'hui nous nous adressons aux alternants !</p> <p>Premier groupe français indépendant de services à l'énergie et à l'environnement, nous sommes présents sur l'ensemble de la chaîne de valeur énergétique. Notre ambition, décarboner les territoires au travers nos activités :</p> <ul>  <li>   <p>La production d'énergie (usines de valorisation énergétique des déchets, méthaniseurs, centrales biomasse, géothermie, solaire…)</p>  </li>  <li>   <p>La distribution d'énergie (réseaux de chaleur et de froid)</p>  </li>  <li>   <p>Les services énergétiques (maintenance ou travaux d'efficacité énergétique, gestion multi-technique de bâtiments…)</p>  </li> </ul> <p>Chez Idex nos collaborateurs contribuent à la protection de la planète et offrent un avenir de qualité aux générations futures.</p> <p>On considère que chacun de nos collaborateurs apportent une valeur ajoutée à notre société. C'est pourquoi l'alternance de tes rêves se trouve chez nous !</p> <p>Au sein de l'équipe tertiaire pour intégrer notre site de Romainville rattaché au Responsable d'exploitation, vous intervenez en qualité d'expert méthodes et énergétique pour accompagner les équipes opérationnelles dans l'optimisation du contrat.</p> <p>  <strong>Nous te proposons d'accompagner le responsable d'exploitation et de :</strong> </p> <ul>  <li>   <p>Réaliser les analyses et les préconisations d'améliorations dans les domaines réglementaires, techniques et énergétiques,</p>  </li>  <li>   <p>Travailler sur le développement de la gestion de maintenance corrective et préventive,</p>  </li>  <li>   <p>Procéder à des audits et diagnostics techniques, afin d'apporter votre soutien durant la vie du contrat,</p>  </li>  <li>   <p>Piloter et/ou participer à la prise en charge des contrats,</p>  </li>  <li>   <p>Préparer et participer aux réunions d'équipe et en clientèle.</p>  </li>  <li>   <p>Participer au fonctionnement des Systèmes d'Informations (GMAO, portail de services, portail client, passerelle de communication...).</p>  </li>  <li>   <p>Piloter la bonne réalisation des contrôles réglementaires.</p>  </li> </ul> <p>Tu es étudiant en école d'ingénieur en bac +4/5 en recherche d'une alternance.</p> <p>  <strong>Tu as :</strong> </p> <ul>  <li>   <p>une bonne maîtrise des logiciels tel qu'Excel et si possible avec les outils de GMAO,</p>  </li>  <li>   <p>Des connaissances dans l'efficacité énergétique du bâtiment.</p>  </li> </ul> <p>  <strong>Notre futur talent sera :</strong> </p> <ul>  <li>   <p>Dynamique,</p>  </li>  <li>   <p>Consciencieux,</p>  </li>  <li>   <p>Apprécié pour son esprit d'équipe,</p>  </li>  <li>   <p>Un planificateur(rice).</p>  </li>  <li>   <p>A l'aise sur le terrain avec les équipes opérationnelles ainsi qu'avec les clients.</p>  </li>  <li>   <p>Ingénieux(se) afin d'apporter des solutions innovantes à nos clients.</p>  </li> </ul> <p>Alors tu te reconnais et arrive à te projeter à travers cette annonce ?</p> <p>Tu veux trouver un métier passionnant, on recherche notre pépite, alors à toi de jouer et rejoins nous !</p>\r\n\r\nSecteur: Energie\r\n\r\nPoste: Ingénieur méthodes de maintenance et GMAO (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "Idex",
+      "address": "93230 Romainville",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-09-13T00:00:00.000Z",
+      "apply_url": "https://www.meteojob.com/jobs/56786410?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "sector_id": "methode",
       "sector_label": "Méthodes / Industrialisation"
     }
