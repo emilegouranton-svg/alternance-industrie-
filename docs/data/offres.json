@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:27:03.397820+00:00",
+  "generated_at": "2026-09-22T09:40:10.987228+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -30188,6 +30188,209 @@
       "apply_url": "https://rhalternance.com/jobs/batiment-et-travaux-publics-btp/bastia/alternant-en-maintenance-électrique-f-h-456632844",
       "sector_id": "maintenance_industrielle",
       "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ab1ad4a9b5a0cfb25b11010",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle polyvalente (H/F)",
+      "description": "Offre collectée par La bonne alternance : Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "CHARCUTERIE SALAISONS PIVETEAU",
+      "address": "44140 Montbert",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8bf8d1c9494c8c3e55d049/technicien-technicienne-de-maintenance-industrielle-polyvalente",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ab1ad989b5a0cfb25b1225f",
+      "partner_label": "France Travail",
+      "title": "Assistant Méthodes en alternance H/F",
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "ECP",
+      "address": "34740 Vendargues",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ab1ad989b5a0cfb25b1225e",
+      "partner_label": "France Travail",
+      "title": "Assistant Méthodes en alternance H/F",
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "ECP",
+      "address": "34740 Vendargues",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ab1ad9b9b5a0cfb25b1230c",
+      "partner_label": "France Travail",
+      "title": "BTS CRCI (Conception et réalisation en chaudronnerie industrielle) en alternance H/F (24 mois)",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nEn tant qu'apprenti(e) technicien méthodes, vous serez rattaché au Responsable Méthodes saxophones. Vous serez situé(e) au sein de notre Manufacture située à Mantes-la-Ville (78).\n\n\nVous imaginerez et façonnerez les instruments de demain en alliant innovation et savoir-faire industriel pour offrir aux musiciens une expérience sonore inégalée.\n\n\nAu sein du département des méthodes, votre domaine d'intervention sera notre atelier de chaudronnerie. Vous mettrez en place les nouveaux procédés ou améliorerez les procédés existants de nos pièces chaudronnées.\n\n\nVos missions\n\n\n1.     Participer au développement des nouveaux produits\n\n\n2.     Améliorer la productivité des procédés en place\n\n\n3.     Assure le support à la production.\n\n\n \n\n\nVos activités\n\n\n-         Concevoir les outillages via la CAO.\n\n\n-         Réaliser les modèles CAO et la mise en plan de nos pièces chaudronnées\n\n\n-         Rédiger et mettre en place la documentation atelier.\n\n\n-         Mettre au point les procédés et es outillages par des essais terrain avec les opérateurs\n\n\n-         Participer à la résolution des problèmes techniques ou qualité.\n\n\n-         Représenter les méthodes lors des réunions de travail de la chaudronnerie\n\nVous préparez un BTS avec une spécialisation en Conception et réalisation en chaudronnerie industrielle), vous souhaitez travailler sur des projets innovants et contribuer à l'amélioration de la performance industrielle.\n\n\nStructuré(e), rigoureux(se), autonome et organisé(e), vous savez coordonner et à gérer plusieurs tâches de manière efficace.\n\n\nSi vous êtes animé(e) par l'envie d'apprendre et de partager notre savoir-faire et notre passion pour la musique, nous serions ravis de vous accueillir parmi nous !",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "HENRI SELMER PARIS",
+      "address": "78711 Mantes-la-Ville",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/828137?utm_source=NQ==",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ab1ad999b5a0cfb25b122bf",
+      "partner_label": "France Travail",
+      "title": "TECHNICIEN PROCESS/METHODES H/F EN ALTERNANCE (H/F)",
+      "description": "À propos de Black Star Next\n\nImplantée à Béthune, Black Star Next est une entreprise spécialisée dans le reconditionnement de pneumatiques. Engagée dans une démarche d'économie circulaire, elle valorise les pneus usagés en leur offrant une seconde vie grâce à un procédé industriel innovant. Rejoindre Black Star Next, c'est intégrer une entreprise à taille humaine, attachée à la qualité, à l'innovation et au développement durable.\n\nVous êtes étudiant(e) dans le domaine de l'industrie et souhaitez découvrir les coulisses de la production ?\n\nVous aimez comprendre comment fonctionnent les processus de fabrication, résoudre les problèmes et contribuer à l'amélioration continue ? Ce poste est fait pour vous !\n\nNous recherchons un(e) Technicien(ne) Process / Méthodes pour accompagner nos équipes de production et optimiser nos méthodes de travail.\n\nVOTRE MISSION\n\nAccompagné(e) par le Responsable de Production, vous participerez à l'optimisation des performances et des flux de production.\n\nVOS MISSIONS AU QUOTIDIEN:\n\nParticiper à l'amélioration des méthodes de travail\n\nContribuer à la création et à la mise à jour des modes opératoires.\nParticiper à la formalisation des instructions de travail.\n\nOptimiser les processus de fabrication\n\nDécouvrir et analyser les différents processus de production.\nIdentifier les anomalies et les opportunités d'amélioration.\nParticiper aux démarches d'amélioration continue.\n\nTravailler en collaboration avec les équipes\n\nFaire le lien entre la production et le service qualité.\nParticiper à la résolution des problématiques liées aux processus de fabrication.\nÉchanger avec les équipes de production, de maintenance et les autres services.\n\nAnalyser les données de production\n\nParticiper à la création d'outils de suivi et d'analyse.\nExploiter les données de production par machine et par opérateur.\n\nDécouvrir la gestion des stocks\n\nParticiper au suivi des matières premières et des marchandises selon le principe FIFO.\nContribuer au suivi des consommables nécessaires à la production.\n\nLE PROFIL QUE NOUS RECHERCHONS:\n\nVous préparez une formation dans le domaine de l'industrie, des méthodes, des process ou de la production.\n\nVous êtes :\n\n  Curieux(se) et motivé(e) par le fonctionnement des processus industriels.\n  À l'aise avec les chiffres et les outils informatiques.\n  Intéressé(e) par l'amélioration continue et l'analyse des données.\n  Organisé(e) et capable de travailler en équipe.\n  Force de proposition et désireux(se) d'apprendre.\n\nUne première expérience en milieu industriel est un plus, mais votre motivation et votre envie d'apprendre feront la différence !\n\nCE QUE NOUS VOUS PROPOSONS;\n\n Une alternance au cœur des enjeux de production.\n Des missions concrètes et variées.\n Un accompagnement par des professionnels expérimentés.\n L'opportunité de développer vos compétences techniques et votre expérience terrain.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "BLACK STAR NEXT",
+      "address": "62400 Béthune",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214BNRH",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ab1ada19b5a0cfb25b124a5",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nEntreprise locale assurant le transport et la distribution de colis et marchandises dans toute l'île. Elle met l'accent sur la formation de ses alternants pour les familiariser avec le secteur logistique et administratif.\nVos missions :\n\n- Gérer l'accueil physique et téléphonique de la société\n- Saisir et mettre à jour les plannings de livraison et les dossiers clients\n- Répondre aux demandes d'informations des clients et partenaires\n- Effectuer le traitement du courrier entrant et sortant\n- Participer à la gestion des dossiers de transport et à l'archivage\n- Assurer la liaison entre les services administratifs et opérationnels\n\nProfil recherché : \n\n\n- Sens du service client et aisance relationnelle\n- Bonne organisation et rigueur dans les tâches administratives\n- Connaissance basique en bureautique\n- Dynamisme et volonté d'apprendre dans un environnement logistique\n- Esprit d'équipe et polyvalence\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97420 Le Port",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2703982-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ab1ada19b5a0cfb25b124ab",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nEntreprise locale assurant le transport et la distribution de colis et marchandises dans toute l'île. Elle met l'accent sur la formation de ses alternants pour les familiariser avec le secteur logistique et administratif.\nVos missions :\n\n- Gérer l'accueil physique et téléphonique de la société\n- Saisir et mettre à jour les plannings de livraison et les dossiers clients\n- Répondre aux demandes d'informations des clients et partenaires\n- Effectuer le traitement du courrier entrant et sortant\n- Participer à la gestion des dossiers de transport et à l'archivage\n- Assurer la liaison entre les services administratifs et opérationnels\n\nProfil recherché : \n\n\n- Sens du service client et aisance relationnelle\n- Bonne organisation et rigueur dans les tâches administratives\n- Connaissance basique en bureautique\n- Dynamisme et volonté d'apprendre dans un environnement logistique\n- Esprit d'équipe et polyvalence\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97420 Le Port",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2703982-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ab1ada19b5a0cfb25b124ac",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nEntreprise locale assurant le transport et la distribution de colis et marchandises dans toute l'île. Elle met l'accent sur la formation de ses alternants pour les familiariser avec le secteur logistique et administratif.\nVos missions :\n\n- Gérer l'accueil physique et téléphonique de la société\n- Saisir et mettre à jour les plannings de livraison et les dossiers clients\n- Répondre aux demandes d'informations des clients et partenaires\n- Effectuer le traitement du courrier entrant et sortant\n- Participer à la gestion des dossiers de transport et à l'archivage\n- Assurer la liaison entre les services administratifs et opérationnels\n\nProfil recherché : \n\n\n- Sens du service client et aisance relationnelle\n- Bonne organisation et rigueur dans les tâches administratives\n- Connaissance basique en bureautique\n- Dynamisme et volonté d'apprendre dans un environnement logistique\n- Esprit d'équipe et polyvalence\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97400 Saint-Denis",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2703983-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ab1ada19b5a0cfb25b124aa",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nSpécialisée dans la logistique et le transport de marchandises, cette entreprise propose à ses alternants une immersion dans un environnement rythmé où la réactivité et la précision sont essentielles.\nVos missions :\n\n- Assurer l'accueil et l'orientation des chauffeurs et clients\n- Effectuer la saisie de documents et données logistiques\n- Gérer les appels entrants et orienter les interlocuteurs vers les bons services\n- Classer et archiver les dossiers de transport\n- Participer au suivi administratif des livraisons et réceptions\n- Collaborer avec les équipes pour garantir la bonne circulation des informations\n\nProfil recherché : \n\n\n- Aisance relationnelle et bonne communication orale\n- Sens de l'accueil et du service client\n- Rigueur, organisation et capacité à gérer plusieurs tâches simultanément\n- Maîtrise de base des outils informatiques\n- Motivation pour découvrir le secteur du transport public\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97410 Saint-Pierre",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2703984-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ab1ada19b5a0cfb25b124ad",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nSpécialisée dans la logistique et le transport de marchandises, cette entreprise propose à ses alternants une immersion dans un environnement rythmé où la réactivité et la précision sont essentielles.\nVos missions :\n\n- Assurer l'accueil et l'orientation des chauffeurs et clients\n- Effectuer la saisie de documents et données logistiques\n- Gérer les appels entrants et orienter les interlocuteurs vers les bons services\n- Classer et archiver les dossiers de transport\n- Participer au suivi administratif des livraisons et réceptions\n- Collaborer avec les équipes pour garantir la bonne circulation des informations\n\nProfil recherché : \n\n\n- Aisance relationnelle et bonne communication orale\n- Sens de l'accueil et du service client\n- Rigueur, organisation et capacité à gérer plusieurs tâches simultanément\n- Maîtrise de base des outils informatiques\n- Motivation pour découvrir le secteur du transport public\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97440 Saint-André",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2703985-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
     }
   ]
 }
