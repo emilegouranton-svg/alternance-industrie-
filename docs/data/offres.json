@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:30:43.749821+00:00",
+  "generated_at": "2026-09-29T11:10:52.351753+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -31232,6 +31232,179 @@
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab4eeab1b8f9e1e08378b8c/logisticien-logisticienne",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6abb6ecf99a743746dfe641b",
+      "partner_label": "offres_emploi_lba",
+      "title": "assistant technique",
+      "description": "Les tâches sont les suivantes :\n- Participation à l’élaboration des réponses aux appels d’offres\n- Elaboration et suivi des OS, avenants, fiches de travaux modificatifs\n- Traitement des situations des entreprises, élaboration des certificats de \npaiement à destination des maîtres d’ouvrage, suivi du tableau \nd’avancement par chantier\n- Suivi des réceptions des entreprises (PV de réception, suivi de levée de \nréserves en collaboration avec le chargé de projet, DOE)\n- Gestion des honoraires à adresser aux Maîtres d’ouvrages ainsi que les notes d’honoraires des sous-traitants et co-traitant (utilisation du logiciel \nOOTI, formation prévue en interne)\n\nLe profil recherché :\n- Qualités rédactionnelles\n- Aisance avec les outils bureautiques (Word et Excel) et avec les chiffres\n- Rigueur administrative\n- Sensibilité pour les domaines de l’architecture et du patrimoine",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "ILEC NICE",
+      "address": "12 BOULEVARD DUBOUCHAGE 06000 NICE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-09-29T07:54:55.037Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abb6ecf99a743746dfe641b/assistant-technique",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6abae7def1ddb5796bb3b12f",
+      "partner_label": "France Travail",
+      "title": "Ingénieur électricien / Ingénieure électricienne en industrie (H/F)",
+      "description": "Nous recherchons pour l'une de nos entreprises adhérentes un(e) Alternant Électrotechnique/Électricité industrielle (H/F).\n\nLieu : secteur de St Quentin\nType de contrat : contrat d'apprentissage de 2ans\nNiveau d'étude recherché : Niveau 5 (Titre pro)\n\nVos missions :\n- Maintenance préventive et corrective : diagnostiquer les pannes, contrôler et dépanner les équipements électriques et automatismes industriels\n- Câblage et raccordement : réaliser ou modifier les câblages dans les armoires et coffrets électriques selon les schémas\n- Projets de modernisation : participer à l'amélioration continue de l'outil de production\n- Sécurité : veiller au respect strict des consignes de sécurité et des normes électriques en vigueur\n\nProfil recherché :\n- Vous préparez un diplôme de niveau 5 type titre pro Électrotechnique en partenariat avec le centre de formation Proméo\n\nSi vous êtes une personne avec l'esprit d'analyse, curieuse, rigoureuse et qui aime travailler en équipe n'hésitez pas à nous transmettre votre CV à l'adresse mail :",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "LES ENTREPRISES PORTEUSES D'EMPLOIS",
+      "address": "02430 Gauchy",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214LSCT",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6abae7e0f1ddb5796bb3b1a0",
+      "partner_label": "France Travail",
+      "title": "Electricien (H/F)",
+      "description": "Le GEIQ BTP 44 (Groupement d'Employeurs pour l'Insertion et la Qualification) recrute un(e) Électricien(ne) du bâtiment en alternance pour l'une de ses entreprises adhérentes, sur le secteur de Nantes.\n\nPas besoin d'expérience ! Débutants et personnes en reconversion bienvenus.\n\nVos missions :\n- Réaliser des travaux électriques Courants Forts et Faibles en rénovation,\n- Travailler en équipe, aux côtés du chef de chantier,\n- Apprendre un savoir-faire concret, utile et recherché\n\nProfil recherché :\n- Envie d'apprendre et esprit d'équipe,\n- Lecture/écriture de base (plans, tracés.),\n- Rigueur et respect des règles de sécurité,\n\nCe que nous vous offrons :\n- Un contrat en alternance de 13 mois (1 semaine/mois en centre de formation),\n- Une formation diplômante : Titre professionnel Électricien du bâtiment (niveau CAP),\n- Une rémunération au SMIC + indemnités de trajet et paniers repas,\n- Hébergement et déplacements pris en charge lors des périodes de formation,\n- L'assurance d'un accompagnement sur mesure pour réussir votre parcours.\n\nRejoignez-nous et construisez votre avenir dans le secteur du bâtiment, avec un diplôme, un métier et une expérience solide à la clé !",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "GPT EMPLO INSERTI QUALIFICATIO L A GPT",
+      "address": "44800 Saint-Herblain",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "http://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/735176?at_medium=CMP&at_campaign=DSIMonstreuil&at_cmp_indicateur1=PromotionEvenementConseiller&at_cmp_indicateur2=Multicanal",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abae8bbc6b865ac2948fc28",
+      "partner_label": "Meteojob",
+      "title": "Electricien (h/f)",
+      "description": "Offre d'emploi - Formation Electricien (H/F) rémunérée <p>  <strong>Vous êtes attiré(e) par les métiers techniques et souhaitez acquérir une qualification recherchée sur le marché de l'emploi ?</strong> </p> <p>  Adecco recrute de futurs  <strong>Électriciens (H/F)</strong>  pour intégrer une formation qualifiante rémunérée avec des perspectives d'emploi durables en  <strong>CDII</strong>  auprès de leurs entreprises partenaires. </p> Ce que nous vous proposons <ul>  <li>Une formation rémunérée pendant toute la durée du parcours</li>  <li>Les habilitations nécessaires à l'exercice du métier</li>  <li>Un accompagnement personnalisé vers l'emploi</li>  <li>Des opportunités professionnelles au sein des entreprises partenaires Adecco</li>  <li>Un parcours ouvert aux débutants et aux personnes en reconversion professionnelle</li> </ul> Contenu de la formation <ul>  <li>Installation électrique tertiaire et industrielle</li>  <li>Lecture de schémas électriques</li>  <li>Raccordements et câblages</li>  <li>Respect des normes et règles de sécurité</li>  <li>Préparation aux habilitations électriques</li> </ul> <p>  <strong>Durée : 364 heures de formation</strong> </p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Electricien (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 € - 10 012 €\r\n\r\nProfil: <strong>Profils recherchés</strong> <br /> <ul>  <br />  <li>Vous êtes manuel(le) et rigoureux(se)</li>  <br />  <li>Vous êtes curieux(se) et aimez comprendre le fonctionnement des équipements</li>  <br />  <li>Vous aimez les métiers techniques</li>  <br />  <li>Vous appréciez le travail de précision</li>  <br />  <li>Vous souhaitez obtenir une qualification et accéder à un emploi durable</li>  <br /> </ul>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "ADECCO",
+      "address": "53400 Craon",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57140248?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abae8bbc6b865ac2948fc26",
+      "partner_label": "Meteojob",
+      "title": "Technicien de Maintenance (h/f)",
+      "description": "Offre d'emploi - Formation Technicien de Maintenance (H/F) rémunérée <p>  <strong>Vous aimez la technique, le dépannage et la résolution de problèmes ? Formez-vous à un métier recherché par les entreprises industrielles de la Mayenne.</strong> </p> <p>  Adecco Craon recrute de futurs  <strong>Techniciens de Maintenance (H/F)</strong>  pour intégrer une formation qualifiante rémunérée avec des perspectives d'emploi durables en  <strong>CDII.</strong> </p> Ce que nous vous proposons <ul>  <li>Une formation rémunérée tout au long du parcours</li>  <li>Un titre professionnel reconnu par l'État</li>  <li>Un accompagnement personnalisé vers l'emploi</li>  <li>Des opportunités professionnelles au sein des entreprises partenaires Adecco</li>  <li>Un parcours ouvert aux débutants et aux personnes en reconversion professionnelle</li> </ul> Contenu de la formation <ul>  <li>Maintenance mécanique</li>  <li>Électricité industrielle</li>  <li>Hydraulique</li>  <li>Diagnostic de pannes</li>  <li>Maintenance préventive et corrective</li> </ul> <p>  <strong>Durée : 546 heures de formation.</strong> </p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Technicien de maintenance mécanique (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 € - 10 012 €\r\n\r\nProfil: <strong>Profil recherché</strong> <br /> <ul>  <br />  <li>Vous êtes curieux(se) et aimez comprendre le fonctionnement des équipements</li>  <br />  <li>Vous êtes méthodique et réactif(ve)</li>  <br />  <li>Vous avez un intérêt pour les domaines techniques</li>  <br />  <li>Vous souhaitez acquérir une qualification reconnue et accéder à un emploi durable</li>  <br /> </ul>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "ADECCO",
+      "address": "53400 Craon",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57140232?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abae8bac6b865ac2948fbfe",
+      "partner_label": "Meteojob",
+      "title": "Alternance - Technicien de maintenance industrielle F/H",
+      "description": "<p>La Direction de la maintenance de RTE recrute un(e) :</p> <ul>  <li>   <p>Technicien(ne) de Maintenance Postes à Le Plessis-Gassot.</p>  </li> </ul> <p>La Direction de la maintenance garantit le fonctionnement optimal des installations du réseau de transport d'électricité et de son environnement. Les équipes opérationnelles sont réparties en Groupes Maintenance Réseau (GMR) qui interviennent dans un périmètre géographique donné.</p> <p>Rattaché(e) au GMR Nord Ouest de la région Ile-de-France - Normandie, vous êtes intégré(e) à l'Equipe Groupement de poste composée de 15 personnes. Le poste implique des déplacements réguliers dans la zone d'intervention du GMR.</p> <p>Votre mission principale consiste à assurer sur le terrain la maintenance haute et basse tension des postes électriques. Vous veillez également à la mise en sécurité des équipes RTE et des intervenants externes, notamment à travers les opérations de consignation et de déconsignation au sein des postes électriques.</p> <p>Les principales activités du poste consistent à :</p> <ul>  <li>   <p>Réaliser des opérations d'entretiens, de maintenance et de dépannage des équipements haute tension (transformateurs, disjoncteurs, sectionneurs).</p>  </li>  <li>   <p>Réaliser l'entretien des systèmes hydrauliques (mécanismes de commande) pour garantir leur bon fonctionnement.</p>  </li>  <li>   <p>Réaliser la maintenance des installations mécaniques (structures, aiguillages, ventilation) et réparation des pièces usées ou défectueuses.</p>  </li>  <li>   <p>Contribuer à la réalisation et à la mise en œuvre du programme d'activités de l'équipe.</p>  </li>  <li>   <p>Réaliser des missions transverses pouvant porter sur la gestion des matériels, des données informatiques et de la documentation.</p>  </li> </ul> <p>Chez RTE, une attention toute particulière est portée aux questions de sécurité, qu'elle soit individuelle ou collective : chacun veille à sa propre sécurité ainsi qu'à celle des autres membres de l'équipe.</p>\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nProfil: <p>Vous recherchez une alternance sur 2 ans pour préparer un BTS Maintenance des Systèmes, Option A : Systèmes de Production.</p> <p>Vous êtes avant tout motivé(e), volontaire et enthousiaste.</p> <p>Vous avez le sens du travail en équipe et savez trouver votre place dans un collectif tout en respectant les autres.</p> <p>Vous possédez une réelle appétence pour les travaux manuels.</p> <p>La sécurité et la qualité de vos interventions sont essentielles pour vous.</p> <p>Vous êtes à l'aise avec l'informatique.</p> <p>Vous souhaitez jouer un rôle clé dans la transition énergétique et contribuer à un avenir plus durable ?</p> <p>Rejoignez-nous !</p> Informations supplémentaires <ul>  <li>Travail au sein d'un environnement exigeant, au cœur de postes électriques Haute Tension</li>  <li>Déplacements réguliers</li>  <li>Permis B souhaité</li> </ul> <p>POURQUOI NOUS REJOINDRE ?</p> <p>En vous formant en alternance à nos côtés, vous choisissez la voie de la réussite :</p> <ul>  <li>500 alternants formés en moyenne chaque année</li>  <li>95% de nos alternants obtiennent leur diplôme</li>  <li>30% minimum d'alternants recrutés ou poursuivant en alternance chez RTE à l'issue de leur formation</li>  <li>Un salarié tuteur formé pour transmettre un savoir, vous guider dans la réalisation de vos missions et l'entreprise, et faire le lien avec votre établissement de formation</li>  <li>De vrais + : selon le niveau d'études, un salaire de 45 à 82% du SMIC, une aide financière au logement et à l'obtention du permis B (sous conditions), la prise en charge partielle de vos frais de transport domicile-travail, une couverture santé complète, télétravail possible en fonction du rythme d'alternance et de l'organisation de l'équipe, 27 jours de congés payés et des jours pour préparer vos examens, une prime d'intéressement, l'accès au Plan d'Epargne Groupe…</li> </ul> <p>… L'alternance RTE, un bon plan sur tous les plans !</p> <p>La Politique diversité de RTE a pour ambition d'ouvrir l'entreprise à toutes les compétences et de garantir l'équité, en termes d'égalité des chances, d'inclusion et de lutte contre toutes formes de discrimination. Selon ces principes, nous conduisons une politique active en faveur de l'inclusion des personnes en situation de handicap permettant à tous d'avoir un parcours professionnel équitable. Si vous êtes dans cette situation, faites-nous part de vos éventuels besoins spécifiques afin que nous puissions y apporter une réponse adaptée.</p> <p>Dans le cadre des activités relatives à l'emploi proposé, vous pouvez être amené(e) à accéder à un (ou des) site(s) relevant de la responsabilité de RTE. A cette fin et dans le respect des articles R1332-22-1 et suivants du Code de la Défense, nous vous informons qu'une enquête administrative est susceptible d'être réalisée à notre demande par l'autorité administrative, afin de vérifier qu'aucun fait vous concernant n'est incompatible avec l'accès envisagé.</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "RTE - Réseau de transport d'électricité",
+      "address": "95720 Le Plessis-Gassot",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57126945?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abae8bac6b865ac2948fbf7",
+      "partner_label": "Meteojob",
+      "title": "Alternance Technicien(ne) de maintenance industrielle H/F",
+      "description": "<p>La Société L'ELECTROLYSE est une entreprise Industrielle de services, spécialiste des traitements des matériaux.</p> <p>La société met en œuvre des procédés spéciaux de Traitements et de Revêtements de Surfaces (TRDS). A cette activité principale, sont aussi associées les activités d'analyse et de développement en laboratoire, et les activités de traitements et de valorisations de déchets industriels stratégiques.</p> <p>L'ELECTROLYSE est implantée sur deux sites en Gironde : LATRESNE (33360 - siège social), MERIGNAC (33700 - établissement REDA).</p> <p>L'emploi d'Alternant(e) Technicien(ne) de maintenance :</p> <p>Sous la hiérarchie du Responsable moyens techniques et industriels, et intégré(e) à l'équipe de maintenance, l'alternant(e) technicien(ne) de maintenance participe aux opérations de maintenance préventive et corrective des machines, équipements et installations des deux sites girondins.</p> <p>Il/Elle participe à l'entretien des installations existantes et aux préparations, exécution et suivi des travaux neufs et d'amélioration.</p> <p>Activités principales :</p> <p>- Participe à la réalisation des opérations de maintenance préventive spécifiées et corrective dans le cadre des demandes d'interventions par les services utilisateurs (production, laboratoire, …), et selon le planning et les priorités indiquées ;</p> <p>- Contribue à l'aménagement, à la rénovation et à l'entretien des locaux et des sites ;</p> <p>- Aide à la contribution des actions d'amélioration continue et d'économie d'énergies ;</p> <p>- Participe à la mise en œuvre et à la réalisation du programme d'activités de l'équipe.</p> <p>Savoir-faire et savoir-être attendus :</p> <p>Ø Connaissances en mécanique, électricité, électrotechnique, hydraulique, pneumatique</p> <p>Ø Capacité d'analyse et esprit critique</p> <p>Ø Rigueur, dynamisme et goût pour le travail en équipe</p> <p>Ø Curiosité et bonne capacité d'adaptation</p> <p>Informations complémentaires :</p> <p>Poste basé à Latresne (avec déplacements sur site de Mérignac)</p> <p>Horaires de journée</p> <p>Alternance en Bac pro Maintenance industrielle</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "33360 Latresne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57125629?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abae7e6f1ddb5796bb3b321",
+      "partner_label": "France Travail",
+      "title": "VENDEUR(SE) PREPARATEUR EN PIZZERIA #RUN5846 (H/F)",
+      "description": "Centre de Formation pour les particuliers et professionnels de La Réunion, notre équipe expérimentée se tient à votre disposition afin de mettre en place le parcours de formation le plus adapté à vos besoins\n\nLe poste : \n\nRejoins notre équipe dynamique en tant que Vendeur Préparateur en Pizzeria !  \nTu auras l'opportunité de travailler dans une ambiance conviviale tout en apprenant les coulisses de la vente et de la préparation de délicieuses pizzas. \nPrêt à vivre une aventure savoureuse - Ça se passe ici, avec nous ! \n\n\nProfil recherché : \n\nNous recherchons un(e) vendeur(se) en pizzéria  ! \nVous êtes motivé(e), aimez le contact avec la clientèle et cherchez à apprendre dans un cadre convivial - Alors, ce poste est fait pour vous ! \n\n\n            Savoir-faire demandés : \n                  \n- Communiquer avec des clients            \n- Aider des clients            \n- Chaîne du froid                  \n\n                  Savoir-être demandés : \n                  \n- Chaleureux            \n- Compréhensif            \n- Energique            \n- Travailleur            \n- Ecoute",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "RUNAPP",
+      "address": "97427 L'Étang-Salé",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2710321-120",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
     }
   ]
 }
