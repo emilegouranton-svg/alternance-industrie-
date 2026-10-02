@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:25:29.745907+00:00",
+  "generated_at": "2026-10-02T10:55:37.686785+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -31635,6 +31635,113 @@
       ],
       "contract_start": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214PSDR",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6abedc50170bf3aae585f0a2",
+      "partner_label": "France Travail",
+      "title": "Apprenti(e) électricien(ne) (H/F)",
+      "description": "Nous sommes à la recherche de notre futur(e) apprenti(e) qui intégrera l'une de nos entreprises adhérentes spécialisée dans les travaux d'installation d'équipements thermiques et de climatisation. \n\nIntégré(e) au sein d'une équipe technique, vous serez formé(e) et accompagné(e) afin de participer aux missions suivantes :\n\n- Installation, maintenance et dépannage des équipements électriques (systèmes de chauffage, de ventilation et de climatisation) \n\n- Câbler et raccorder les armoires électriques, les tableaux de commande et les dispositifs de régulation (thermostats, sondes, automates).\n\n- Lecture de plans et schémas électriques pour préparer les interventions chez les fabricants.\n\n- Application stricte des règles de sécurité et des procédures chantier\n\n- Participation à la mise en service des installations\n\n- Rédiger des comptes rendus d'intervention et assurer le suivi entre l'équipe et les clients sur le chantier.\n\nProfil recherché\n\n- Vous êtes rigoureux(se), organisé(e),motivé(e) et respectueux(se) des consignes de sécurité.\n\n- Vous êtes curieux(euse) et vous avez envie d'apprendre.\n\n-Vous êtes connus(es) pour votre esprit d'équipe et votre bon relationnel.\n\n- Vous êtes titulaire d'un Bac Pro MELEC (Métiers de l'Electricité et de ses Environnements Connectés) ou d'un diplôme similaire.\n\n- Vous êtes inscrit(e) en BTS Electrotechnique et à la recherche de votre entreprise d'accueil.\n\n- Permis B apprécié \n\nAucun frais de formation n'est à à prévoir",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "GROUP EMPLOYEURS QUALIFICATION INSERTION",
+      "address": "13400 Aubagne",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214RKVP",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abf83e1999d7ac157480d54",
+      "partner_label": "Veritone",
+      "title": "Technicien de maintenance F/H",
+      "description": "Premier groupe français indépendant de services à l'énergie et à l'environnement, nous sommes présents sur l'ensemble de la chaîne de valeur énergétique. Notre ambition, décarboner les territoires au travers nos activités :\r\n\r\n * La production d'énergie (usines de valorisation énergétique des déchets, méthaniseurs, centrales biomasse, géothermie, solaire…)\r\n * La distribution d'énergie (réseaux de chaleur et de froid)\r\n * Les services énergétiques (maintenance ou travaux d'efficacité énergétique, gestion multi-technique de bâtiments…)\n\nRattaché(e) au responsable de maintenance, vos principales missions seront de : \r\n\r\n- Contrôle, nettoie, graisse, règle les équipements\r\n\r\n- Réalise le diagnostic des pannes et des dysfonctionnements\r\n\r\n- Effectue les missions de maintenance préventives planifiées et celles relevant de la maintenance curative\r\n\r\n- Remplacer le matériel défectueux\r\n\r\n- Participe à la mise en place de la maintenance lors de l'installation de nouveaux matériels\r\n\r\n- Participe à l'identification des axes d'amélioration\r\n\r\n- Assure la traçabilité des interventions et informations via la GMAO\r\n\r\n- Assure la mise à jour des plans, schémas, repérages, etc…pour compléter le dossier de maintenance de chaque matériel\r\n\r\n- Respecte les consignes de travail et les règles de sécurité. Appliquer les procédures et méthodes définies.\r\n\r\nVOTRE PROFIL\r\n\r\n- Vous êtes titulaire d'un Bac+2 en maintenance \r\n\r\n- Vous avez déjà une expérience en maintenance industrielle\r\n\r\n- Vous avez de bonnes connaissances techniques (électrotechnique, automatisme, instrumentation)\r\n\r\n- Vous êtes à l'aise avec les outils informatiques, notamment la GMAO,\r\n\r\n- Vous êtes reconnu(e) pour votre rigueur, autonomie, esprit d'analyse, et appréciez le travail en équipe.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "IDEX ENVIRONNEMENT",
+      "address": "92100 Boulogne-Billancourt",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-10-02T00:00:00.000Z",
+      "apply_url": "https://www.aplitrak.com/?adid=ZWxvZGllLnN3aWF0a293c2tpLjkyNzYyLjEzNjgwQGlkZXhmci5hcGxpdHJhay5jb20",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abedd19d46e986892bf537e",
+      "partner_label": "Meteojob",
+      "title": "Agent de Maintenance - H/F",
+      "description": "<p>Sous la responsabilité du Responsable de la Maintenance et des Travaux Neufs, nous recherchons deux personnes :</p>   <li>   <p>    <strong>Infrastructure des bâtiments</strong>    : vous serez amenez à travailler sur l'électricité, les automatismes et la sécurité   </p>  </li>  <li>   <p>    <strong>Maintenance des matériels roulants</strong>    : vous veillez à la maintenance des engins de manutention électriques, des remorques poids lourds et des filmeuses automatiques.   </p>  </li> \r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Agent de maintenance et d'entretien logistique (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>Vous préparez un diplôme en alternance type BAC STI, Bac Pro Maintenance / Electricité ou un BTS. De nature autonome, vous appréciez les défis et les challenges. Vous faites preuve de confidentialité.</p>",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "E.Leclerc",
+      "address": "40000 Mont-de-Marsan",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57218946?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abedd18d46e986892bf535e",
+      "partner_label": "Meteojob",
+      "title": "Mécanicien(ne) en Machines Tournantes sous Pression en alternance H/F",
+      "description": "<p>Le GEIQ Industrie recrute, pour l'une de ses entreprises adhérentes sur Fos-sur-Mer, un(e) Mécanicien(ne) en Machines Tournantes sous Pression dans le cadre d'un contrat de professionnalisation ayant déjà une expérience dans la mécanique.</p> <p>Le mécanicien en machines tournantes sous pression intervient sur des opérations de maintenance préventive, corrective, d'installation ou d'amélioration d'équipements industriels.</p> <p>- Réaliser des opérations de maintenance préventive sur des équipements industriels</p> <p>- Diagnostiquer les dysfonctionnements et intervenir sur les opérations de maintenance corrective</p> <p>- Participer aux opérations de montage, démontage, contrôle et remise en état des équipements</p> <p>- Intervenir sur différents types de machines tournantes sous pression, notamment :</p> <p>- Pompes centrifuges</p> <p>- Pompes alternatives</p> <p>- Turbines à vapeur...</p> <p>- Veiller au respect des procédures qualité, sécurité et environnement en vigueur sur site</p> <p>- Participer à l'amélioration continue des équipements et installations</p> <p>- Intérêt marqué pour les domaines mécaniques et techniques</p> <p>- Bonne habileté manuelle</p> <p>- Rigueur, précision et soin dans l'exécution des tâches confiées</p> <p>- Sens des responsabilités et respect des consignes de sécurité</p> <p>- Capacité à travailler en équipe</p> <p>- Bonnes capacités de communication</p> <p>- Esprit d'initiative</p> <p>- Autonomie dans l'organisation du travail</p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien Monteur Mécanicien Industriel (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1310"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "13270 Fos-sur-Mer",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57205244?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abe6d19999d7ac15747a5bc",
+      "partner_label": "Veritone",
+      "title": "Approvisionneur F/H",
+      "description": "Eiffage Énergie Systèmes conçoit, réalise, exploite et maintient des systèmes et équipements en génies électrique, industriel, climatique et énergétique dans le respect des Hommes et de l'environnement.\r\nEiffage Énergie Systèmes propose une offre sur mesure pour les marchés de l'industrie, des infrastructures et réseaux, des villes et collectivités et du tertiaire.\r\n\r\nEiffage Énergie Systèmes, présente dans près de 50 pays, s'appuie sur l'expérience de plus de 33 000 collaborateurs et a réalisé un chiffre d'affaires de 5,9 milliards d'euros en 2023. Eiffage Énergie Systèmes anticipe les évolutions de ses clients en proposant des solutions innovantes et les accompagne dans leurs transitions numérique et bas carbone.\r\n\r\nIntégrer Eiffage Énergie Systèmes, c'est rejoindre une entreprise dynamique qui encourage l'initiative, valorise le potentiel créatif, développe les compétences de chacun et s'engage au quotidien en matière de responsabilité sociétale et environnementale.\r\n\r\nÊtre collaborateur d'Eiffage Énergie Systèmes, c'est vivre et faire vivre nos valeurs communes et une culture d'entreprise forte au sein d'un groupe dont plus de 80% des salariés sont actionnaires.\r\n\r\nEnvie de rejoindre une grande entreprise qui a tous les atouts d'une petite, un Groupe à l'esprit de famille unique.\r\n\r\n#EspritDeFamille #Together #TousDifférents #BasCarbone\n\nIntégré(e) au département Maintenance Tertiaire d'Eiffage Energie Systèmes - Aquitaine à Limoges (87) et rattaché(e) à la responsable administrative, vous aurez pour missions : \r\n\r\n \r\n\r\nLa saisie de commandes au près de fournisseurs\r\n\r\nGestion de la sous traitance dans un second temps\r\n\r\nPossibilité par la suite d'être amené à effectuer des negociations fournisseurs\r\n\r\nTravail en équipe",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "EIFFAGE ENERGIE SYSTEMES - GESTION & DEVELOPPEMENT",
+      "address": "78140 Vélizy-Villacoublay",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.aplitrak.com/?adid=U2FyYWguT1VMQURIRUREQVIuNzY5OTcuMTM2ODBAZWlmZmFnZS5hcGxpdHJhay5jb20",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
