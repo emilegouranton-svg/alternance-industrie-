@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:55:37.686785+00:00",
+  "generated_at": "2026-10-03T10:15:27.639960+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -31742,6 +31742,129 @@
       ],
       "contract_start": null,
       "apply_url": "https://www.aplitrak.com/?adid=U2FyYWguT1VMQURIRUREQVIuNzY5OTcuMTM2ODBAZWlmZmFnZS5hcGxpdHJhay5jb20",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ac02de9a962accea3855d84",
+      "partner_label": "France Travail",
+      "title": "Technicien de Maintenance en alternance (H/F)",
+      "description": "Le GEIQ INDUSTRIE 71 recrute, pour son entreprise adhérente FRAMATOME site de Saint-Marcel (71), 1 personne (H/F) pour effectuer un parcours en alternance de 12 mois en vue de les former au métier de Technicien(ne) de Maintenance (intégration prévue en janvier 2027).\n\nPOSTE SEDENTAIRE EN USINE, AUCUN GRAND DEPLACEMENT N'EST PREVU.\n\nUn parcours de formation sera mobilisé afin d'obtenir un TPM Technicien(ne) en Maintenance Industrielle (Titre Paritaire de la Métallurgie), reconnu dans toutes les entreprises de la métallurgie. \nLa formation sera dispensée par le Pôle Formation UIMM Bourgogne 21-71 de Chalon-sur-Saône (71).\n\nActivités confiées \n\nPréparation des interventions :\n- Préparer les documents et les conditions nécessaires (consignation, autorisation de travail, analyse de risque.)\n- Veiller au respect des exigences de sécurité et d'environnement\nDiagnostic et intervention :\n- Identifier et diagnostiquer les dysfonctionnements sur les équipements\n- Réaliser les opérations de maintenance corrective, préventive et améliorative\nContrôle et suivi :\n- Contrôler la qualité des interventions et signaler toute anomalie\n- Saisir les données de maintenance dans les outils informatiques (GMAO, etc.) ou dans la documentation de travail existante\nAmélioration continue :\n- Appliquer les standards d'excellence opérationnelle et d'amélioration continue\n- Participer à la préparation et à la réalisation des arrêts techniques\n- Appliquer les standards issus de la documentation technique\n\nProfil recherché \n\n- Formation CAP ou BEP technique souhaitée\n- Une première expérience en industrie serait un plus ou dans un métier mécanique\n- Sens de la rigueur, de la sécurité et du travail bien fait\n- Esprit d'équipe, entraide et goût pour les environnements techniques\n\nConditions \n\n- Salaire : barème légal en vigueur dans le cadre du contrat de professionnalisation ou d'apprentissage + primes diverses en fonction des conditions de travail (+22%) + 13ème mois + prime transport (forfait kilométrique mensuel) et intéressement selon conditions de l'entreprise\n- Rythme horaire : travail posté (4x8)\n\nMerci d'adresser votre candidature avant le 31 octobre 2026",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ INDUSTRIE 71",
+      "address": "71380 Saint-Marcel",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214SHKP",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ac02de7a962accea3855cd2",
+      "partner_label": "France Travail",
+      "title": "ELECTRICIEN INDUSTRIEL (H/F)",
+      "description": "Le GEIQ BTP Isère Drôme Ardèche recrute pour l'un de ses adhérents un Electricien Industriel ou Tertiaire (H-F) \n\nNotre adhérent est une PME Iséroise d'Electricité qui conçoit et réalise des travaux d'installations électriques (Tertiaire, Industrie...).\n\nVotre poste consiste à intervenir sur chantier et réaliser les tâches suivantes : \n- Lecture de plans, schémas électriques\n- Tirage de gaines / câbles\n- Pose de chemins de câbles\n- Pose et branchement d'appareillages\n- Câblage de coffrets électriques, armoires.\n(Cette liste est non exhaustive)\n\nLe Permis est exigé car vous serez amenés à vous déplacer pour les formations et ou les chantiers\n\nDébut du contrat : MI OCTOBRE 2026\nVous justifiez d'une expérience réussie d'au minimum 6 mois dans le BTP (mais les débutants sont acceptés) \nNiveau d'étude : CAP électricité (souhaité)\nLes Habilitations à jour sont un plus.\nQualification du poste : en fonction du profil\nFormation possible : Habilitations + modules métier\n\nVous avez un esprit d'équipe tout en étant autonome sur votre poste de travail. Vous êtes attirés par les métiers de l'électricité. Vous avez le sens de l'initiative. Vous êtes une personne rigoureuse et organisée dans votre travail.\nVous êtes habile, et précis.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ BTP ISERE DROME ARDECHE",
+      "address": "38200 Vienne",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214RRLC",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ac029d10bf0fd2b041b37e9",
+      "partner_label": "Les emplois de l'inclusion",
+      "title": "Technicien de maintenance (H/F) en alternance",
+      "description": "Le GEIQ INDUSTRIE 71 recrute, pour son entreprise adhérente FRAMATOME site de Saint-Marcel (71), 6 personnes (H/F) pour effectuer un parcours en alternance de 12 mois en vue de les former au métier de Technicien(ne) de Maintenance (intégration prévue en janvier 2027).\r\n\r\nPOSTE SEDENTAIRE EN USINE, AUCUN GRAND DEPLACEMENT N’EST PREVU.\r\n\r\nUn parcours de formation sera mobilisé afin d’obtenir un TPM Technicien(ne) en Maintenance Industrielle (Titre Paritaire de la Métallurgie), reconnu dans toutes les entreprises de la métallurgie. \r\nLa formation sera dispensée par le Pôle Formation UIMM Bourgogne 21-71 de Chalon-sur-Saône (71).\r\n\r\nActivités confiées\t\r\n\r\nPréparation des interventions :\r\n•\tPréparer les documents et les conditions nécessaires (consignation, autorisation de travail, analyse de risque…)\r\n•\tVeiller au respect des exigences de sécurité et d’environnement\r\n\r\nDiagnostic et intervention :\r\n•\tIdentifier et diagnostiquer les dysfonctionnements sur les équipements\r\n•\tRéaliser les opérations de maintenance corrective, préventive et améliorative\r\n\r\nContrôle et suivi :\r\n•\tContrôler la qualité des interventions et signaler toute anomalie\r\n•\tSaisir les données de maintenance dans les outils informatiques (GMAO, etc.) ou dans la documentation de travail existante\r\n\r\nAmélioration continue :\r\n•\tAppliquer les standards d’excellence opérationnelle et d’amélioration continue\r\n•\tParticiper à la préparation et à la réalisation des arrêts techniques\r\n•\tAppliquer les standards issus de la documentation technique",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ INDUSTRIE 71",
+      "address": "71100 Chalon-sur-Saône",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ac029d10bf0fd2b041b37e9/technicien-de-maintenance-h-f-en-alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6abfcc193c60124707e5a2ff",
+      "partner_label": "Talentplug",
+      "title": "Stagiaire Digitalisation des processus H/F",
+      "description": "Dans le cadre de notre développement, nous recherchons un(e) stagiaire de fin d'études pour accompagner nos équipes en tant que « Digitalisation des processus » en environnement nucléaire et réglementé.Vous serez intégré(e) à notre Siège de Genas (69) et accompagné(e) par la Responsable Méthodes.Au cours de votre stage, vous serez notamment amené(e) à :<br />\t\t\tAnalyser des processus actuels<br />\t\t<br />\t\t\tRecueillir les besoins et retours des équipes via des entretiens, ateliers ou observations.Cartographier les processus (ex. : schémas simples, diagrammes Mermaid, ou fiches descriptives).Identifier les acteurs, étapes, délais et outils utilisés actuellement.<br /><br /><br />\t\t<br />\t\t\tBenchmark des bonnes pratiques<br />\t\t<br />\t\t\tÉtudier les méthodologies de digitalisation (ex. : BPM, lean management).Analyser des cas d'usage similaires dans d'autres organisations (sans se limiter à des outils spécifiques).Synthétiser les tendances et enjeux liés à la digitalisation des processus.<br /><br /><br />\t\t<br />\t\t\tDocumentation et synthèse<br />\t\t<br />\t\t\tRédiger des fiches processus détaillées (objectifs, étapes, acteurs, durées, points bloquants).Créer une cartographie globale des processus analysés.Proposer une synthèse des besoins et des pistes d'amélioration (sans encore recommander d'outils).<br /><br /><br />\t\t<br />\t\t\tPréparation des prochaines étapes<br />\t\t<br />\t\t\tIdentifier les processus prioritaires à digitaliser (ex. : ceux qui sont les plus chronophages ou critiques).Lister les contraintes (réglementaires, techniques, humaines) à prendre en compte.<br /><br /><br />Pourquoi ce stage est fait pour toi ?Tu aimes décrypter des systèmes complexes et les rendre plus clairs.Tu es méthodique et tu aimes travailler sur des sujets transverses.Tu veux contribuer à des projets de transformation <br /> Vous êtes actuellement en dernière année d'école d'ingénieur ou de formation supérieure technique. Maîtrisez les outils bureautiques (Excel, PowerPoint, Word), avez une capacité à modéliser des processus (schémas simples, Mermaid, ou autres) et avez un intérêt pour les méthodes d'analyse (ex. : SWOT, 5M, diagramme d'Ishikawa).Savoir-être : Esprit d'analyse et de synthèse, curiosité pour comprendre les métiers et leurs enjeux, autonome et capacité à travailler en équipe",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "VALIANCE",
+      "address": "8 Rue Joseph Nicephore Niepce 69740 Genas",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-10-02T05:10:01.000Z",
+      "apply_url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=43cc8343-b362-46a6-a4f1-2694c8b5bdcc",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ac02de5a962accea3855c7a",
+      "partner_label": "France Travail",
+      "title": "Chef d'équipe (H/F)",
+      "description": "Entreprise \n\nCréée en 2002 par Franck Grimonprez, LOG'S est une entreprise spécialisée dans la prestation logistique sur-mesure pour les secteurs du e-commerce, du retail et de l'industrie.\n\nLOG'S offre à tous ses clients un accompagnement quotidien, global et personnalisé pour répondre à toutes leurs problématiques de logistique, de transport, d'investissement, d'immobilier, de process et d'innovation.\n\nLOG'S compte aujourd'hui 3 300 collaborateurs, 46 sites en France et à l'international pour une surface exploitée de plus de 1 300 000 m² d'entrepôts. \n\n \n\nPoste \n\nContrôler les activités logistiques\n\n  * Adapter les moyens et ressources nécessaires à la charge de travail dans le respect du budget et des engagements contractuels clients\n  * Gérer et adapter les plannings de son équipe ainsi que les absences (CP, etc) selon les consignes en vigueur\n  * Suivre et animer des KPI (sécurité, productivité, qualité, réactivité,)\n  * Etre garant de la qualité de service, du respect des process et de la production\n\n\n\nAnimer la sécurité\n\n  * Garantir la Sécurité en faisant appliquer le règlement intérieur et les consignes de sécurité\n  * Participer à l'analyse et la réduction des accidents du travail\n\n\n\nManager les équipes\n\n  * Fédérer et animer au quotidien son équipe afin de garantir la performance de celle-ci : veille au respect de la réglementation du travail (durée du travail, repos, pauses etc), gestion des activités et des temps, mise en place de communication managériale de proximité, (brief, réunion), gestion de situations conflictuelles\n  * Accueillir les nouveaux collaborateurs et former l'équipe afin d'être garant du respect des process\n  * Proposer des actions d'amélioration continue (évolution, innovation et optimisation les procédures et outils)\n\nProfil \n  * Capacité managériale\n  * Rigueur\n  * Réactivité\n  * Ecoute active\n  * Autonomie\n  * Capacité d'adaptation\n  * Goût de la performance\n  * Connaissance de WMS\n\n\n\nFormation minimum niveau Bac à Bac +2 et une expérience de 2 ans minimum en management d'équipe.\n\nChez Log's, nous encourageons la diversité au sein de nos équipes et nous engageons à reconnaître et promouvoir tous les talents. Nous garantissons un process de recrutement dénué de toutes formes de discrimination.   \n\nLog's s'engage également en faveur de l'insertion professionnelle et soutient ses collaborateurs en situation de handicap tout au long de leur parcours professionnel. N'hésitez pas à en discuter avec nous !",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "LOG'S",
+      "address": "13710 Fuveau",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://jobaffinity.fr/apply/h09yoqldkvwexjxdyq?src=FranceTravail%20API",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ac02de7a962accea3855cd7",
+      "partner_label": "France Travail",
+      "title": "Approvisionneur d'emballages en industrie - Alternance H/F (H/F)",
+      "description": "Tu aimes les projets concrets, les outils informatiques et les environnements où il y a toujours quelque chose à améliorer ?\nTu es curieux(se), organisé(e), rigoureux(se) et surtout souhaites rejoindre une entreprise à taille humaine où tu pourras rapidement être responsabilisé(e) et participer à un projet structurant pour l'entreprise ?\nAlors, cette alternance est faite pour toi !\n\nChez Les Fermes Larrère, nous sommes actuellement engagés dans un projet de changement d'ERP. Tu intégreras notre équipe afin de nous accompagner dans la mise en place du nouvel outil et dans la gestion quotidienne de nos achats et approvisionnements en emballages.\nTu seras au cœur d'un projet concret, avec des missions variées mêlant gestion des données, achats, approvisionnement, suivi des stocks et relation fournisseurs.\n\nTes principales missions\n    - Référencer les emballages et les produits dans le nouvel ERP : création des articles, mise à jour des informations, tarifs, fournisseurs, etc. ;\n    - Participer à la reprise, au contrôle et à la fiabilisation des données avant leur intégration dans le nouvel ERP ;\n    - Assurer le suivi des achats d'emballages : commandes, livraisons, réceptions et éventuels écarts ;\n    - Saisir et suivre les réceptions d'emballages dans l'ERP ;\n    - Réaliser les inventaires physiques des emballages \n    - Effectuer le rapprochement des factures fournisseurs avec les commandes, réceptions et données de l'ERP ;\n    - Participer au suivi du référencement des fournisseurs et à la mise à jour des documents nécessaires ;\n    - Participer au traitement et au suivi des non-conformités emballages : recherche d'informations, comptes rendus et suivi des actions ;\n    - Participer à l'automatisation et à l'amélioration du suivi des stocks et des approvisionnements ;\n\nTu prépares un Bac+3 à Bac+5 en Logistique, Approvisionnement ou Supply Chain - C'est parfait.\nTu as une première expérience en achats, approvisionnement ou logistique - C'est encore mieux. \n\nNous recherchons avant tout une personne :\n     - Curieuse et motivée\n     - Organisée et rigoureuse\n     - À l'aise avec les outils informatiques et Excel\n     - Intéressée par les achats, l'approvisionnement et la logistique\n     - À l'aise avec les chiffres et le suivi de données\n     - À l'aise pour travailler avec différents interlocuteurs\n\nTu souhaites apprendre, prendre des responsabilités et participer à un projet qui aura un impact concret sur le fonctionnement de l'entreprise ?\nRejoindre Les Fermes Larrère, c'est l'occasion de mettre en pratique tes connaissances sur un projet concret, au sein d'une entreprise à taille humaine.\nFonce ! \nEnvoie-nous ton CV et ta lettre de motivation",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "L'ATELIER DES PRODUCTEURS",
+      "address": "40410 Liposthey",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214SQJV",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
