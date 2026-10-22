@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:52:33.130354+00:00",
+  "generated_at": "2026-10-22T09:52:31.675960+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -36200,6 +36200,223 @@
       "apply_url": "https://r.holeest.com/redirect?jd_token=zqQFsp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84613514.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bdistribution%26utm_content%3Dfluxbonnealternance%26utm_term%3D84613514",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ad9d72d1c256e6f3bee76d8",
+      "partner_label": "offres_emploi_lba",
+      "title": "Technicien / Technicienne de maintenance en équipements industriels",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "AZUR LINGE SERVICE",
+      "address": "120 AVENUE JEAN MAUBERT 06130 GRASSE",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-10-22T09:28:13.028Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad9d72d1c256e6f3bee76d8/technicien-technicienne-de-maintenance-en-équipements-industriels",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93a13715e4cba3924e356",
+      "partner_label": "France Travail",
+      "title": "Alternant(e) électricien(ne) (H/F)",
+      "description": "Le GEIQ BTP 23 (Groupement d'Employeurs pour l'Insertion et la Qualification du Bâtiment et des Travaux Publics de la Creuse) recherche pour l'une de ses entreprises adhérentes située sur le secteur de Gouzon, un(e) alternant(e) en électricité.\n\nProfil recherché\n- Vous êtes motivé(e), sérieux(se), ponctuel(le) \n- Vous avez déjà effectué un ou plusieurs stages en entreprise dans le secteur du bâtiment \n- Le permis B est souhaité, afin de faciliter les déplacements sur les différents chantiers.\n\nEncadré(e) par des professionnels expérimentés, vous participerez à la réalisation de différents travaux d'électricité lors de vos périodes d'apprentissage en entreprise. \n\nType de contrat\n- Contrat d'apprentissage ou contrat de professionnalisation (de 12 à 24 mois)\n- Poste à pourvoir dès que possible.\n- Rémunération selon la grille légale \n\nVous souhaitez apprendre un métier d'avenir ? Rejoignez-nous et participez à des projets variés et enrichissants.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "GRP EMPL INSERT QUAL BAT ET TP CREUSE",
+      "address": "23230 Gouzon",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215MWTY",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93a12715e4cba3924e320",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance industrielle (H/F)",
+      "description": "Vous souhaitez vous former sur le métier d'Agent / Technicien de maintenance (h/f), nous vous proposons un parcours de formation de 315 h dans le cadre d'un parcours POE (Période Opérationnelle à l'Emploi) en centre de formation qui sera suivi d'un contrat de professionnalisation d'un an.\n\nEnvie de rejoindre un Groupe à taille humaine, engagé et passionné ?\nVenez rejoindre l'Equipe de KWATT BOIS !\n\nRattaché au Responsable maintenance, le Technicien/Technicienne de maintenance travaille entre l'atelier de maintenance et les ateliers de production. Il/Elle doit-être disponible et mobile pour répondre aux besoins et aléas de la maintenance.\n\nMissions principales :\nMaintenance et entretien\n- Suivre et respecter le plan de maintenance et le planning d'interventions\n- Monter, Installer, entretenir et surveiller les équipements\n- Effectuer les interventions de maintenance préventive\n- Intervenir rapidement en cas de panne\n- Effectuer les réparations curatives pour éviter que la panne ne se reproduise\n- Contrôler le fonctionnement après l'intervention\n- Renseigner le supports pour la traçabilité\n- Participer à l'inventaire annuel des marchandises.....\n\nCette formation s'adresse idéalement à des candidats avec des compétences en mécanique, électricité ou des personnes dotées d'une forte aptitude au bricolage (polyvalence, habileté manuelle et sens de la réparation), à des professionnels issus du secteur de l'industrie ou justifiant d'une expérience en maintenance de premier niveau.\n\nPostulez à l'offre ou inscrivez-vous sur \"Mes Evènements Emploi\" : \nhttps://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/777789/boostez-votre-carriere-dans-la-maintenance-industrielle-10-postes-a-pourvoir-en-ariege-pamiersription \"Mes Evènements Emploi\"",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SARL KWATT BOIS",
+      "address": "09000 Saint-Paul-de-Jarrat",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215MSHC",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93a12715e4cba3924e322",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne de maintenance en équipements industrie (H/F)",
+      "description": "Vous souhaitez vous former sur le métier d'Agent / Technicien de maintenance (h/f), nous vous proposons un parcours de formation de 315 h (dont 210 h en centre de formation) dans le cadre d'un parcours POE (Période Opérationnelle à l'Emploi) suivi d'un contrat de professionnalisation d'un an. \n\nEnvie de rejoindre un Groupe à taille humaine, engagé et passionné ?\nVenez rejoindre Les Bois Ariégeois !\n\nRattaché au Responsable maintenance, le Technicien/Technicienne de maintenance travaille entre l'atelier de maintenance et les ateliers de production. Il/Elle doit-être disponible et mobile pour répondre aux besoins et aléas de la maintenance.\n\nMissions principales :\nMaintenance et entretien \n- Suivre et respecter le plan de maintenance et le planning d'interventions\n- Monter, Installer, entretenir et surveiller les équipements\n- Effectuer les interventions de maintenance préventive\n- Intervenir rapidement en cas de panne\n- Effectuer les réparations curatives pour éviter que la panne ne se reproduise\n- Contrôler le fonctionnement après l'intervention\n- Renseigner le supports pour la traçabilité\n- Participer à l'inventaire annuel des marchandises.....\n\nCette formation s'adresse idéalement à des candidats avec des compétences en mécanique, électricité ou des personnes dotées d'une forte aptitude au bricolage (polyvalence, habileté manuelle et sens de la réparation), à des professionnels issus du secteur de l'industrie ou justifiant d'une expérience en maintenance de premier niveau.\n\nPostulez à l'offre ou inscrivez-vous sur \"Mes Evènements Emploi\" : \nhttps://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/777789/boostez-votre-carriere-dans-la-maintenance-industrielle-10-postes-a-pourvoir-en-ariege-pamiersription \"Mes Evènements Emploi\"",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "BOIS ARIEGEOIS",
+      "address": "09000 Saint-Paul-de-Jarrat",
+      "contract_type": [
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215MRSR",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93a13715e4cba3924e35a",
+      "partner_label": "France Travail",
+      "title": "Electricien / Electricienne",
+      "description": "Au sein de notre entreprise, nous vous proposons la possibilité de réaliser une formation avec la Chambre de Métiers et de l'Artisanat de Boulazac pour obtenir le CAP électricien sur 24 mois en apprentissage",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "24400 Saint-Front-de-Pradoux",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215MJRL",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93a13715e4cba3924e35c",
+      "partner_label": "France Travail",
+      "title": "Electricien / Electricienne",
+      "description": "Au sein de notre entreprise, nous vous proposons la possibilité de réaliser une formation avec la Chambre de Métiers et de l'Artisanat de Boulazac pour obtenir le CAP électricien sur 24 mois en apprentissage",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "24380 Vergt",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215MJKX",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93ada2b0b33f74bce6320",
+      "partner_label": "Meteojob",
+      "title": "Technicien de maintenance en alternance F/H",
+      "description": "<p>  <strong>✨Nous sommes…</strong> </p> <p>  <strong>Auchan Retail France, une entreprise de distribution de plus de 50 000 collaborateurs au service de millions de clients chaque année.</strong> </p> <p>Ce que nous voulons, c'est aider nos clients à bien manger et vivre mieux, tout en préservant la planète.</p> <p>Que l'on soit en entrepôt, en magasin ou sur des fonctions support, notre point commun à tous, c'est de faire en sorte que nos clients aient plaisir à faire leurs courses chez nous.</p> <p>Parce que nos collaborateurs sont aussi nos premiers clients, nous veillons chaque jour à leur bien-être et leur évolution professionnelle.</p> <p>  <strong>Vous avez envie de…</strong> </p> <ul>  <li>   <strong>Assurer</strong>   le bon fonctionnement, l'entretien et le dépannage des équipements (électricité, matériels de production, froid alimentaire, engins de manutention, CVC, groupe électrogène...) et du patrimoine immobilier (plomberie, évacuation, soudure, étanchéité toiture etc...).  </li> </ul> <ul>  <li>   <strong>Réaliser</strong>   des opérations de maintenance préventive et apporter les actions correctives.  </li> </ul> <ul>  <li>   <strong>Détecter</strong>   les risques de panne et analyser les anomalies.  </li> </ul> <ul>  <li>   <strong>Participer</strong>   à la vie du magasin, grâce à un esprit d'équipe et de proximité avec vos collègues, votre manager, et les équipes du magasin de façon plus générale.  </li> </ul> <p>  <strong>Vous êtes…</strong> </p> <p>En formation CAP, BP ou Bac Pro Electricité ou Electrotechnique.</p> <p>  Le poste de  <strong>Technicien de maintenance en alternance F/H</strong>  est fait pour vous. </p> <p>  <strong>Rencontrons-nous !</strong> </p>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Technicien de Maintenance Multitechnique (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 12 726 € - 15 892 €\r\n\r\nProfil: <p>  <strong>Nous vous offrons les avantages suivants :</strong> </p> <p>• Une remise sur achat chez Auchan</p> <p>• Des primes de participation et d'intéressement selon la performance annuelle de l'entreprise</p> <p>• Une prime annuelle équivalente à un 13e mois</p> <p>  <em>Chez Auchan, nous sommes convaincus que la diversité fait la richesse d'une entreprise. Nous étudions à compétences égales chaque candidature et toutes nos offres peuvent faire l'objet d'aménagements spécifiques en cas de handicap - #tous égaux, tous différents !</em> </p> <p>  <strong>Vous voulez en savoir plus sur nos engagements ?</strong> </p> <p>Nous nous mobilisons au quotidien autour de 4 piliers de responsabilité sociétale et environnementale majeurs : Offre responsable, Environnement, Solidarité, Humain.</p> <p>  Rendez-vous sur : ***  <em>.</em> </p>",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "Auchan Retail France",
+      "address": "Grasse (06)",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57632862?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad93ae12b0b33f74bce64b7",
+      "partner_label": "Kelio",
+      "title": "Technicien de maintenance en alternance F/H",
+      "description": "<p><strong>✨Nous sommes…</strong></p><p><strong> </strong></p><p><strong>Auchan Retail France, une entreprise de distribution de plus de 50 000 collaborateurs au service de millions de clients chaque année.</strong></p><p>Ce que nous voulons, c’est aider nos clients à bien manger et vivre mieux, tout en préservant la planète.</p><p>Que l’on soit en entrepôt, en magasin ou sur des fonctions support, notre point commun à tous, c’est de faire en sorte que nos clients aient plaisir à faire leurs courses chez nous.</p><p>Parce que nos collaborateurs sont aussi nos premiers clients, nous veillons chaque jour à leur bien-être et leur évolution professionnelle.</p><p><br /></p><p><strong>📌Vous avez envie de…</strong></p><p><br /></p><ul><li><strong>Assurer </strong>le bon fonctionnement, l'entretien et le dépannage des équipements (électricité, matériels de production, froid alimentaire, engins de manutention, CVC, groupe électrogène...) et du patrimoine immobilier (plomberie, évacuation, soudure, étanchéité toiture etc...). </li></ul><p><br /></p><ul><li><strong>Réaliser </strong>des opérations de maintenance préventive et apporter les actions correctives. </li></ul><p><br /></p><ul><li><strong>Détecter</strong> les risques de panne et analyser les anomalies.</li></ul><p> </p><ul><li><strong>Participer </strong>à la vie du magasin, grâce à un esprit d'équipe et de proximité avec vos collègues, votre manager, et les équipes du magasin de façon plus générale.</li></ul><p><br /></p><p><strong>🎯Vous êtes…</strong></p><p><br /></p><p>En formation CAP, BP ou Bac Pro Electricité ou Electrotechnique.</p><p><br /></p><p>Le poste de<strong> Technicien de maintenance en alternance F/H </strong>est fait pour vous.</p><p><strong>Rencontrons-nous !</strong></p><p><strong>📢Nous vous offrons les avantages suivants :</strong></p><p><br /></p><p>• Une remise sur achat chez Auchan</p><p>• Des primes de participation et d’intéressement selon la performance annuelle de l’entreprise</p><p>• Une prime annuelle équivalente à un 13e mois</p><p><br /></p><p><em>Chez Auchan, nous sommes convaincus que la diversité fait la richesse d’une entreprise. Nous étudions à compétences égales chaque candidature et toutes nos offres peuvent faire l’objet d’aménagements spécifiques en cas de handicap - #tous égaux, tous différents !</em></p><p><br /></p><p><strong>🌳Vous voulez en savoir plus sur nos engagements ?</strong></p><p>Nous nous mobilisons au quotidien autour de 4 piliers de responsabilité sociétale et environnementale majeurs : Offre responsable, Environnement, Solidarité, Humain.</p><p>Rendez-vous sur : https://www.auchan-agit.fr<em>. </em></p><p> </p>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "Auchan Hypermarché SAS",
+      "address": "Route de Cannes 06130 Grasse",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "1970-01-01T00:00:00.000Z",
+      "apply_url": "https://auchan.talentview.io/jobs/k6a40s?source=la_bonne_alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ad9371e2b0b33f74bce197e",
+      "partner_label": "Hellowork",
+      "title": "Alternant Maintenance Industrielle Methodes H/F",
+      "description": "Faites mijoter votre avenir chez Marie Surgelés !\n\nVenez mettre votre talent au service du goût chez Marie Surgelés où chaque collaborateur est un ingrédient essentiel de notre recette du succès.\n\nChez Marie Surgelés, nous concoctons des recettes qui régalent des millions de consommateurs, vous êtes d'ailleurs déjà peut-être l'un d'entre eux ?\n\nAu rayon surgelés, impossible de passer à côté de nos savoir-faire ! Présents dans toutes les grandes et moyennes surfaces, sous la marque Marie ou sous celles des distributeurs, nous faisons partie du quotidien culinaire des Français depuis plus de 50 ans.\n\nAujourd'hui, nous vous proposons de passer de l'autre côté du fourneau en contribuant à créer les plats gourmands de demain, qui facilitent la vie et régalent les papilles.\n\nNous rejoindre, c'est être accueilli dans une entreprise à taille humaine, composée de 3 sites de production situés dans la zone Poitou/Pays de la Loire et rassemblant près de 800 collaborateurs. Mais c'est aussi participer à la croissance d'une entreprise apprenante et formatrice, contribuer au développement de son territoire et participer à la réduction de son empreinte carbone.\n\nMarie Surgelés est une filiale du Groupe LDC, groupe familial spécialiste de la volaille et du traiteur et reconnu pour ses marques emblématiques : Loué, Le Gaulois, Maître Coq, Marie, Pierre Martinet ou encore Traditions d'Asie.\n\nRejoindre LDC, c'est rejoindre un groupe solide et en pleine croissance, aux 26 700 collaborateurs et 6,3 milliards de chiffre d'affaires en 2024/2025.\n\nPrêt à écrire avec nous la prochaine page de notre histoire culinaire ?\n\nAu sein du service Maintenance Industrielle, encadré(e) par un technicien expérimenté, vous serez amené(e) à :\n\n- Participer au diagnostic et à la résolution de pannes électriques et automatisées sur les installations industrielles\n- Contribuer à la maintenance préventive et corrective des équipements\n- Participer à l'amélioration des systèmes automatisés des lignes de production\n- Réaliser des tests, réglages et mises en service d'équipements automatisés\n- Intervenir sur les armoires électriques, capteurs, variateurs et automates industriels\n- Participer à l'analyse des dysfonctionnements et proposer des actions correctives dans le cadre de projets d'optimisation\n- Mettre à jour la documentation technique et les schémas électriques\n- Contribuer aux démarches d'amélioration continue et à l'optimisation des process industriels",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "SOCIETE L.D.C.",
+      "address": "Rue Saint Laurent 72300 Sablé-sur-Sarthe",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=AfIMLs&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84651900.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D84651900",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ad937212b0b33f74bce1a4e",
+      "partner_label": "Hellowork",
+      "title": "Alternant Service Méthodes H/F",
+      "description": "Vous aidez l'usine à réduire les surconsommations de matières et à fiabiliser les données de production.  \n  \nSous la responsabilité du Responsable Méthodes Industrielles, vous travaillez avec le Contrôle de Gestion, la Production et la Gestion des stocks Matières Premières.  \n  \nVos missions s'articulent autour de quatre axes :  \n  \n- Enquêter sur le terrain et identifier les sources de surconsommation.  \n- Analyser les processus et ajuster les cartes de contrôle sur ligne.  \n- Rédiger les protocoles de tests, conduire les essais et évaluer les résultats.  \n- Auditer les bonnes pratiques liées aux coûts de production.  \n- Accompagner les équipes sur les consommations et les stocks dans l'ERP.  \n  \nVous contribuez ainsi à sécuriser les coûts et à améliorer les pratiques sur ligne.\n\nNotre usine est située à Condat sur Trincou en Dordogne.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "MADEMOISELLE DESSERTS FRANCE",
+      "address": "24530 Condat-sur-Trincou",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=AbQeo8&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84649503.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D84649503",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
     }
   ]
 }
