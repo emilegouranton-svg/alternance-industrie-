@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:03:50.248194+00:00",
+  "generated_at": "2026-10-29T11:20:23.971245+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -36883,6 +36883,120 @@
       ],
       "contract_start": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=Bz2XL9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84845200.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84845200",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6ae282a8bfbdb64c1a6a095c",
+      "partner_label": "France Travail",
+      "title": "Ingénieur thermicien / Ingénieure thermicienne en industrie (H/F)",
+      "description": "Description du poste :\n\nVous intégrerez notre Bureau d'Études Techniques et rejoindrez le pôle Électricité. Vous participerez à la conception d'installations électriques courants forts et courants faibles performantes, connectées et sûres, en lien avec les équipes CVC et thermique. Vos missions seront les suivantes Conception et dimensionnement CFO bilans de puissance choix du raccordement (tarif jaune ou vert, poste HTA/BT dimensionnement des TGBT et des tableaux divisionnaires calculs de sections, de chutes de tension, de courants de court-circuit et de sélectivité éclairage normal et de sécurité groupes électrogènes et onduleurs IRVE.\n* Conception CFA système de sécurité incendie (SSI, catégories A à E contrôle d'accès et vidéoprotection intrusion précâblage VDI et réseaux informatiques interphonie architecture GTB/GTC (KNX, BACnet, Modbus Énergies renouvelables : études photovoltaïques en autoconsommation ou en revente, raccordement et stockage.\n* Simulation et notes de calcul : notes de calcul Caneco BT ou équivalent, études d'éclairement Dialux, schémas unifilaires et synoptiques.\n* Production des livrables plans d'implantation CFO/CFA schémas électriques CCTP et DPGF analyse des offres et rapports d'ACT VISA des documents d'exécution.\n* Suivi de chantier : participation aux réunions (DET), aux OPR et à la réception (AOR Veille normative et réglementaire NF C 15-100, NF C 14-100, NF C 13-100 et NF C 13-200 règlement de sécurité ERP et IGH NF S 61-931 et suivantes (SSI Code du travail décret tertiaire et décret BACS RE 2020.\n* Innovation et R&amp;D : projets IoT, smart grids, pilotage énergétique, monitoring et intégration de l'IA.\n\nDescription du profil :\n\nFormation***Étudiant(e) en 4e ou 5e année d'école d'ingénieur (spécialité génie électrique, électrotechnique ou énergétique) ou formation équivalente.\n* Rythme d'alternance : de préférence 3 jours en entreprise et 2 jours en formation.\n\nCompétences techniques***Bonnes bases en électrotechnique, distribution électrique BT/HTA, protection des personnes et des biens, automatismes et réseaux de communication.\n* Compréhensions des phases d'un projet en loi MOP (de l'appel d'offre à la réception du projet)\n* Maîtrise d'AutoCAD. Caneco BT, Dialux evo, Revit MEP, PVsyst, See Electrical et ElecCalc sont des atouts. Une formation complémentaire est possible en interne.\n* Connaissance des normes NF C 15-100 et NF C 14-100, du règlement de sécurité ERP (types et catégories) et des normes SSI, ainsi que des enjeux du smart building et des énergies renouvelables.\n* Expérience appréciée : stage ou projet en bureau d'études électricité, CVC, thermique\n\nQualités personnelles Curiosité technique et appétence pour l'innovation (IoT, smart energy, R&amp;D, IA Rigueur, autonomie et esprit d'analyse.\n* Capacité à travailler en équipe pluridisciplinaire (ingénieurs, techniciens, clients Sensibilité aux enjeux de la transition énergétique et de l'efficacité des bâtiments.\n\n\nConditions de l'Alternance Type de contrat : Apprentissage***Durée : 12 à 24 mois\n* Rémunération : Selon la grille légale de l'alternance de la convention SYNTEC, avec avantages complémentaires Prise en charge des frais de transport à 50% (ou titre de transport Tickets-restaurant de 13€ à 50 Mutuelle Formation interne et accompagnement par un tuteur dédié Accès à des outils et technologies innovants (plateformes de monitoring énergétique, logiciels smart building Localisation : Paris 5e. Déplacements à prévoir en Europe et télétravail occasionnel possible selon les missions.\n\nIntégration possible en CDI à l'issue de l'alternance pour les profils performants.\n\nEn plus de votre CV, et afin d'évaluer votre profil, merci de joindre à votre candidature les éléments suivants Calendrier et programme de cours pour l'année en cours\n* Contacts de référence (mail et/ou tel) de vos expériences professionnelles passées ou en cours et contact administratif de votre établissement de formation***Courte présentation des tâches réalisées au cours des projets sur lesquels vous avez travaillé en précisant les logiciels ou services web utilisés la fonction du bâtiment du projet concerné la phase (au sens de la commande publique : Esquisse, Diag, Avant-Projet Sommaire, PRO-DCE, ACT, EXE, VISA etc)",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1206"
+      ],
+      "created_at": null,
+      "company_name": "EUROELEC-SMART ENERGY",
+      "address": "75009 Paris 9e Arrondissement",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://annoncesatlas.opco-atlas.fr/jobads/114410?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6ae30063bbefc38a6ceee428",
+      "partner_label": "offres_emploi_lba",
+      "title": "Electromécanicien / Electromécanicienne de maintenance d'installations électriques",
+      "description": "Effectue la maintenance préventive ou corrective d'équipements ou d'installations électriques, à partir de schémas électriques ou de plans d'implantation, selon les règles de sécurité et la réglementation. Peut effectuer des opérations d'installation ou de modification de matériels électriques. Peut cordonner une équipe.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "PCAS",
+      "address": "444 CHEMIN DE LA STATION 61410 RIVES D'ANDAINE",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-10-29T08:14:27.972Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae30063bbefc38a6ceee428/electromécanicien-electromécanicienne-de-maintenance-d-installations-électriques",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ae224f8bbefc38a6cee9020",
+      "partner_label": "offres_emploi_lba",
+      "title": "Electromécanicien / Electromécanicienne de maintenance industrielle",
+      "description": "Le Technicien de maintenance industrielle est responsable de la performance et de la sécurité des équipements industriels. Assure la maintenance préventive et corrective des machines et équipements industriels Diagnostique les pannes et réalise les réparations nécessaires Optimise les processus de maintenance pour améliorer la fiabilité des équipements Intervient en urgence sur les équipements pour minimiser les arrêts de production Rédige des rapports de maintenance et met à jour la documentation technique Forme et assiste les opérateurs pour une meilleure utilisation des machines",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "EMIG EQUIPEMENTS",
+      "address": "12 CHEMIN DE ROUGEMONT 39100 FOUCHERANS",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-10-28T16:38:16.397Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae224f8bbefc38a6cee9020/electromécanicien-electromécanicienne-de-maintenance-industrielle",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6ae27fa9ec4f5594ab3fbd0a",
+      "partner_label": "Hellowork",
+      "title": "Opérateur de Fabrication H/F",
+      "description": "Vos missions principales, sous la responsabilité du tuteur :  \n  \n * Piloter les outils de fabrication (cisailles, marqueuses, fours, bancs d'oxycoupage, ponts roulants, etc...),  \n * Contrôler l'aspect des produits, d'épaisseur et dimensionnel,  \n * Contrôler la planéité des tôles,  \n * Petites interventions mécaniques / Réglages.",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "GEIQ MI GESMI",
+      "address": "59760 Grande-Synthe",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=BJKjDl&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84881097.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D84881097",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6ae31021bbefc38a6ceef6d1",
+      "partner_label": "offres_emploi_lba",
+      "title": "Logisticien / Logisticienne",
+      "description": "Planifie, organise et contrôle tout ou partie des opérations logistiques (réception, stockage, préparation de commandes, approvisionnement, expédition de marchandises, produits, ...) d'un site (plate-forme logistique, unité de production, ...) ou d'un service, selon les impératifs (délais, qualité, coûts, ...), la réglementation et les règles d'hygiène et de sécurité. Peut participer à la réalisation d'opérations logistiques et intervenir sur un domaine spécialisé (gestion des stocks, approvisionnement,...). Peut coordonner l'activité d'une équipe.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "LAM",
+      "address": "44 AVENUE DU 8 MAI 1945 92390 VILLENEUVE LA GARENNE",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-10-29T09:21:37.758Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae31021bbefc38a6ceef6d1/logisticien-logisticienne",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
