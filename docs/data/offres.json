@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:45:01.028388+00:00",
+  "generated_at": "2026-11-07T11:33:19.155342+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -32471,7 +32471,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=DA4u25&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=DPSXtw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
       "sector_id": "industrie_scientifique",
       "sector_label": "Industrie scientifique / R&D"
     },
@@ -37615,6 +37615,122 @@
       ],
       "contract_start": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=DyfP2e&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85201833.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85201833",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6aee602acc766074572b6b94",
+      "partner_label": "France Travail",
+      "title": "Alternant(e) en Maintenance Industrielle (H/F)",
+      "description": "Nous recrutons notre Alternant(e) en Maintenance Industrielle (F/H). \n\nRattaché(e) au Responsable Maintenance, vous participerez activement au bon fonctionnement de nos installations et serez en charge des missions suivantes :\n\n- Assurer le suivi rigoureux de vos activités via notre logiciel de GMAO (saisie des comptes-rendus, gestion du stock de pièces détachées),\n- Se familiariser avec les normes de sécurité et les réglementations en vigueur pour garantir un environnement de travail sûr,\n- Identifier et analyser la cause des pannes et déterminer les actions à mener,\n- Réaliser les visites d'inspection et les opérations de maintenance planifiées (vidanges, graissage, contrôle d'usure) pour éviter les arrêts de production et assurer la sécurité des équipements,\n- Être force de proposition sur les améliorations à apporter pour faire évoluer nos pratiques en termes de sécurité, qualité et productivité.\n\nProfil recherché :\n\n- Vous préparez une formation type BTS en Maintenance Industrielle/Mécaniques et Automatismes Industriels, ou équivalent\n- Rigoureux(se), méthodique et doté(e) d'un bon esprit d'équipe\n- Capable de travailler de manière précise, en respectant les normes de sécurité et les procédures de maintenance\n\nAutres informations :\n\nLocalisation : Mercurol Veaunes (26600)\nContrat : Alternance\nDébut : dès que possible\nRémunération : légale selon âge et contrat\nAvantage : repas à la table d'hôtes, tarifs sur nos vins",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "M CHAPOUTIER",
+      "address": "26600 Mercurol-Veaunes",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://chapoutier-envrai-recrutement.fr/fr/recrutement/alternante-en-maintenance-industrielle-f-h/592309725/details",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aee5c2ecc766074572b676f",
+      "partner_label": "Nos Talents Nos Emplois",
+      "title": "CAP ELECTRICIEN F/H",
+      "description": "• Réalisation de travaux d'installation électrique en habitat et tertiaire • Tirage de câbles et pose de chemins de câbles • Installation d'appareillages électriques (prises, interrupteurs, luminaires) • Raccordement de tableaux électriques • Participation à l'installation de pompes à chaleur et équipements énergétiques • Contrôle et maintenance des installations • Respect des règles de sécurité sur chantier\r\n\r\nSecteur: Enseignement, Formation\r\n\r\nPoste: Electricien (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: À partir de 500 € par an\r\n\r\nProfil: <p>Profil compétent et ambitieux</p> <p>Travail manuel</p> <p>Travail en équipe</p> <p>Lecture de plans</p> <p>Formation : CAP ELECTRICITE à la SEPR de Lyon</p>",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "SEPR",
+      "address": "69380 Lissieu",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-12-06T00:00:00.000Z",
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16717097?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aee5d2dcc766074572b68d8",
+      "partner_label": "Hellowork",
+      "title": "Alternant Technicien de Mise en Service SSI - Saintes H/F",
+      "description": "Rejoignez un acteur majeur de la sécurité incendie\n\nVous souhaitez exercer un métier technique, concret et utile, qui contribue chaque jour à la protection des personnes et des bâtiments ?\n\nChez DEF, nous concevons, installons et maintenons des systèmes de sécurité incendie sur des sites variés : hôpitaux, sites industriels, immeubles tertiaires, établissements recevant du public, plateformes logistiques ou encore infrastructures stratégiques.\n\nDans le cadre de notre développement, nous recherchons un(e) Technicien(ne) de Mise en Service SSI en alternance afin d'accompagner nos équipes sur le terrain et d'acquérir progressivement une véritable expertise dans le domaine de la sécurité incendie.\n\nVotre mission\n\nAccompagné(e) par un tuteur expérimenté, vous participerez à toutes les étapes permettant la mise en fonctionnement des installations de sécurité incendie :\n\n- Réaliser les opérations de programmation et de paramétrage des équipements SSI.\n- Effectuer les essais et les tests de bon fonctionnement.\n- Participer à la mise en service des installations chez nos clients.\n- Contrôler la conformité des systèmes installés.\n- Diagnostiquer les éventuels dysfonctionnements et contribuer à leur résolution.\n- Rédiger les comptes-rendus d'intervention.\n- Collaborer avec les équipes travaux, maintenance et les clients.\n\nAu fil de votre alternance, vous gagnerez en autonomie et développerez des compétences recherchées sur le marché.\n\nVotre profil\n\nVous préparez une formation de niveau Bac +2 à Bac +3 dans les domaines de l'électrotechnique ou de l'électronique\n\nVous êtes :\n\n Curieux(se) et attiré(e) par les environnements techniques\n\n Rigoureux(se) et méthodique\n\n À l'aise dans la recherche de solutions\n\n Doté(e) d'un bon relationnel\n\n Motivé(e) à apprendre un métier de terrain\n\nLe permis B est souhaité pour les déplacements sur les différents sites clients.\n\nPourquoi nous rejoindre ?\n\n- Une alternance professionnalisante au coeur d'un métier d'avenir.\n- Un accompagnement personnalisé par des experts reconnus du secteur.\n- Des projets techniques variés et stimulants.\n- Des perspectives d'embauche à l'issue de votre formation.\n- L'opportunité de contribuer à la protection des personnes et des biens.\n\nConstruisez votre avenir dans un métier qui a du sens.\n\nRejoignez DEF et devenez un acteur essentiel de la sécurité incendie de demain.\n\nDiversité et inclusion\n\nRéseau DEF est un employeur engagé en faveur de l'égalité des chances. Nous sommes convaincus que la diversité des personnes que nous engageons est une composante essentielle de notre succès. Nous prenons des décisions de recrutement basées sur votre expérience et vos compétences.\n\nProtection des données\n\nRéseau DEF attache une grande importance à la protection de vos données personnelles et respecte les réglementations européennes et locales en vigueur en matière de protection des données. Sauf indication contraire de votre part, en soumettant votre CV, vous nous autorisez à stocker vos données personnelles dans notre base de données électronique. Vous pouvez choisir de supprimer vos données personnelles à tout moment en nous informant de votre décision. Réseau DEF ne partagera vos données personnelles avec aucun tiers sans votre consentement préalable.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "LA DETECTION ELECTRONIQUE FRANCAISE",
+      "address": "17100 Saintes",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=DPii2d&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85262588.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D85262588",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aee5d2ccc766074572b68a4",
+      "partner_label": "Hellowork",
+      "title": "Stagiaire Ingénieur Méthodes Maintenance et Digitalisation Gmao H/F",
+      "description": "Afin de renforcer ses équipes, le service Maintenance Opérationnelle, cellule Méthode, de l'usine de Biars-sur-Cère recherche un :  \n  \nSTAGIAIRE INGÉNIEUR MÉTHODES MAINTENANCE et DIGITALISATION GMAO (H/F)  \n  \nRattaché au Responsable Méthodes Maintenance, vous pilotez un projet de digitalisation visant à renforcer la fiabilité des données de maintenance et la gestion des pièces détachées grâce au déploiement des outils mobiles connectés à la GMAO. Véritable acteur du changement, vous accompagnez les équipes terrain dans l'adoption de nouvelles pratiques contribuant directement à la performance industrielle du site.  \n  \nVotre mission :  \n  \n- Analyser les pratiques actuelles et identifier les leviers d'amélioration liés à l'utilisation de la GMAO et à la gestion des stocks.  \n- Définir, tester et déployer les bonnes pratiques d'utilisation des terminaux mobiles auprès des équipes maintenance et magasin.  \n- Former et accompagner les utilisateurs afin de garantir l'adoption durable des nouveaux processus.  \n- Construire et suivre les indicateurs de performance pour mesurer les gains obtenus et proposer des actions d'amélioration continue.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "ANDROS",
+      "address": "46130 Biars-sur-Cère",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=DOk55N&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85258783.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D85258783",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aee5d29cc766074572b67e2",
+      "partner_label": "Hellowork",
+      "title": "Conducteur de Cour H/F",
+      "description": "Nous sommes une agence généraliste (Industrie, Bâtiment, Logistique, Agroalimentaire, Tertiaire ; sur des niveaux débutants et/ou confirmés).  \nVotre agence Adwork's de JONZAC recherche pour l'un de ses clients spécialisé dans le domaine de la logistique un(e) CONDUCTEUR DE COUR H/F de jour ou de nuit  \n  \nVous serez amené à effectuer les tâches suivantes :  \n- Conduire et déplacer les véhicules dans la cour selon les missions  \n- Effectuer les mises en quai des semis et porteurs pour chargements et déchargements  \n- Effectuer les contrôles de sécurité (carburant, alarmes, température des frigos)  \n- Garantir le transfert d'informations entre le quai et l'exploitation des changements  \n- Informer en temps réel des anomalies auprès de sa hiérarchie  \n- Veiller au respect de la règlementation interne et externe (hygiène et sécurité)  \n- Connaître la règlementation routière, sociale des transports et sanitaire  \n  \nLes indispensables : CAP/BEP ou équivalent en transport, PERMIS B, PERMIS 26T/40T, FIMO et FCO à jour.  \n  \nLes + : Rigueur, autonomie, tact et diplomatie  \n  \nHoraires de travail : 39H/semaine- Du mardi au samedi en journée  \nLieu de mission : PONS (17)  \nRémunération : 12.80 EUR de jour (+avantages lors des horaires de nuit)  \nAvantage proposé: panier conducteur selon conditions  \nDébut de mission et durée : Dès que possible, évolutif sur le long terme  \n  \nLe travail en intérim chez Adwork's JONZAC c'est :  \n- Votre salaire brut est majoré de +10% IFM (indemnité de fin de mission) et de +10% ICP (indemnité compensatrice de congés payés)  \n- Possibilité d'ouvrir un Compte CET (compte épargne temps) qui majore vos IFM et/ou ICP de 5% supplémentaire  \n- Accès au FASTT qui vous permet d'obtenir une aide financière sur le logement, le crédit, la garde d'enfant, les formations...  \n- Si vous ne savez pas encore vers quel métier vous tourner, nous pouvons vous proposer diverses missions pour le découvrir ; nous sommes à l'écoute de tous profils  \n- Nous recherchons avant tout un savoir être (respect des horaires d'embauche et des consignes données lors de vos missions)",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "ADWORK'S",
+      "address": "17800 Pons",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=DCNErw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85221096.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85221096",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
