@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:33:19.155342+00:00",
+  "generated_at": "2026-11-08T11:45:51.020183+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -32471,7 +32471,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=DPSXtw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=E0vDqg&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
       "sector_id": "industrie_scientifique",
       "sector_label": "Industrie scientifique / R&D"
     },
@@ -37733,6 +37733,30 @@
       "apply_url": "https://r.holeest.com/redirect?jd_token=DCNErw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85221096.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85221096",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6aefaeafcc766074572b6f0b",
+      "partner_label": "Hellowork",
+      "title": "Agent Fabrication en Salle Blanche H/F",
+      "description": "JOB LINK Aubagne, spécialiste du recrutement CDI/CDD/Intérim, recrute des AGENT DE FABRICATION EN SALLE BLANCHE (F/H), pour l'un de ses clients basé sur AUBAGNE.  \n  \nVous travaillerez au sein d'une entreprise innovante et leader dans le secteur de l'INDUSTRIE BIOPHARMACEUTIQUE.  \n  \nVos principales missions seront les suivantes:  \n  \n- Réaliser des assemblages de composants d'après des PLANS et des SCHÉMAS,  \n  \n- Fabriquer des POCHES MÉDICALES à usage unique,  \n  \n- Assembler les PRODUITS FINIS,  \n  \n- CONTRÔLER LA QUALITÉ des produits.  \n  \nVous serez garant de votre production et de la qualité du travail que vous effectuerez.  \n  \nHoraires : 2X8 (alternance d'une semaine à l'autre --&gt; 6h-14h et 14h-22h)  \n  \nRémunération : 11.89EUR brut/heure + Panier repas + RTT + 7,5 % primes + 10% Indemnités Congés Payés + 10% Indemnités de Fin de Mission  \n  \nType contrat : Intérim  \n  \nMerci de candidater directement en envoyant votre CV",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": "JOB LINK",
+      "address": "13400 Aubagne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=DYFzTE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85278213.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D85278213",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
     }
   ]
 }
