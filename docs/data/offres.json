@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:17:43.129258+00:00",
+  "generated_at": "2026-11-11T12:29:13.369230+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -34547,7 +34547,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=E8XOqe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81644312.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D81644312",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=EC0SQo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81644312.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D81644312",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     },
@@ -35233,7 +35233,7 @@
       "id": "6acffc9e0bdf06aea29863fc",
       "partner_label": "Hellowork",
       "title": "Apprenti Technicien de Maintenance Préventif H/F",
-      "description": "Votre mission : apprendre un métier clé de l'industrie   \n  \nAccompagné(e) par votre tuteur et les équipes Maintenance, vous participerez activement au maintien et à l'amélioration de la disponibilité de nos équipements de production.   \nVotre alternance vous permettra de découvrir l'ensemble des dimensions du métier de technicien de maintenance préventif industrielle.   \n  \nParticiper à la maintenance préventive des équipements  \n  \n * Contribuer aux chantiers préventifs sur les équipements de production.  \n * Participer à la recherche et à la mise en oeuvre des solutions techniques adaptées.  \n * Réaliser le suivi et le reporting des interventions dans la GMAO.  \n * Accompagner les équipes dans l'analyse des dysfonctionnements et des causes racines.  \n  \nContribuer à la fiabilisation des installations   \n  \n * Participer aux actions d'amélioration continue et de fiabilisation des équipements.  \n * Identifier les opportunités d'optimisation afin d'améliorer la performance industrielle.  \n * Participer aux projets techniques liés aux nouvelles installations et aux évolutions du site.  \n  \nDévelopper les méthodes de maintenance   \n  \n * Participer à la planification et à la réalisation des opérations de maintenance préventive.  \n * Créer et améliorer les gammes de maintenance.  \n * Contribuer à la gestion et à la mise à jour de la documentation technique.  \n * Participer à l'optimisation de la gestion des pièces détachées.  \n  \nCe que vous allez apprendre   \nAu cours de votre alternance, vous développerez des compétences recherchées dans l'industrie :   \n  \n Maintenance préventive et corrective   \n Diagnostic et analyse de pannes   \n Automatismes industriels   \n É lectricité industrielle   \n Mé canique   \n Pneumatique et hydraulique   \n GMAO et mé thodes maintenance   \n Amé lioration continue et fiabilisation des é quipements   \n  \nVous évoluerez sur des installations industrielles modernes au sein d'un environnement fortement automatisé.",
+      "description": "Votre mission : apprendre un métier clé de l'industrie   \n  \nAccompagné(e) par votre tuteur et les équipes Maintenance, vous participerez activement au maintien et à l'amélioration de la disponibilité de nos équipements de production.   \nVotre alternance vous permettra de découvrir l'ensemble des dimensions du métier de technicien de maintenance préventif industrielle.   \n  \nParticiper à la maintenance préventive des équipements  \n  \n * Contribuer aux chantiers préventifs sur les équipements de production.  \n * Participer à la recherche et à la mise en oeuvre des solutions techniques adaptées.  \n * Réaliser le suivi et le reporting des interventions dans la GMAO.  \n * Accompagner les équipes dans l'analyse des dysfonctionnements et des causes racines.  \n  \nContribuer à la fiabilisation des installations   \n  \n * Participer aux actions d'amélioration continue et de fiabilisation des équipements.  \n * Identifier les opportunités d'optimisation afin d'am��liorer la performance industrielle.  \n * Participer aux projets techniques liés aux nouvelles installations et aux évolutions du site.  \n  \nDévelopper les méthodes de maintenance   \n  \n * Participer à la planification et à la réalisation des opérations de maintenance préventive.  \n * Créer et améliorer les gammes de maintenance.  \n * Contribuer à la gestion et à la mise à jour de la documentation technique.  \n * Participer à l'optimisation de la gestion des pièces détachées.  \n  \nCe que vous allez apprendre   \nAu cours de votre alternance, vous développerez des compétences recherchées dans l'industrie :   \n  \n Maintenance préventive et corrective   \n Diagnostic et analyse de pannes   \n Automatismes industriels   \n É lectricité industrielle   \n Mé canique   \n Pneumatique et hydraulique   \n GMAO et mé thodes maintenance   \n Amé lioration continue et fiabilisation des é quipements   \n  \nVous évoluerez sur des installations industrielles modernes au sein d'un environnement fortement automatisé.",
       "target_diploma": {
         "european": "5",
         "label": "BTS, DEUST (Bac+2)"
@@ -37762,7 +37762,7 @@
       "id": "6af1001bcc766074572b759b",
       "partner_label": "Hellowork",
       "title": "Ingénieur Simulation - Modélisation - Alternance H/F",
-      "description": "Vos missions  \nAu sein de l'équipe Modélisation et simulation, qui a pour principal objectif le développement de simulateurs et banc de tests, vous participerez au développement d'un simulateur d'entrainement incluant la modélisation de l'ensemble des systèmes avioniques. Votre mission se décomposera en 6 activités principales :  \n* Participer à la récolte des données constructeurs des systèmes à mod��liser  \n* Analyser les besoins et en extraire les exigences systèmes  \n* Spécifier l'architecture et l'algorithmie informatique nécessaire  \n* Développer en C++ les modèles du simulateur  \n* Assister nos équipes d'intégrations sur les sur le simulateur  \n* Suivre les validations avec les ingénieurs de tests  \n* Soutenir les modèles lors des phases de qualification auprès des utilisateurs, instructeurs et pilotes",
+      "description": "Vos missions  \nAu sein de l'équipe Modélisation et simulation, qui a pour principal objectif le développement de simulateurs et banc de tests, vous participerez au développement d'un simulateur d'entrainement incluant la modélisation de l'ensemble des systèmes avioniques. Votre mission se décomposera en 6 activités principales :  \n* Participer à la récolte des données constructeurs des systèmes à modéliser  \n* Analyser les besoins et en extraire les exigences systèmes  \n* Spécifier l'architecture et l'algorithmie informatique nécessaire  \n* Développer en C++ les modèles du simulateur  \n* Assister nos équipes d'intégrations sur les sur le simulateur  \n* Suivre les validations avec les ingénieurs de tests  \n* Soutenir les modèles lors des phases de qualification auprès des utilisateurs, instructeurs et pilotes",
       "target_diploma": {
         "european": "7",
         "label": "Master, titre ingénieur, grande école (Bac+5)"
@@ -37843,6 +37843,86 @@
       ],
       "contract_start": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=EmerIO&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85339971.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85339971",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6af3a621cc766074572b7f3f",
+      "partner_label": "France Travail",
+      "title": "Technicien / Technicienne d'atelier de fabrication et de méthodes (H/F)",
+      "description": "Vous êtes titulaire d'un BAC PRO TCI ou STI2D et souhaitez continuer sur une alternance en BTS CRCI (Conception et Réalisation en Chaudronnerie Industrielle). ETA à Rians recherche un(e) alternant(e) pour rejoindre son service Méthodes et pour que vous participiez à l'analyse, la préparation et la mise en œuvre des processus de fabrication chaudronnée chez ETA. \nCDD de 24 mois,",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1404"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "18220 Rians",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215VHSW",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6af3a62acc766074572b812e",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nSpécialisée dans la logistique et le transport de marchandises, cette entreprise propose à ses alternants une immersion dans un environnement rythmé où la réactivité et la précision sont essentielles.\nVos missions :\n\n- Assurer l'accueil et l'orientation des chauffeurs et clients\n- Effectuer la saisie de documents et données logistiques\n- Gérer les appels entrants et orienter les interlocuteurs vers les bons services\n- Classer et archiver les dossiers de transport\n- Participer au suivi administratif des livraisons et réceptions\n- Collaborer avec les équipes pour garantir la bonne circulation des informations\n\nProfil recherché : \n\n\n- Aisance relationnelle et bonne communication orale\n- Sens de l'accueil et du service client\n- Rigueur, organisation et capacité à gérer plusieurs tâches simultanément\n- Maîtrise de base des outils informatiques\n- Motivation pour découvrir le secteur du transport public\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97440 Saint-André",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2747156-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6af3a62acc766074572b8130",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nSpécialisée dans la logistique et le transport de marchandises, cette entreprise propose à ses alternants une immersion dans un environnement rythmé où la réactivité et la précision sont essentielles.\nVos missions :\n\n- Assurer l'accueil et l'orientation des chauffeurs et clients\n- Effectuer la saisie de documents et données logistiques\n- Gérer les appels entrants et orienter les interlocuteurs vers les bons services\n- Classer et archiver les dossiers de transport\n- Participer au suivi administratif des livraisons et réceptions\n- Collaborer avec les équipes pour garantir la bonne circulation des informations\n\nProfil recherché : \n\n\n- Aisance relationnelle et bonne communication orale\n- Sens de l'accueil et du service client\n- Rigueur, organisation et capacité à gérer plusieurs tâches simultanément\n- Maîtrise de base des outils informatiques\n- Motivation pour découvrir le secteur du transport public\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97410 Saint-Pierre",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2747155-120",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6af3a62acc766074572b812f",
+      "partner_label": "France Travail",
+      "title": "Agent d'Accueil et Secrétariat - Entreprise Logistique et Transport - BTS GPME EN ALTERNANCE / (H/F)",
+      "description": "Nos formations en alternance sont proposées dans le cadre d'un contrat d'apprentissage, conformément à la réglementation en vigueur.\nElles s'adressent en priorité aux de 16 à 29 ans révolus, mais peuvent aussi être accessibles à d'autres profils, notamment aux personnes en situation de handicap.\n\nQue vous souhaitiez commencer, reprendre ou continuer une formation liée à votre projet professionnel, vous pouvez y accéder si vous remplissez les conditions requises.\n\nNotre engagement est clair : offrir à chacun les mêmes chances de réussir, dans un environnement ouvert, respectueux et professionnel, où la diversité et l'accessibilité sont pleinement valorisées.\n\nLe poste : \n\nEntreprise locale assurant le transport et la distribution de colis et marchandises dans toute l'île. Elle met l'accent sur la formation de ses alternants pour les familiariser avec le secteur logistique et administratif.\nVos missions :\n\n- Gérer l'accueil physique et téléphonique de la société\n- Saisir et mettre à jour les plannings de livraison et les dossiers clients\n- Répondre aux demandes d'informations des clients et partenaires\n- Effectuer le traitement du courrier entrant et sortant\n- Participer à la gestion des dossiers de transport et à l'archivage\n- Assurer la liaison entre les services administratifs et opérationnels\n\nProfil recherché : \n\n\n- Sens du service client et aisance relationnelle\n- Bonne organisation et rigueur dans les tâches administratives\n- Connaissance basique en bureautique\n- Dynamisme et volonté d'apprendre dans un environnement logistique\n- Esprit d'équipe et polyvalence\n\n            Savoir-faire demandés : \n                  \n- Assurer des activités administratives de routine            \n- Classer des documents            \n- Émettre des factures de vente            \n- Gérer les transactions financières            \n- Utiliser des systèmes bureautiques                  \n\n                  Savoir-être demandés : \n                  \n- Adaptabilité            \n- Calme            \n- Chaleureux            \n- Persévérant            \n- Sens du détail            \n- Structuré",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "AGEPAC",
+      "address": "97400 Saint-Denis",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.jobposting.pro/emploi-2747154-120",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
