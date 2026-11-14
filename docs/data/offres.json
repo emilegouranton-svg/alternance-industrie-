@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:53:48.787851+00:00",
+  "generated_at": "2026-11-14T11:57:52.018441+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -36627,7 +36627,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=EPKesN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84729720.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bindustrie%252Cagroalimentaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D84729720",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=F601v8&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84729720.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bindustrie%252Cagroalimentaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D84729720",
       "sector_id": "maintenance_industrielle",
       "sector_label": "Maintenance industrielle"
     },
@@ -38009,6 +38009,135 @@
       ],
       "contract_start": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/216JDZT",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6af103e9cc766074572b75d2",
+      "partner_label": "Meteojob",
+      "title": "Stagiaire Technicien de laboratoire H/F",
+      "description": "<p>  Référence : AA1584JE  <br />  <br />  Qui sommes nous ?  <br />  <br />  Avionneur, industriel, prestataire de services industriels et logisticien, Daher compte aujourd'hui environ 14 500 collaborateurs pour un chiffre d'affaires de 1,9 milliard d'euros en 2025. Fort de son actionnariat familial, Daher est tourné vers l'innovation depuis sa création en 1863. Avec des implantations dans une quinzaine de pays, en Europe, en Amérique du Nord et en Asie, Daher conçoit et développe des solutions à valeur ajoutée pour ses clients et partenaires aéronautiques et industriels.  <br />  <br />  Nos engagements :  <br />  <br />  Daher vous offre la possibilité d'évoluer au sein du groupe à travers la politique de mobilités internes et passerelles entre métiers, en France et à l'international.  <br />  <br />  Travailler chez Daher, c'est s'inscrire dans un environnement de travail inclusif où la diversité est un atout pour le collectif et essentiel pour relever les défis de demain.  <br />  <br />  Evoluer dans un cadre où l'innovation et la décarbonation sont au coeur de nos activités pour un avenir durable.  <br />  <br />  Vous serez rattaché(e) au laboratoire d'essai sur le site de Daher Shap'in à Saint Aignan de Grandlieu (44). Le laboratoire intervient sur l'ensemble des projets de R&amp;D menés au sein du technocentre Shap'in et apporte son soutien à la production en cas de besoin.  <br />  <br />  Le laboratoire a récemment acquis un nouveau système de mesure dimensionnelle par imagerie qui permet ; entre autres, d'effectuer des mesures dimensionnelles d'éprouvettes mécanique à grand vitesse. Le laboratoire souhaite développer l'utilisation de cet appareil dans son usage quotidien.  <br />  <br />  Les défis que nous allons relever ensemble  <br />  <br /> </p> <ul>  <li>   Analyser les normes d'essais mécaniques et répertorier les requis dimensionnels.   <br />  </li>  <li>   Comparer les résultats du nouveau moyen avec d'autres instruments : pieds à coulisse, micromètre, microscope optique ou encore une MMT (machine à mesurer tridimensionnelle)   <br />  </li>  <li>   Mettre en place les programmes de mesure automatique des dimensions   <br />  </li>  <li>   Mettre en place la liaison entre le moyen et le réseau d'entreprise   <br />  </li>  <li>   Définir les fichiers de sortie machine appropriés   <br />  </li>  <li>   Rédiger l'IEU du moyen (Instructions des Equipements à Utiliser)   <br />  </li>  <li>   Rédiger des procédures d'utilisation   <br />  </li>  <li>   Réaliser des essais mécaniques en lien avec les travaux réalisés sur le moyen   <br />  </li>  <li>   Rédiger un rapport d'équivalence entre les résultats obtenus par le nouveau moyen et les moyens préconisés par les normes.   <br />   <br />   Livrable   <br />   <br />  </li>  <li>   Rapport d'équivalence   <br />  </li>  <li>   Programme automatique de mesure pour chaque type d'essai mécanique   <br />   <br />   Contrat : Stage de 3 mois   <br />   <br />   Votre prochaine opportunité commence ici, en voici les prochaines étapes :   <br />   <br />   L'étude de votre candidature   <br />   <br />   Un premier échange téléphonique   <br />   <br />   Un ou plusieurs entretiens en fonction du poste avec un(e) chargé(e) de recrutement et manager(s) concerné(s)   <br />   <br />   Après les entretiens, un feedback constructif peu importe l'issue.   <br />   <br />   Diplôme(s) requis : Bac+  </li> </ul>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien Laboratoire d'Application en Essais Mécaniques (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1503"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "44340 Bouguenais",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57970759?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "industrie_scientifique",
+      "sector_label": "Industrie scientifique / R&D"
+    },
+    {
+      "id": "6af797926c7c8924df537067",
+      "partner_label": "Hellowork",
+      "title": "Formation Courte Electricien Naval - Chantiers de l'Atlantique H/F",
+      "description": "Vous souhaitez vous former à un métier d'avenir avec de nombreuses opportunités d'emploi ?  \nVous aimez le terrain et la technique ?  \n*  \nDevenez Electricien naval (H/F) et bénéficiez de 3 mois de formation à l'emploi avant d'intégrer les équipes des Chantiers de l'Atlantique.   \n  \nNotre programme de formation dispensée par la Fab'Academy de Saint-Nazaire (UIMM), vous permet d'acquérir un socle de connaissances et de savoir-faire nécessaires pour intégrer notre équipe d'Electriciens Naval à savoir :   \n  \n- Savoir se repérer à Bord et comprendre l'environnement Naval.  \n  \n- Intervenir en respectant les règles de sécurité du Bord et d'un environnement industriel.  \n  \n- Maîtriser les techniques de soudage.  \n  \n- Maîtriser la lecture de plan, la géométrie et le traçage.  \n  \n- Maîtriser les connaissances et compétences fondamentales pour la réalisation d'opération de   \nserrurerie navale et de raccordement électrique.  \n  \n- Intervenir en respectant les méthodologies industrielles.  \n\nCette formation de 3 mois débutant en Janvier 2027 et s'adresse à des candidats souhaitant se reconvertir et/ou approfondir leurs compétences techniques dans la perspective d'un emploi durable.    \n\nMontez à bord, postulez !",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "CHANTIERS DE L'ATLANTIQUE",
+      "address": "44600 Saint-Nazaire",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=F7jWUn&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85461949.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85461949",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6af646976c7c8924df536da1",
+      "partner_label": "ATS_Hellowork",
+      "title": "Technicien Maintenance en alternance H/F",
+      "description": "Nous recrutons pour notre usine située à Mably (42) un(e) Assistant (e) Maintenance en alternance.\n\nÉtudiant(e) en formation Bac+2 Maintenance, vous êtes pleinement intégré(e) et travaillez en lien étroit avec les équipes de maintenance.\n\nDans le cadre d’une alternance d’une durée minimale de 2 ans, avec une intégration prévue en septembre/octobre 2026 :\n• Vous participez à l’apprentissage des fondamentaux en mécanique générale et de précision, répondant à un besoin important de montée en compétences dans ce domaine.\n• Vous contribuez à la mise en place de la maintenance préventive sur de nouvelles installations.\n• Vous intervenez dans l’analyse des pannes afin d’améliorer les temps d’arrêt et d’optimiser la disponibilité des équipements.\n• Vous participez à la remise en conformité du réseau électrique général de l’usine (hors process : alimentation des bureaux, des différents ateliers et bornes de branchement à travers l’usine).\n• Vous effectuez la recherche de composants et la modification de câblage.\n• Vous réalisez et mettez à jour les schémas électriques sur SEE Electrical afin de disposer d’une version fiable et actualisée du réseau.\n\nÀ travers ces missions, vous participez activement à la fiabilisation des installations et à l’amélioration continue des performances industrielles.\n\nRémunération et avantages\n\n- Une prime vacances\n- Une prime de fin d’année\n- Un accord d’intéressement\n- Un accord de participation\n- Un dispositif de retraite par capitalisation\n- Mutuelle, prévoyance\n- CSE\n- Union sociale des SCOP",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "BOUYER LEROUX",
+      "address": "42300 Mably",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6af646976c7c8924df536da1/technicien-maintenance-en-alternance-h-f",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6af25540cc766074572b7996",
+      "partner_label": "Meteojob",
+      "title": "Alternant Technicien Service H/F",
+      "description": "<p>  <strong>SETITEC</strong>  s'est engagé dans la conception et la fourniture d'équipements d'assemblage aéronautique, s'imposant comme un pionnier des solutions de perçage avancées pour l'industrie aérospatiale. </p> <p>  Avec une expérience éprouvée dans l'ingénierie de précision,  <strong>SETITEC</strong>  offre une gamme d'outils de haute performance - des systèmes semi-automatiques et électriques à l'automatisation légère - fiables pour les applications les plus exigeantes. Nos solutions offrent la précision et la fiabilité essentielles à l'excellence aérospatiale. </p> <p>Intégré à l'équipe Service, sous la responsabilité du Responsable des Opérations de Service, nous proposons à un étudiant en alternance de participer aux activités de maintenance, de réparation, de retrofit et de support technique sur nos outils SETITEC.</p> <p>Accompagné par les techniciens expérimentés, il découvre progressivement les produits, les méthodes de travail et les différentes activités du département Service, tout en développant ses compétences techniques et son savoir-faire dans le domaine de la maintenance industrielle.</p> <p>L'objectif est de lui permettre d'acquérir progressivement les compétences nécessaires à la réalisation d'opérations techniques, en atelier et ponctuellement chez les clients, dans le cadre de son parcours de formation.</p> <p>Missions principales</p> <p>Participation aux activités de maintenance et de réparation</p> <p>- Découvrir les outils et leurs sous-ensembles mécaniques, électriques et pneumatiques.</p> <p>- Participer à la maintenance préventive et corrective.</p> <p>- Participer au démontage, contrôle, remplacement de composants, remontage et réglage.</p> <p>- Apprendre à identifier les dysfonctionnements et les méthodes de diagnostic.</p> <p>- Participer au retrofit et à la remise à niveau des équipements.</p> <p>- Réaliser, sous supervision, les contrôles fonctionnels et essais des équipements.</p> <p>Découverte du support technique et des interventions clients</p> <p>- Accompagner les techniciens en intervention client.</p> <p>- Préparer le matériel, l'outillage et les pièces nécessaires.</p> <p>- Découvrir les méthodes de diagnostic et de résolution des problèmes clients.</p> <p>- Assister les techniciens dans leurs échanges avec les clients.</p> <p>- S'approprier les bonnes pratiques d'utilisation et les règles de sécurité chez les clients.</p> <p>Documentation technique et suivi des interventions</p> <p>- Participer à la rédaction des rapports d'intervention.</p> <p>- Apprendre à utiliser la documentation technique.</p> <p>- Contribuer à la mise à jour des supports techniques du Service.</p> <p>- Participer au partage des retours d'expérience terrain.</p> <p>Qualité, sécurité et environnement de travail</p> <p>- Appliquer les procédures, consignes de sécurité et exigences qualité et traçabilité en vigueur, en utilisant les EPI adaptés.</p> <p>- Découvrir les méthodes et outils d'amélioration des pratiques de l'équipe.</p> <p>  - Intérêt pour la mécanique, l'électricité et les systèmes industriels et connaissances techniques de base acquises dans le cadre de sa formation.  <br />  - Intérêt pour le fonctionnement des équipements industriels et la recherche de pannes.  <br />  - Capacité à lire et comprendre des plans, schémas et documents techniques.  <br />  - Maîtrise des outils informatiques courants.  <br />  Une première expérience en atelier, en maintenance ou dans un environnement industriel constitue un plus, mais n'est pas indispensable. </p> <p>- Anglais : niveau B1 souhaité et progression au cours de l’alternance, capacité à lire et comprendre une documentation technique en anglais, à échanger dans un contexte professionnel simple.</p> <p>  - Curiosité technique et envie d'apprendre.  <br />  - Rigueur et respect des consignes. </p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "77090 Collégien",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/57985532?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6af4f51ccc766074572b827c",
+      "partner_label": "ATS_Hellowork",
+      "title": "ALTERNANCE GenAI Engineer Optimisation des Processus (F/H)/112026",
+      "description": "Dans le cadre de l'amélioration continue de nos activités de laboratoire et d'essais, nous recherchons un Alternant GenAI Engineer (F/H) pour contribuer à l'automatisation de la chaîne de traitement des demandes d'essais clients.\nL'objectif est de développer et intégrer des solutions d'Intelligence Artificielle permettant d'optimiser l'ensemble du processus, depuis la réception de la demande client jusqu'à la génération et la livraison du rapport d'essai.\nCette mission vous permettra d'intervenir sur des problématiques concrètes mêlant IA générative, automatisation des processus métier, architecture système et valorisation des données techniques.\n\nAu sein de l'équipe, vous participerez à :\nIntégration de l'IA dans les processus métiers\n\n- Concevoir et déployer des solutions d'IA au sein de la chaîne de traitement des demandes d'essais.\n- Identifier les opportunités d'automatisation et d'optimisation des flux existants.\n- Participer à l'architecture et à l'intégration des différents composants du système.\n\nDéveloppement d'outils d'assistance et d'automatisation\n\n- Développer des outils facilitant le traitement, l'exploitation et l'analyse des données techniques.\n- Concevoir des solutions permettant de réduire les tâches à faible valeur ajoutée.\n- Mettre en place des mécanismes d'aide à la décision basés sur l'IA.\n\nAnalyse et amélioration des activités de laboratoire\n\n- Développer des outils d'analyse de non-conformités assistée par l'IA.\n- Contribuer à l'amélioration de la qualité et de la fiabilité des analyses.\n- Participer à la mise en œuvre de solutions favorisant la capitalisation et l'exploitation des connaissances.\n\nAccompagnement des équipes techniques\n\n- Fournir aux ingénieurs des outils leur permettant de se concentrer sur leur expertise métier ;\n- Contribuer à l'amélioration de la productivité des équipes ;\n- Participer à l'optimisation de l'expérience client grâce à des processus plus rapides et plus efficaces.\n\n- Convention collective de la Métallurgie du 7 Février 2022\n- Prise en charge transport en commun\n- Titres-restaurant\n- Mutuelle familiale sans surcout\n- Comité Social d'Entreprise (Chèques vacances, Chèques cadeau, chèque culture ...)",
+      "target_diploma": null,
+      "rome_codes": [
+        "H1402"
+      ],
+      "created_at": null,
+      "company_name": "SERMA TECHNOLOGIES",
+      "address": "38570 Le Cheylas",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6af4f51ccc766074572b827c/alternance-gen-ai-engineer-optimisation-des-processus-f-h-112026",
+      "sector_id": "methode",
+      "sector_label": "Méthodes / Industrialisation"
+    },
+    {
+      "id": "6aee5d87cc766074572b6aad",
+      "partner_label": "ATS_Hellowork",
+      "title": "Alternant approvisionneur (H/F)",
+      "description": "Encadré(e) et accompagné(e) au quotidien, vous interviendrez sur :\n1 Optimisation des points d’inventaire\n2 Optimisation du calcul des zones de stockage\n3 Optimisation du layout\n\n- Une montée en compétences progressive, sur des sujets concrets et structurants\n- Un environnement stimulant et bienveillant au sein d’un service stratégique\n- Une expérience professionnalisante\n\nLE PROCESSUS DE RECRUTEMENT\n1 Entretien avec Caroline, responsable du recrutement\n2 Entretien avec votre futur tuteur, responsable approvisionnement du site",
+      "target_diploma": null,
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "STS COMPOSITES FRANCE",
+      "address": "07340 Saint-Désirat",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aee5d87cc766074572b6aad/alternant-approvisionneur-h-f",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
