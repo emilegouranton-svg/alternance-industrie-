@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:10:02.989730+00:00",
+  "generated_at": "2026-11-20T13:52:12.942264+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -32471,7 +32471,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=G6FOCE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=GvhH7d&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
       "sector_id": "industrie_scientifique",
       "sector_label": "Industrie scientifique / R&D"
     },
@@ -38360,6 +38360,77 @@
       ],
       "contract_start": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=G7Y4D7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85617500.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85617500",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6aff81bede83093b496ea75d",
+      "partner_label": "Meteojob",
+      "title": "FORMATION ELECTRICIEN INDUSTRIEL H/F",
+      "description": "<p>SOTEB, filiale du Groupe Gérard Perrier Industrie, est spécialisée dans le génie électrique, l'instrumentation et la maintenance industrielle. Elle conçoit, installe et assure la maintenance d'équipements électriques et de contrôle / commande sur les grands sites industriels.</p> <p>La société créée en 1967 a pu développer à travers le temps une connaissance pointue du marché, de ses contraintes et de ses attentes. Répartie sur 6 agences en Rhône-Alpes-Auvergne et Bourgogne-Franche-Comté, elle compte plus de 600 collaborateurs et intervient auprès d'industriels dans des secteurs variés : énergie, chimie, agroalimentaire, métallurgie, oil&amp;gas...</p> <p>Notre offre de produits et de services, notre organisation et nos hommes sont spécifiquement adaptés et formés aux besoins propres du secteur industriel.</p> <p>Disponibilité, Réactivité, Flexibilité sont nos raisons d'être.</p> <p>Afin d'accompagner le développement de SOTEB, nous vous proposons un parcours de formation en alternance de 12 mois vous permettant d'obtenir un CQPM, pour devenir Monteur(se)-câbleur(se) en équipements électriques.</p> <p>Accompagné(e) par des professionnels expérimentés, vous développez vos compétences sur le terrain et pourrez, à l'issue de la formation, intégrer nos équipes en CDI.</p> <p>Ce qui vous attend :</p> <p>  - Des parcours de perfectionnement technique pour muscler tes compétences dans notre école interne EFGPI.  <br />  - Des formations réglementaires pour travailler en sécurité et conformité.  <br />  - Une immersion complète au sein de nos équipes SOTEB pour apprendre le métier en conditions réelles.  <br />  Rejoignez une aventure professionnelle concrète, structurante et tournée vers l'avenir ! </p> <p>  Votre énergie a de l'avenir - venez la brancher chez nous ! A la clef, vous pourrez décrocher ton CQPM  <br />  <br /> </p> <p>Les facteurs clés pour réussir ton intégration :</p> <p>Tu es reconnu pour tes qualités organisationnelles, relationnelles, réactivité, rigueur technique. Tu cherches activement à être une personne curieuse, raisonnable et engagée.</p> <p>Tu as la capacité à collaborer efficacement avec de nombreuses parties prenantes.</p> <p>Contexte de travail :</p> <p>  <br />  CDD ou CDI : (à discuter lors de l'entretien). </p> <p>  <br />  Ta rémunération sera composée d'une partie fixe + avantages (compte outillage, primes de déplacements, paniers repas, RTT, CSE, mutuelle, prévoyance) </p> <p>Innovation, passion, Ambition : rejoignez notre groupe dès maintenant</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Electricien industriel (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "L'industrie recrute",
+      "address": "69740 Genas",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/58174813?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6aff806ede83093b496ea10a",
+      "partner_label": "Hellowork",
+      "title": "Alternance - Technicien de Maintenance Industrielle H/F",
+      "description": "Nous recrutons en alternance un(e) technicien de maintenance industrielle F/H pour intervenir au sein de l'UNV (usine d'alimentation animale) située à Bonsecours, près de Rouen.\n\nDes déplacements réguliers sont à prévoir sur le site de la SAVN, usine située à Saussay-la-Campagne, près d'Etrépagny et de Gisors (27).\n\nRattaché(e) au Responsable maintenance, vos missions principales sont les suivantes :\n\n- Effectuer la maintenance préventive et corrective d'équipements / d'installations électriques et mécaniques,\n- Localiser et diagnostiquer les pannes et proposer des solutions appropriées,\n- Mettre en place des installations neuves ou les remettre en état, aux normes des installations dans les domaines techniques tels que : pneumatique, hydraulique, électrique, mécaniques, chaudronnerie, serrurerie,\n- Renseigner les supports de suivi d'intervention (papier et informatique GMAO).",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SOCIETE COOPERATIVE AGRICOLE NATUP",
+      "address": "27150 Saussay-la-Campagne",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=GwinD2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85691934.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bindustrie%252Cagroalimentaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D85691934",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6afffb9c32bf900d71980229",
+      "partner_label": "offres_emploi_lba",
+      "title": "Supply chain manager",
+      "description": "Le Responsable logistique coordonne et optimise la gestion des flux de produits sur un site opérationnel, pour tous les mouvements d'entrée, sortie et manipulations des marchandises (incl. leurs conditionnements) et s'assure d'être en communication constante avec les autres services de l'entreprise ou acteurs de la chaîne d'approvisionnement, en lien avec la qualité de service et enjeux de traçabilité. Planifie et coordonne les opérations de réception, de stockage et de livraison des marchandises Optimise les coûts et les délais des opérations logistiques en mettant en place des indicateurs de performance Supervise et forme les équipes opérationnelles pour garantir l'efficacité des processus logistiques Assure la conformité des opérations logistiques avec les réglementations en vigueur Collabore avec les fournisseurs et les clients pour améliorer la qualité de service et résoudre les problèmes logistiques Implémente des solutions technologiques pour automatiser et améliorer les processus logistiques",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "N1301"
+      ],
+      "created_at": null,
+      "company_name": "MULTI PACK",
+      "address": "5 RUE GEORGES MELIES 69680 CHASSIEU",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": "2026-11-20T07:49:48.648Z",
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afffb9c32bf900d71980229/supply-chain-manager",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
     }
