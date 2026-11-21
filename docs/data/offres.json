@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:52:12.942264+00:00",
+  "generated_at": "2026-11-21T13:15:51.200045+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -32471,7 +32471,7 @@
         "Professionnalisation"
       ],
       "contract_start": null,
-      "apply_url": "https://r.holeest.com/redirect?jd_token=GvhH7d&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
+      "apply_url": "https://r.holeest.com/redirect?jd_token=GRhpbs&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82986857.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D82986857",
       "sector_id": "industrie_scientifique",
       "sector_label": "Industrie scientifique / R&D"
     },
@@ -37930,8 +37930,11 @@
       "id": "6af646266c7c8924df536ce6",
       "partner_label": "Hellowork",
       "title": "Agent de Maintenance H/F",
-      "description": "Vous aimez bricoler, réparer, démonter, comprendre le fonctionnement des machines ou trouver l'origine d'une panne ?  \n  \nVous avez des notions en mécanique, électricité ou plomberie, acquises professionnellement ou simplement par passion ?  \n  \nEt si vous faisiez de cet intérêt pour la technique votre métier ?  \n  \nLe GE VOSGES vous propose un parcours de formation de 12 mois en contrat de professionnalisation, préparant au CQP Agent de maintenance.  \n  \nPas besoin d'être un professionnel de la maintenance : nous recherchons avant tout une personne motivée, débrouillarde et curieuse, avec une première sensibilité technique.  \n  \nVotre futur métier Accompagné(e) par les équipes de maintenance, vous apprendrez progressivement à :  \n  \n- Entretenir les équipements pour prévenir les pannes ;  \n  \n- Rechercher l'origine des dysfonctionnements ;  \n  \n- Réaliser des interventions en mécanique et en électricité ;  \n  \n- Effectuer des réparations, des réglages et des remplacements de pièces ;  \n  \n- Vérifier le bon fonctionnement des équipements après intervention ;  \n  \n- Respecter les consignes de sécurité et les procédures.",
-      "target_diploma": null,
+      "description": "Vous aimez bricoler, réparer, démonter, comprendre le fonctionnement des machines ou trouver l'origine d'une panne ?\n\nVous avez des notions en mécanique, électricité ou plomberie, acquises professionnellement ou simplement par passion ?\n\nEt si vous faisiez de cet intérêt pour la technique votre métier ?\n\nLe GE VOSGES vous propose un parcours de formation de 12 mois en contrat de professionnalisation, préparant au CQP Agent de maintenance.\n\nPas besoin d'être un professionnel de la maintenance : nous recherchons avant tout une personne motivée, débrouillarde et curieuse, avec une première sensibilité technique.\nVotre futur métier\nAccompagné(e) par les équipes de maintenance, vous apprendrez progressivement à :\n\n- Entretenir les équipements pour prévenir les pannes ;\n- Rechercher l'origine des dysfonctionnements ;\n- Réaliser des interventions en mécanique et en électricité ;\n- Effectuer des réparations, des réglages et des remplacements de pièces ;\n- Vérifier le bon fonctionnement des équipements après intervention ;\n- Respecter les consignes de sécurité et les procédures.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
       "rome_codes": [
         "I1310"
       ],
@@ -38433,6 +38436,91 @@
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afffb9c32bf900d71980229/supply-chain-manager",
       "sector_id": "supply_chain",
       "sector_label": "Supply Chain"
+    },
+    {
+      "id": "6b00d4bade83093b496eb04f",
+      "partner_label": "France Travail",
+      "title": "Electricien / Electricienne",
+      "description": "PROCH EMPLOI recherche pour une entreprise référente en matière d'installation de bornes de recharge dans les Hauts-de-France : \nun(e) apprentie électricien(ne) pour renforcer ses équipes.\nNous proposons une solution de recharge fiable, rapide et adaptée à l'usage réel des clients particuliers,\nentreprises et des collectivités.\nVous vous occupez de l'installation, de la maintenance et du dépannage.\nVouqs préparez un CAP avec le centre de formation AFPI à St Martin Boulogne.\nPROFIL\nVous êtes motivé(e), curieux(se) et souhaitez construire votre avenir dans un métier d'avenir ? Cette opportunité\nest faite pour vous !\nNous recherchons avant tout des candidats sérieux, volontaires et désireux d'apprendre.\nQualités recherchées Intérêt pour les métiers techniques, l'électricité e",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": null,
+      "address": "62142 Alincthun",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/216QWTF",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b00d4aade83093b496eace9",
+      "partner_label": "France Travail",
+      "title": "Apprenti électromécanicien h/f (H/F)",
+      "description": "Alocamp est un acteur dynamique du secteur du camping-car. Portés par un développement soutenu de notre activité, nous accompagnons nos clients dans la préparation et l'entretien de leurs véhicules de loisirs. Rejoindre Alocamp, c'est intégrer une structure en pleine croissance où la passion du véhicule et la technicité sont au cœur de notre métier.\n\nLe poste : Un métier de passionné et de polyvalence\nLe camping-car est bien plus qu'un simple véhicule : c'est une véritable « maison sur roues ». De ce fait, l'entretien et l'aménagement de ces véhicules exigent une expertise technique variée, proche de celle du secteur du bâtiment et de l'automobile.\n\nEn tant qu'apprenti(e), vous serez au cœur de cet univers technique. Si votre socle de compétences sera orienté vers l'électronique, vous serez amené(e) à toucher à tous les corps d'état pour garantir le confort et la sécurité de nos clients.\n\nVos missions\nSous la responsabilité de votre tuteur, vous participerez activement aux interventions suivantes :\n\nÉlectronique &amp; Électricité : Diagnostic et réparation des systèmes embarqués, gestion de l'énergie et des circuits électriques.\nMaintenance technique : Interventions sur les systèmes de plomberie, de gestion du gaz et de mécanique légère.\nAménagement &amp; Finition : Travaux de menuiserie et de petits ajustements pour l'optimisation de l'espace de vie.\nContrôle qualité : Vérification de la conformité des installations avant la remise au client.\nProfil recherché\nNous recherchons avant tout un tempérament !\n\nVotre état d'esprit : Vous êtes un(e) véritable bricoleur(se), curieux(se) et doté(e) d'une grande polyvalence. Le terme « multitâches » ne vous fait pas peur, bien au contraire.\nVotre motivation : Vous avez envie d'apprendre et vous êtes prêt(e) à vous diversifier dans des domaines variés (plomberie, gaz, menuiserie, etc.).\nPourquoi nous rejoindre ?\nChez Alocamp, nous ne nous contentons pas de vous confier des tâches, nous vous transmettons un savoir-faire. Nous nous engageons à vous accompagner et à vous former sur l'ensemble des univers techniques nécessaires à votre réussite. C'est l'opportunité idéale pour devenir un technicien complet et hautement qualifié dans un secteur passionnant.\n\nLe centre de formation est à définir avec l'employeur.",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "ALOCAMP SERVICES",
+      "address": "02260 La Flamengrie",
+      "contract_type": [
+        "Apprentissage"
+      ],
+      "contract_start": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/216PXQR",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b00d57bde83093b496eb3b4",
+      "partner_label": "Meteojob",
+      "title": "TECHNICIEN DE MAINTENANCE H/F",
+      "description": "<p>Sous la responsabilité du dirigeant et du responsable technique, vous aurez en charge :</p> <ul>  <li>D'identifier et diagnostiquer à l'aide d'une console l'origine des pannes des matériels de manutention (chariots, informatique embarquée...).</li>  <li>Evaluer ses besoins en pièces détachées et outillages et les remonter à votre responsable</li>  <li>Assurez le remplacement des pièces en atelier ou sur site client.</li>  <li>Entretien préventif et révision des chariots destinés à la vente d'occasion ou de location et suivi du SAV.</li>  <li>Evaluer ses besoins en pièces détachées et outillages et les remonter à son responsable</li>  <li>Salaire à négocier selon expérience</li>  <li>Base hebdomadaire 39h avec heures supplémentaires</li>  <li>Du lundi au jeudi de 8h à 17h30 et le vendredi 16h30</li>  <li>Des déplacements sont à envisager chez les clients</li> </ul> <p>Une utilisation des chariots de manutention (avec CACES) et une habilitation électrique sont indispensables pour la bonne exécution de vos futures missions.</p>\r\n\r\nPoste: Technicien de maintenance d'engins de chantier et de manutention (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 14 € - 16 € par an\r\n\r\nProfil: <p>Titulaire d'un BTS en mécanique et maintenance , Vous justifiez d'une réelle expérience à un poste similaire.</p> <p>Vous acceptez les déplacements sur les sites clients</p> <p>Poste à pourvoir en intérim</p>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "TeamServices",
+      "address": "35650 Le Rheu",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": "2026-11-29T00:00:00.000Z",
+      "apply_url": "https://www.meteojob.com/jobs/58210138?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b00d254de83093b496eaa5d",
+      "partner_label": "ATS_Hellowork",
+      "title": "Alternance - Technicien de maintenance industrielle F/H",
+      "description": "Nous recrutons en alternance un(e) technicien de maintenance industrielle F/H pour intervenir au sein de l'UNV (usine d'alimentation animale) située à Bonsecours, près de Rouen.\nDes déplacements réguliers sont à prévoir sur le site de la SAVN, usine située à Saussay-la-Campagne, près d'Etrépagny et de Gisors (27).\n\nRattaché(e) au Responsable maintenance, vos missions principales sont les suivantes :\n\n- Effectuer la maintenance préventive et corrective d’équipements / d’installations électriques et mécaniques,\n- Localiser et diagnostiquer les pannes et proposer des solutions appropriées,\n- Mettre en place des installations neuves ou les remettre en état, aux normes des installations dans les domaines techniques tels que : pneumatique, hydraulique, électrique, mécaniques, chaudronnerie, serrurerie,\n- Renseigner les supports de suivi d’intervention (papier et informatique GMAO).",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SOCIETE COOPERATIVE AGRICOLE NATUP",
+      "address": "76240 Bonsecours",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6b00d254de83093b496eaa5d/alternance-technicien-de-maintenance-industrielle-f-h",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
     }
   ]
 }
