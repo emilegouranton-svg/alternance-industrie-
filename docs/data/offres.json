@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:35:27.998816+00:00",
+  "generated_at": "2026-11-25T15:20:27.068099+00:00",
   "offres": [
     {
       "id": "demo-1",
@@ -38630,6 +38630,120 @@
       "apply_url": "https://www.meteojob.com/jobs/58243443?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "sector_id": "maintenance_industrielle",
       "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b06e9e173741f560d62f7f2",
+      "partner_label": "Apecita",
+      "title": "ALTERNANCE - TECHNICIEN DE MAINTENANCE INDUSTRIELLE F/H",
+      "description": "<p><strong>Entreprise :</strong><br /><strong>NATUP</strong><br />Nous recrutons en alternance un(e) <strong>technicien de maintenance industrielle F/H</strong> pour intervenir au sein de l'UNV (usine d'alimentation animale) située à Bonsecours, près de Rouen.</p><p><strong>Missions :</strong><br />Rattaché(e) au Responsable maintenance, vos missions principales sont les suivantes :</p><ul><li>Effectuer la maintenance préventive et corrective d'équipements et d'installations électriques et mécaniques.</li><li>Localiser et diagnostiquer les pannes, et proposer des solutions appropriées.</li><li>Mettre en place des installations neuves ou les remettre en état, et les mettre aux normes dans des domaines techniques tels que : pneumatique, hydraulique, électrique, mécanique, chaudronnerie, serrurerie.</li><li>Renseigner les supports de suivi d'intervention (papier et informatique GMAO).</li></ul><br /><p>Issu(e) d'une formation de niveau Bac ou Bac+2 de type BTS électromécanique ou maintenance industrielle, vous recherchez une alternance pour préparer un diplôme de niveau BTS ou licence en maintenance industrielle.</p><p>Vous avez des connaissances en chaudronnerie, automatisme, électricité, mécanique, pneumatique et hydraulique. Vous faites preuve d'analyse et d'une logique de diagnostic des pannes.</p><p>Vous êtes sensibilisé(e) aux sujets de sécurité sur un site industriel.</p><p>De plus, vous êtes autonome et reconnu(e) pour votre capacité d'écoute et d'échange avec les équipes.</p><p>Permis B indispensable.</p>",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "SOCIETE COOPERATIVE AGRICOLE NATUP",
+      "address": "76130 Mont-Saint-Aignan",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.apecita.com/offres/281369",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b061b88de83093b496ecf25",
+      "partner_label": "Meteojob",
+      "title": "FORMATION ELECTRICIEN INDUSTRIEL H/F",
+      "description": "<p>SOTEB, filiale du Groupe Gérard Perrier Industrie, est spécialisée dans le génie électrique, l'instrumentation et la maintenance industrielle. Elle conçoit, installe et assure la maintenance d'équipements électriques et de contrôle / commande sur les grands sites industriels.</p> <p>La société créée en 1967 a pu développer à travers le temps une connaissance pointue du marché, de ses contraintes et de ses attentes. Répartie sur 6 agences en Rhône-Alpes-Auvergne et Bourgogne-Franche-Comté, elle compte plus de 600 collaborateurs et intervient auprès d'industriels dans des secteurs variés : énergie, chimie, agroalimentaire, métallurgie, oil&amp;gas...</p> <p>Notre offre de produits et de services, notre organisation et nos hommes sont spécifiquement adaptés et formés aux besoins propres du secteur industriel.</p> <p>Disponibilité, Réactivité, Flexibilité sont nos raisons d'être.</p> <p>Afin d'accompagner le développement de SOTEB, nous vous proposons un parcours de formation en alternance de 12 mois vous permettant d'obtenir un CQPM, pour devenir Monteur(se)-câbleur(se) en équipements électriques.</p> <p>Accompagné(e) par des professionnels expérimentés, vous développez vos compétences sur le terrain et pourrez, à l'issue de la formation, intégrer nos équipes en CDI.</p> <p>Ce qui vous attend :</p> <p>  - Des parcours de perfectionnement technique pour muscler tes compétences dans notre école interne EFGPI.  <br />  - Des formations réglementaires pour travailler en sécurité et conformité.  <br />  - Une immersion complète au sein de nos équipes SOTEB pour apprendre le métier en conditions réelles.  <br />  Rejoignez une aventure professionnelle concrète, structurante et tournée vers l'avenir ! </p> <p>  Votre énergie a de l'avenir - venez la brancher chez nous ! A la clef, vous pourrez décrocher ton CQPM  <br />  <br /> </p> <p>Les facteurs clés pour réussir ton intégration :</p> <p>Tu es reconnu pour tes qualités organisationnelles, relationnelles, réactivité, rigueur technique. Tu cherches activement à être une personne curieuse, raisonnable et engagée.</p> <p>Tu as la capacité à collaborer efficacement avec de nombreuses parties prenantes.</p> <p>Contexte de travail :</p> <p>  <br />  CDD ou CDI : (à discuter lors de l'entretien). </p> <p>  <br />  Ta rémunération sera composée d'une partie fixe + avantages (compte outillage, primes de déplacements, paniers repas, RTT, CSE, mutuelle, prévoyance) </p> <p>Innovation, passion, Ambition : rejoignez notre groupe dès maintenant</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Electricien industriel (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "L'industrie recrute",
+      "address": "74000 Annecy",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/58275865?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b061b88de83093b496ecf26",
+      "partner_label": "Meteojob",
+      "title": "FORMATION ELECTRICIEN INDUSTRIEL H/F",
+      "description": "<p>SOTEB, filiale du Groupe Gérard Perrier Industrie, est spécialisée dans le génie électrique, l'instrumentation et la maintenance industrielle. Elle conçoit, installe et assure la maintenance d'équipements électriques et de contrôle / commande sur les grands sites industriels.</p> <p>La société créée en 1967 a pu développer à travers le temps une connaissance pointue du marché, de ses contraintes et de ses attentes. Répartie sur 6 agences en Rhône-Alpes-Auvergne et Bourgogne-Franche-Comté, elle compte plus de 600 collaborateurs et intervient auprès d'industriels dans des secteurs variés : énergie, chimie, agroalimentaire, métallurgie, oil&amp;gas...</p> <p>Notre offre de produits et de services, notre organisation et nos hommes sont spécifiquement adaptés et formés aux besoins propres du secteur industriel.</p> <p>Disponibilité, Réactivité, Flexibilité sont nos raisons d'être.</p> <p>Afin d'accompagner le développement de SOTEB, nous vous proposons un parcours de formation en alternance de 12 mois vous permettant d'obtenir un CQPM, pour devenir Monteur(se)-câbleur(se) en équipements électriques.</p> <p>Accompagné(e) par des professionnels expérimentés, vous développez vos compétences sur le terrain et pourrez, à l'issue de la formation, intégrer nos équipes en CDI.</p> <p>Ce qui vous attend :</p> <p>  - Des parcours de perfectionnement technique pour muscler tes compétences dans notre école interne EFGPI.  <br />  - Des formations réglementaires pour travailler en sécurité et conformité.  <br />  - Une immersion complète au sein de nos équipes SOTEB pour apprendre le métier en conditions réelles.  <br />  Rejoignez une aventure professionnelle concrète, structurante et tournée vers l'avenir ! </p> <p>  Votre énergie a de l'avenir - venez la brancher chez nous ! A la clef, vous pourrez décrocher ton CQPM  <br />  <br /> </p> <p>Les facteurs clés pour réussir ton intégration :</p> <p>Tu es reconnu pour tes qualités organisationnelles, relationnelles, réactivité, rigueur technique. Tu cherches activement à être une personne curieuse, raisonnable et engagée.</p> <p>Tu as la capacité à collaborer efficacement avec de nombreuses parties prenantes.</p> <p>Contexte de travail :</p> <p>  <br />  CDD ou CDI : (à discuter lors de l'entretien). </p> <p>  <br />  Ta rémunération sera composée d'une partie fixe + avantages (compte outillage, primes de déplacements, paniers repas, RTT, CSE, mutuelle, prévoyance) </p> <p>Innovation, passion, Ambition : rejoignez notre groupe dès maintenant</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Electricien industriel (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "I1309"
+      ],
+      "created_at": null,
+      "company_name": "L'industrie recrute",
+      "address": "38000 Grenoble",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/58275866?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b061b86de83093b496ece8e",
+      "partner_label": "Meteojob",
+      "title": "Alternant Technicien Service H/F",
+      "description": "<p>  <strong>SETITEC</strong>  s'est engagé dans la conception et la fourniture d'équipements d'assemblage aéronautique, s'imposant comme un pionnier des solutions de perçage avancées pour l'industrie aérospatiale. </p> <p>  Avec une expérience éprouvée dans l'ingénierie de précision,  <strong>SETITEC</strong>  offre une gamme d'outils de haute performance - des systèmes semi-automatiques et électriques à l'automatisation légère - fiables pour les applications les plus exigeantes. Nos solutions offrent la précision et la fiabilité essentielles à l'excellence aérospatiale. </p> <p>Intégré à l'équipe Service, sous la responsabilité du Responsable des Opérations de Service, nous proposons à un étudiant en alternance de participer aux activités de maintenance, de réparation, de retrofit et de support technique sur nos outils SETITEC.</p> <p>Accompagné par les techniciens expérimentés, il découvre progressivement les produits, les méthodes de travail et les différentes activités du département Service, tout en développant ses compétences techniques et son savoir-faire dans le domaine de la maintenance industrielle.</p> <p>L'objectif est de lui permettre d'acquérir progressivement les compétences nécessaires à la réalisation d'opérations techniques, en atelier et ponctuellement chez les clients, dans le cadre de son parcours de formation.</p> <p>Missions principales</p> <p>Participation aux activités de maintenance et de réparation</p> <p>- Découvrir les outils et leurs sous-ensembles mécaniques, électriques et pneumatiques.</p> <p>- Participer à la maintenance préventive et corrective.</p> <p>- Participer au démontage, contrôle, remplacement de composants, remontage et réglage.</p> <p>- Apprendre à identifier les dysfonctionnements et les méthodes de diagnostic.</p> <p>- Participer au retrofit et à la remise à niveau des équipements.</p> <p>- Réaliser, sous supervision, les contrôles fonctionnels et essais des équipements.</p> <p>Découverte du support technique et des interventions clients</p> <p>- Accompagner les techniciens en intervention client.</p> <p>- Préparer le matériel, l'outillage et les pièces nécessaires.</p> <p>- Découvrir les méthodes de diagnostic et de résolution des problèmes clients.</p> <p>- Assister les techniciens dans leurs échanges avec les clients.</p> <p>- S'approprier les bonnes pratiques d'utilisation et les règles de sécurité chez les clients.</p> <p>Documentation technique et suivi des interventions</p> <p>- Participer à la rédaction des rapports d'intervention.</p> <p>- Apprendre à utiliser la documentation technique.</p> <p>- Contribuer à la mise à jour des supports techniques du Service.</p> <p>- Participer au partage des retours d'expérience terrain.</p> <p>Qualité, sécurité et environnement de travail</p> <p>- Appliquer les procédures, consignes de sécurité et exigences qualité et traçabilité en vigueur, en utilisant les EPI adaptés.</p> <p>- Découvrir les méthodes et outils d'amélioration des pratiques de l'équipe.</p> <p>  - Intérêt pour la mécanique, l'électricité et les systèmes industriels et connaissances techniques de base acquises dans le cadre de sa formation.  <br />  - Intérêt pour le fonctionnement des équipements industriels et la recherche de pannes.  <br />  - Capacité à lire et comprendre des plans, schémas et documents techniques.  <br />  - Maîtrise des outils informatiques courants.  <br />  Une première expérience en atelier, en maintenance ou dans un environnement industriel constitue un plus, mais n'est pas indispensable. </p> <p>- Anglais : niveau B1 souhaité et progression au cours de l'alternance, capacité à lire et comprendre une documentation technique en anglais, à échanger dans un contexte professionnel simple.</p> <p>  - Curiosité technique et envie d'apprendre.  <br />  - Rigueur et respect des consignes. </p>\r\n\r\nSecteur: Autres services aux entreprises\r\n\r\nPoste: Technicien de maintenance industrielle (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "rome_codes": [
+        "I1304"
+      ],
+      "created_at": null,
+      "company_name": "UIMM",
+      "address": "77090 Collégien",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://www.meteojob.com/jobs/58267581?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "sector_id": "maintenance_industrielle",
+      "sector_label": "Maintenance industrielle"
+    },
+    {
+      "id": "6b0617f5de83093b496ec62a",
+      "partner_label": "Hellowork",
+      "title": "Gestionnaire de Stock - Magasinier H/F",
+      "description": "Pourquoi nous rejoindre ?\n\nChez Proxiserve, nous cultivons un esprit à taille humaine où la proximité et le travail d'équipe ne sont pas que des mots. Entreprise de service leader dans la solution de l'habitat, nous intervenons aussi bien pour les bailleurs que pour les particuliers sur deux activités clés : la maintenance et les travaux.\n\nRejoindre nos équipes en contrat d'apprentissage, c'est l'opportunité d'apprendre un métier concret sur le terrain, tout en étant accompagné(e) au quotidien par un tuteur engagé pour faire grandir vos compétences.\n\n Vos challenges à nos côtés\n\nAux côtés de votre tuteur, vous apprenez à gérer un stock de pièces détachées et participez aux réapprovisionnements sur notre ERP. Au quotidien, vous montez progressivement en autonomie sur plusieurs missions :\n\n- Réception et contrôle : participer au traitement des réceptions et à la vérification des livraisons de pièces.\n- Préparation et logistique : préparer les commandes des techniciens, assurer le réassort des stocks véhicules et contrôler les retours.\n- Suivi de chantiers : contribuer à l'approvisionnement des chantiers en fonction de l'avancée des travaux, en lien avec le responsable d'exploitation et le planificateur.\n- Gestion et analyse : participer à la réalisation des inventaires annuels ainsi qu'au suivi des indicateurs du magasin.\n- Approvisionnement courant : assister à la gestion des commandes de consommables, d'outillage et d'EPI (équipements de protection individuelle).\n- Support technique : diffuser les documentations techniques auprès des techniciens.\n- Organisation : veiller à la bonne tenue, à la sécurité et au rangement du magasin.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "rome_codes": [
+        "N1303"
+      ],
+      "created_at": null,
+      "company_name": "PROXISERVE",
+      "address": "44220 Couëron",
+      "contract_type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "contract_start": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=HN9mz3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85849741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85849741",
+      "sector_id": "supply_chain",
+      "sector_label": "Supply Chain"
     }
   ]
 }
